@@ -1,0 +1,215 @@
+These are the results of the Bag of Words Encoder. [AS A BONUS FOR THIS ASSIGNMENT] - Means of all the words have been taken to combine all the word vectors.
+
+#-----------------------------------------------------------------------------------------------------------------------#
+2018-10-18 02:58:50,411 : ***** Transfer task : MR *****
+
+
+2018-10-18 02:58:50,415 : Generating sentence embeddings
+2018-10-18 02:58:50,418 : Generated sentence embeddings
+2018-10-18 02:58:50,422 : Training pytorch-MLP-nhid0-rmsprop-bs128 with (inner) 5-fold cross-validation
+2018-10-18 02:58:54,733 : Best param found at split 1: l2reg = 1e-05                 with score 58.67
+2018-10-18 02:58:55,004 : Best param found at split 2: l2reg = 1e-05                 with score 57.58
+2018-10-18 02:58:55,275 : Best param found at split 3: l2reg = 1e-05                 with score 57.58
+2018-10-18 02:58:55,546 : Best param found at split 4: l2reg = 1e-05                 with score 58.33
+2018-10-18 02:58:55,816 : Best param found at split 5: l2reg = 1e-05                 with score 58.33
+2018-10-18 02:58:55,832 : Dev acc : 58.1 Test acc : 58.11
+
+#-----------------------------------------------------------------------------------------------------------------------#
+2018-10-18 02:58:55,835 : ***** Transfer task : CR *****
+
+
+2018-10-18 02:58:55,901 : Generating sentence embeddings
+2018-10-18 02:58:56,033 : Generated sentence embeddings
+2018-10-18 02:58:56,037 : Training pytorch-MLP-nhid0-rmsprop-bs128 with (inner) 5-fold cross-validation
+2018-10-18 02:58:59,921 : Best param found at split 1: l2reg = 1e-05                 with score 63.76
+2018-10-18 02:59:03,992 : Best param found at split 2: l2reg = 1e-05                 with score 63.76
+2018-10-18 02:59:08,066 : Best param found at split 3: l2reg = 1e-05                 with score 63.77
+2018-10-18 02:59:12,146 : Best param found at split 4: l2reg = 1e-05                 with score 63.75
+2018-10-18 02:59:16,233 : Best param found at split 5: l2reg = 1e-05                 with score 63.75
+2018-10-18 02:59:16,465 : Dev acc : 63.76 Test acc : 63.76
+
+#-----------------------------------------------------------------------------------------------------------------------#
+2018-10-18 02:59:16,469 : ***** Transfer task : SUBJ *****
+
+
+2018-10-18 02:59:16,530 : Generating sentence embeddings
+2018-10-18 02:59:16,706 : Generated sentence embeddings
+2018-10-18 02:59:16,709 : Training pytorch-MLP-nhid0-rmsprop-bs128 with (inner) 5-fold cross-validation
+2018-10-18 02:59:21,973 : Best param found at split 1: l2reg = 1e-05                 with score 99.6
+2018-10-18 02:59:27,540 : Best param found at split 2: l2reg = 1e-05                 with score 99.6
+2018-10-18 02:59:33,113 : Best param found at split 3: l2reg = 1e-05                 with score 99.6
+2018-10-18 02:59:38,697 : Best param found at split 4: l2reg = 1e-05                 with score 99.6
+2018-10-18 02:59:44,310 : Best param found at split 5: l2reg = 1e-05                 with score 99.6
+2018-10-18 02:59:44,611 : Dev acc : 99.6 Test acc : 99.6
+
+#-----------------------------------------------------------------------------------------------------------------------#
+2018-10-18 02:59:44,614 : ***** Transfer task : MPQA *****
+
+
+2018-10-18 02:59:44,674 : Generating sentence embeddings
+2018-10-18 02:59:44,947 : Generated sentence embeddings
+2018-10-18 02:59:44,950 : Training pytorch-MLP-nhid0-rmsprop-bs128 with (inner) 5-fold cross-validation
+2018-10-18 02:59:55,783 : Best param found at split 1: l2reg = 1e-05                 with score 68.78
+2018-10-18 03:00:07,218 : Best param found at split 2: l2reg = 1e-05                 with score 68.78
+2018-10-18 03:00:18,671 : Best param found at split 3: l2reg = 1e-05                 with score 68.77
+2018-10-18 03:00:30,133 : Best param found at split 4: l2reg = 1e-05                 with score 68.77
+2018-10-18 03:00:41,603 : Best param found at split 5: l2reg = 1e-05                 with score 68.77
+2018-10-18 03:00:42,225 : Dev acc : 68.77 Test acc : 68.77
+
+#-----------------------------------------------------------------------------------------------------------------------#
+2018-10-18 03:00:42,235 : ***** Transfer task : SST Binary classification *****
+
+
+2018-10-18 03:00:42,658 : Computing embedding for train
+2018-10-18 03:00:44,897 : Computed train embeddings
+2018-10-18 03:00:44,900 : Computing embedding for dev
+2018-10-18 03:00:44,939 : Computed dev embeddings
+2018-10-18 03:00:44,942 : Computing embedding for test
+2018-10-18 03:00:45,006 : Computed test embeddings
+2018-10-18 03:00:45,009 : Training pytorch-MLP-nhid0-rmsprop-bs128 with standard validation..
+2018-10-18 03:01:05,308 : [('reg:1e-05', 50.92), ('reg:0.0001', 50.92), ('reg:0.001', 50.92), ('reg:0.01', 50.92)]
+2018-10-18 03:01:05,311 : Validation : best param found is reg = 1e-05 with score             50.92
+2018-10-18 03:01:05,313 : Evaluating...
+2018-10-18 03:01:10,384 : 
+Dev acc : 50.92 Test acc : 49.92 for             SST Binary classification
+
+#-----------------------------------------------------------------------------------------------------------------------#
+2018-10-18 03:01:10,388 : ***** Transfer task : SST Fine-Grained classification *****
+
+
+2018-10-18 03:01:10,563 : Computing embedding for train
+2018-10-18 03:01:10,855 : Computed train embeddings
+2018-10-18 03:01:10,858 : Computing embedding for dev
+2018-10-18 03:01:10,897 : Computed dev embeddings
+2018-10-18 03:01:10,900 : Computing embedding for test
+2018-10-18 03:01:10,975 : Computed test embeddings
+2018-10-18 03:01:10,977 : Training pytorch-MLP-nhid0-rmsprop-bs128 with standard validation..
+2018-10-18 03:01:13,611 : [('reg:1e-05', 26.25), ('reg:0.0001', 26.25), ('reg:0.001', 26.25), ('reg:0.01', 26.25)]
+2018-10-18 03:01:13,614 : Validation : best param found is reg = 1e-05 with score             26.25
+2018-10-18 03:01:13,616 : Evaluating...
+2018-10-18 03:01:14,278 : 
+Dev acc : 26.25 Test acc : 28.64 for             SST Fine-Grained classification
+
+#-----------------------------------------------------------------------------------------------------------------------#
+2018-10-18 03:01:14,281 : ***** Transfer task : MRPC *****
+
+
+2018-10-18 03:01:14,413 : Computing embedding for train
+2018-10-18 03:01:14,693 : Computed train embeddings
+2018-10-18 03:01:14,696 : Computing embedding for test
+2018-10-18 03:01:14,814 : Computed test embeddings
+2018-10-18 03:01:14,835 : Training pytorch-MLP-nhid0-rmsprop-bs128 with 5-fold cross-validation
+2018-10-18 03:01:20,321 : [('reg:1e-05', 67.54), ('reg:0.0001', 67.54), ('reg:0.001', 67.54), ('reg:0.01', 67.54)]
+2018-10-18 03:01:20,324 : Cross-validation : best param found is reg = 1e-05             with score 67.54
+2018-10-18 03:01:20,326 : Evaluating...
+2018-10-18 03:01:20,660 : Dev acc : 67.54 Test acc 66.49; Test F1 79.87 for MRPC.
+
+#-----------------------------------------------------------------------------------------------------------------------#
+2018-10-18 03:01:20,665 : ***** Transfer task : SICK-Entailment*****
+
+
+2018-10-18 03:01:20,817 : Computing embedding for train
+2018-10-18 03:01:21,079 : Computed train embeddings
+2018-10-18 03:01:21,082 : Computing embedding for dev
+2018-10-18 03:01:21,113 : Computed dev embeddings
+2018-10-18 03:01:21,116 : Computing embedding for test
+2018-10-18 03:01:21,404 : Computed test embeddings
+2018-10-18 03:01:21,447 : Training pytorch-MLP-nhid0-rmsprop-bs128 with standard validation..
+2018-10-18 03:01:22,914 : [('reg:1e-05', 56.4), ('reg:0.0001', 56.4), ('reg:0.001', 56.4), ('reg:0.01', 56.4)]
+2018-10-18 03:01:22,916 : Validation : best param found is reg = 1e-05 with score             56.4
+2018-10-18 03:01:22,919 : Evaluating...
+2018-10-18 03:01:23,298 : 
+Dev acc : 56.4 Test acc : 56.69 for                        SICK entailment
+
+#-----------------------------------------------------------------------------------------------------------------------#
+2018-10-18 03:01:23,305 : ***** Transfer task : SICK-Relatedness*****
+
+
+2018-10-18 03:01:23,357 : Computing embedding for train
+2018-10-18 03:01:23,756 : Computed train embeddings
+2018-10-18 03:01:23,759 : Computing embedding for dev
+2018-10-18 03:01:23,791 : Computed dev embeddings
+2018-10-18 03:01:23,793 : Computing embedding for test
+2018-10-18 03:01:24,085 : Computed test embeddings
+2018-10-18 03:01:43,725 : Dev : Pearson 0
+2018-10-18 03:01:43,728 : Test : Pearson 0 Spearman 0 MSE 1.0178068645228793                        for SICK Relatedness
+
+2018-10-18 03:01:43,734 : 
+
+#-----------------------------------------------------------------------------------------------------------------------#
+***** Transfer task : STSBenchmark*****
+
+
+2018-10-18 03:01:43,880 : Computing embedding for train
+2018-10-18 03:01:44,237 : Computed train embeddings
+2018-10-18 03:01:44,240 : Computing embedding for dev
+2018-10-18 03:01:44,333 : Computed dev embeddings
+2018-10-18 03:01:44,335 : Computing embedding for test
+2018-10-18 03:01:44,421 : Computed test embeddings
+2018-10-18 03:02:09,092 : Dev : Pearson 0
+2018-10-18 03:02:09,095 : Test : Pearson 0 Spearman 0 MSE 2.4952048630823445                        for SICK Relatedness
+
+#-----------------------------------------------------------------------------------------------------------------------#
+2018-10-18 03:02:09,101 : ***** Transfer task : STS12 *****
+
+
+2018-10-18 03:02:09,251 : MSRpar : pearson = nan, spearman = nan
+2018-10-18 03:02:09,357 : MSRvid : pearson = nan, spearman = nan
+2018-10-18 03:02:09,424 : SMTeuroparl : pearson = nan, spearman = nan
+2018-10-18 03:02:09,529 : surprise.OnWN : pearson = nan, spearman = nan
+2018-10-18 03:02:09,588 : surprise.SMTnews : pearson = nan, spearman = nan
+2018-10-18 03:02:09,591 : ALL (weighted average) : Pearson = nan,             Spearman = nan
+2018-10-18 03:02:09,593 : ALL (average) : Pearson = nan,             Spearman = nan
+
+#-----------------------------------------------------------------------------------------------------------------------#
+2018-10-18 03:02:09,595 : ***** Transfer task : STS13 (-SMT) *****
+
+
+2018-10-18 03:02:09,645 : FNWN : pearson = nan, spearman = nan
+2018-10-18 03:02:09,750 : headlines : pearson = nan, spearman = nan
+2018-10-18 03:02:09,832 : OnWN : pearson = nan, spearman = nan
+2018-10-18 03:02:09,834 : ALL (weighted average) : Pearson = nan,             Spearman = nan
+2018-10-18 03:02:09,836 : ALL (average) : Pearson = nan,             Spearman = nan
+
+#-----------------------------------------------------------------------------------------------------------------------#
+2018-10-18 03:02:09,838 : ***** Transfer task : STS14 *****
+
+
+2018-10-18 03:02:09,935 : deft-forum : pearson = nan, spearman = nan
+2018-10-18 03:02:09,983 : deft-news : pearson = nan, spearman = nan
+2018-10-18 03:02:10,089 : headlines : pearson = nan, spearman = nan
+2018-10-18 03:02:10,197 : images : pearson = nan, spearman = nan
+2018-10-18 03:02:10,304 : OnWN : pearson = nan, spearman = nan
+2018-10-18 03:02:10,412 : tweet-news : pearson = nan, spearman = nan
+2018-10-18 03:02:10,415 : ALL (weighted average) : Pearson = nan,             Spearman = nan
+2018-10-18 03:02:10,417 : ALL (average) : Pearson = nan,             Spearman = nan
+
+#-----------------------------------------------------------------------------------------------------------------------#
+2018-10-18 03:02:10,419 : ***** Transfer task : STS15 *****
+
+
+2018-10-18 03:02:10,539 : answers-forums : pearson = nan, spearman = nan
+2018-10-18 03:02:10,646 : answers-students : pearson = nan, spearman = nan
+2018-10-18 03:02:10,703 : belief : pearson = nan, spearman = nan
+2018-10-18 03:02:10,809 : headlines : pearson = nan, spearman = nan
+2018-10-18 03:02:10,915 : images : pearson = nan, spearman = nan
+2018-10-18 03:02:10,918 : ALL (weighted average) : Pearson = nan,             Spearman = nan
+2018-10-18 03:02:10,920 : ALL (average) : Pearson = nan,             Spearman = nan
+
+#-----------------------------------------------------------------------------------------------------------------------#
+2018-10-18 03:02:10,922 : ***** Transfer task : STS16 *****
+
+
+2018-10-18 03:02:11,036 : answer-answer : pearson = nan, spearman = nan
+2018-10-18 03:02:11,073 : headlines : pearson = nan, spearman = nan
+2018-10-18 03:02:11,110 : plagiarism : pearson = nan, spearman = nan
+2018-10-18 03:02:11,151 : postediting : pearson = nan, spearman = nan
+2018-10-18 03:02:11,183 : question-question : pearson = nan, spearman = nan
+2018-10-18 03:02:11,186 : ALL (weighted average) : Pearson = nan,             Spearman = nan
+2018-10-18 03:02:11,188 : ALL (average) : Pearson = nan,             Spearman = nan
+
+#-----------------------------------------------------------------------------------------------------------------------#
+{'MR': {'devacc': 58.1, 'acc': 58.11, 'ndev': 74, 'ntest': 74}, 'CR': {'devacc': 63.76, 'acc': 63.76, 'ndev': 3775, 'ntest': 3775}, 'SUBJ': {'devacc': 99.6, 'acc': 99.6, 'ndev': 5020, 'ntest': 5020}, 'MPQA': {'devacc': 68.77, 'acc': 68.77, 'ndev': 10606, 'ntest': 10606}, 'SST2': {'devacc': 50.92, 'acc': 49.92, 'ndev': 872, 'ntest': 1821}, 'SST5': {'devacc': 26.25, 'acc': 28.64, 'ndev': 1101, 'ntest': 2210}, 'MRPC': {'devacc': 67.54, 'acc': 66.49, 'f1': 79.87, 'ndev': 4076, 'ntest': 1725}, 'SICKEntailment': {'devacc': 56.4, 'acc': 56.69, 'ndev': 500, 'ntest': 4927}, 'SICKRelatedness': {'devpearson': 0, 'pearson': 0, 'spearman': 0, 'mse': 1.0178068645228793, 'yhat': array([3.51593995, 3.51593995, 3.51593995, ..., 3.51593995, 3.51593995,
+       3.51593995]), 'ndev': 500, 'ntest': 4927}, 'STSBenchmark': {'devpearson': 0, 'pearson': 0, 'spearman': 0, 'mse': 2.4952048630823445, 'yhat': array([3.01985016, 3.01985016, 3.01985016, ..., 3.01985016, 3.01985016,
+       3.01985016]), 'ndev': 1500, 'ntest': 1379}, 'STS12': {'MSRpar': {'pearson': (nan, 1.0), 'spearman': SpearmanrResult(correlation=nan, pvalue=nan), 'nsamples': 750}, 'MSRvid': {'pearson': (nan, 1.0), 'spearman': SpearmanrResult(correlation=nan, pvalue=nan), 'nsamples': 750}, 'SMTeuroparl': {'pearson': (nan, 1.0), 'spearman': SpearmanrResult(correlation=nan, pvalue=nan), 'nsamples': 459}, 'surprise.OnWN': {'pearson': (nan, 1.0), 'spearman': SpearmanrResult(correlation=nan, pvalue=nan), 'nsamples': 750}, 'surprise.SMTnews': {'pearson': (nan, 1.0), 'spearman': SpearmanrResult(correlation=nan, pvalue=nan), 'nsamples': 399}, 'all': {'pearson': {'mean': nan, 'wmean': nan}, 'spearman': {'mean': nan, 'wmean': nan}}}, 'STS13': {'FNWN': {'pearson': (nan, 1.0), 'spearman': SpearmanrResult(correlation=nan, pvalue=nan), 'nsamples': 189}, 'headlines': {'pearson': (nan, 1.0), 'spearman': SpearmanrResult(correlation=nan, pvalue=nan), 'nsamples': 750}, 'OnWN': {'pearson': (nan, 1.0), 'spearman': SpearmanrResult(correlation=nan, pvalue=nan), 'nsamples': 561}, 'all': {'pearson': {'mean': nan, 'wmean': nan}, 'spearman': {'mean': nan, 'wmean': nan}}}, 'STS14': {'deft-forum': {'pearson': (nan, 1.0), 'spearman': SpearmanrResult(correlation=nan, pvalue=nan), 'nsamples': 450}, 'deft-news': {'pearson': (nan, 1.0), 'spearman': SpearmanrResult(correlation=nan, pvalue=nan), 'nsamples': 300}, 'headlines': {'pearson': (nan, 1.0), 'spearman': SpearmanrResult(correlation=nan, pvalue=nan), 'nsamples': 750}, 'images': {'pearson': (nan, 1.0), 'spearman': SpearmanrResult(correlation=nan, pvalue=nan), 'nsamples': 750}, 'OnWN': {'pearson': (nan, 1.0), 'spearman': SpearmanrResult(correlation=nan, pvalue=nan), 'nsamples': 750}, 'tweet-news': {'pearson': (nan, 1.0), 'spearman': SpearmanrResult(correlation=nan, pvalue=nan), 'nsamples': 750}, 'all': {'pearson': {'mean': nan, 'wmean': nan}, 'spearman': {'mean': nan, 'wmean': nan}}}, 'STS15': {'answers-forums': {'pearson': (nan, 1.0), 'spearman': SpearmanrResult(correlation=nan, pvalue=nan), 'nsamples': 375}, 'answers-students': {'pearson': (nan, 1.0), 'spearman': SpearmanrResult(correlation=nan, pvalue=nan), 'nsamples': 750}, 'belief': {'pearson': (nan, 1.0), 'spearman': SpearmanrResult(correlation=nan, pvalue=nan), 'nsamples': 375}, 'headlines': {'pearson': (nan, 1.0), 'spearman': SpearmanrResult(correlation=nan, pvalue=nan), 'nsamples': 750}, 'images': {'pearson': (nan, 1.0), 'spearman': SpearmanrResult(correlation=nan, pvalue=nan), 'nsamples': 750}, 'all': {'pearson': {'mean': nan, 'wmean': nan}, 'spearman': {'mean': nan, 'wmean': nan}}}, 'STS16': {'answer-answer': {'pearson': (nan, 1.0), 'spearman': SpearmanrResult(correlation=nan, pvalue=nan), 'nsamples': 254}, 'headlines': {'pearson': (nan, 1.0), 'spearman': SpearmanrResult(correlation=nan, pvalue=nan), 'nsamples': 249}, 'plagiarism': {'pearson': (nan, 1.0), 'spearman': SpearmanrResult(correlation=nan, pvalue=nan), 'nsamples': 230}, 'postediting': {'pearson': (nan, 1.0), 'spearman': SpearmanrResult(correlation=nan, pvalue=nan), 'nsamples': 244}, 'question-question': {'pearson': (nan, 1.0), 'spearman': SpearmanrResult(correlation=nan, pvalue=nan), 'nsamples': 209}, 'all': {'pearson': {'mean': nan, 'wmean': nan}, 'spearman': {'mean': nan, 'wmean': nan}}}}
+#-----------------------------------------------------------------------------------------------------------------------#

@@ -1,0 +1,2328 @@
+
+INFO:tensorflow:Wed Oct 17 04:16:02 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 04:16:12 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 04:16:21 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 04:16:30 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 04:16:39 2018: Start :Valid ppl: 1.0412936210632324
+INFO:tensorflow:Wed Oct 17 04:17:14 2018: Epoch: 0 Step: 10 Avg Loss: 8.350624084472656
+INFO:tensorflow:Wed Oct 17 04:17:20 2018: Epoch: 0 Step: 20 Avg Loss: 7.662608623504639
+INFO:tensorflow:Wed Oct 17 04:17:25 2018: Epoch: 0 Step: 30 Avg Loss: 8.390114784240723
+INFO:tensorflow:Wed Oct 17 04:17:31 2018: Epoch: 0 Step: 40 Avg Loss: 7.623768329620361
+INFO:tensorflow:Wed Oct 17 04:17:37 2018: Epoch: 0 Step: 50 Avg Loss: 8.068216323852539
+INFO:tensorflow:Wed Oct 17 04:17:41 2018: Epoch: 0 Step: 60 Avg Loss: 7.548892498016357
+INFO:tensorflow:Wed Oct 17 04:17:47 2018: Epoch: 0 Step: 70 Avg Loss: 8.039138793945312
+INFO:tensorflow:Wed Oct 17 04:17:52 2018: Epoch: 0 Step: 80 Avg Loss: 7.40136194229126
+INFO:tensorflow:Wed Oct 17 04:17:57 2018: Epoch: 0 Step: 90 Avg Loss: 6.982461452484131
+INFO:tensorflow:Wed Oct 17 04:18:03 2018: Epoch: 0 Step: 100 Avg Loss: 7.578779220581055
+INFO:tensorflow:Wed Oct 17 04:18:04 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 04:18:13 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 04:18:23 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 04:18:32 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 04:18:42 2018: Epoch: 0 Step: 100 ppl improved: 1.0343173742294312 old: 1.0412936210632324 Model saved: ./encoder_nmt/ckpt-1
+INFO:tensorflow:Wed Oct 17 04:18:47 2018: Epoch: 0 Step: 110 Avg Loss: 7.203137397766113
+INFO:tensorflow:Wed Oct 17 04:18:52 2018: Epoch: 0 Step: 120 Avg Loss: 7.189977169036865
+INFO:tensorflow:Wed Oct 17 04:18:59 2018: Epoch: 0 Step: 130 Avg Loss: 6.974512100219727
+INFO:tensorflow:Wed Oct 17 04:19:04 2018: Epoch: 0 Step: 140 Avg Loss: 6.367673873901367
+INFO:tensorflow:Wed Oct 17 04:19:09 2018: Epoch: 0 Step: 150 Avg Loss: 6.614323616027832
+INFO:tensorflow:Wed Oct 17 04:19:16 2018: Epoch: 0 Step: 160 Avg Loss: 6.392148017883301
+INFO:tensorflow:Wed Oct 17 04:19:20 2018: Epoch: 0 Step: 170 Avg Loss: 6.647927761077881
+INFO:tensorflow:Wed Oct 17 04:19:26 2018: Epoch: 0 Step: 180 Avg Loss: 6.930902004241943
+INFO:tensorflow:Wed Oct 17 04:19:31 2018: Epoch: 0 Step: 190 Avg Loss: 6.581369400024414
+INFO:tensorflow:Wed Oct 17 04:19:37 2018: Epoch: 0 Step: 200 Avg Loss: 7.259407043457031
+INFO:tensorflow:Wed Oct 17 04:19:37 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 04:19:46 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 04:19:56 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 04:20:06 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 04:20:16 2018: Epoch: 0 Step: 200 ppl improved: 1.0272226333618164 old: 1.0343173742294312 Model saved: ./encoder_nmt/ckpt-2
+INFO:tensorflow:Wed Oct 17 04:20:21 2018: Epoch: 0 Step: 210 Avg Loss: 6.439980983734131
+INFO:tensorflow:Wed Oct 17 04:20:27 2018: Epoch: 0 Step: 220 Avg Loss: 6.957852840423584
+INFO:tensorflow:Wed Oct 17 04:20:31 2018: Epoch: 0 Step: 230 Avg Loss: 6.851974964141846
+INFO:tensorflow:Wed Oct 17 04:20:37 2018: Epoch: 0 Step: 240 Avg Loss: 6.867082118988037
+INFO:tensorflow:Wed Oct 17 04:20:41 2018: Epoch: 0 Step: 250 Avg Loss: 6.74997615814209
+INFO:tensorflow:Wed Oct 17 04:20:47 2018: Epoch: 0 Step: 260 Avg Loss: 6.599089622497559
+INFO:tensorflow:Wed Oct 17 04:20:54 2018: Epoch: 0 Step: 270 Avg Loss: 6.760324478149414
+INFO:tensorflow:Wed Oct 17 04:20:59 2018: Epoch: 0 Step: 280 Avg Loss: 6.6198039054870605
+INFO:tensorflow:Wed Oct 17 04:21:05 2018: Epoch: 0 Step: 290 Avg Loss: 6.285614013671875
+INFO:tensorflow:Wed Oct 17 04:21:10 2018: Epoch: 0 Step: 300 Avg Loss: 6.332833290100098
+INFO:tensorflow:Wed Oct 17 04:21:10 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 04:21:20 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 04:21:30 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 04:21:39 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 04:21:48 2018: Epoch: 0 Step: 300 ppl worse: 1.0340964794158936 old: 1.0272226333618164
+INFO:tensorflow:Wed Oct 17 04:21:54 2018: Epoch: 0 Step: 310 Avg Loss: 6.345655918121338
+INFO:tensorflow:Wed Oct 17 04:21:59 2018: Epoch: 0 Step: 320 Avg Loss: 6.574413776397705
+INFO:tensorflow:Wed Oct 17 04:22:05 2018: Epoch: 0 Step: 330 Avg Loss: 6.7689290046691895
+INFO:tensorflow:Wed Oct 17 04:22:10 2018: Epoch: 0 Step: 340 Avg Loss: 6.526914596557617
+INFO:tensorflow:Wed Oct 17 04:22:15 2018: Epoch: 0 Step: 350 Avg Loss: 6.539326190948486
+INFO:tensorflow:Wed Oct 17 04:22:21 2018: Epoch: 0 Step: 360 Avg Loss: 6.526319980621338
+INFO:tensorflow:Wed Oct 17 04:22:26 2018: Epoch: 0 Step: 370 Avg Loss: 6.477361679077148
+INFO:tensorflow:Wed Oct 17 04:22:32 2018: Epoch: 0 Step: 380 Avg Loss: 6.243206977844238
+INFO:tensorflow:Wed Oct 17 04:22:37 2018: Epoch: 0 Step: 390 Avg Loss: 6.202845096588135
+INFO:tensorflow:Wed Oct 17 04:22:42 2018: Epoch: 0 Step: 400 Avg Loss: 6.247955799102783
+INFO:tensorflow:Wed Oct 17 04:22:43 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 04:22:52 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 04:23:02 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 04:23:11 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 04:23:21 2018: Epoch: 0 Step: 400 ppl improved: 1.026968240737915 old: 1.0272226333618164 Model saved: ./encoder_nmt/ckpt-3
+INFO:tensorflow:Wed Oct 17 04:23:26 2018: Epoch: 0 Step: 410 Avg Loss: 6.023715019226074
+INFO:tensorflow:Wed Oct 17 04:23:32 2018: Epoch: 0 Step: 420 Avg Loss: 6.125558376312256
+INFO:tensorflow:Wed Oct 17 04:23:37 2018: Epoch: 0 Step: 430 Avg Loss: 6.707753658294678
+INFO:tensorflow:Wed Oct 17 04:23:42 2018: Epoch: 0 Step: 440 Avg Loss: 6.172733783721924
+INFO:tensorflow:Wed Oct 17 04:23:48 2018: Epoch: 0 Step: 450 Avg Loss: 6.4728922843933105
+INFO:tensorflow:Wed Oct 17 04:23:54 2018: Epoch: 0 Step: 460 Avg Loss: 6.394689559936523
+INFO:tensorflow:Wed Oct 17 04:24:00 2018: Epoch: 0 Step: 470 Avg Loss: 6.488229274749756
+INFO:tensorflow:Wed Oct 17 04:24:05 2018: Epoch: 0 Step: 480 Avg Loss: 6.440132141113281
+INFO:tensorflow:Wed Oct 17 04:24:11 2018: Epoch: 0 Step: 490 Avg Loss: 5.983581066131592
+INFO:tensorflow:Wed Oct 17 04:24:16 2018: Epoch: 0 Step: 500 Avg Loss: 6.175783634185791
+INFO:tensorflow:Wed Oct 17 04:24:17 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 04:24:26 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 04:24:36 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 04:24:46 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 04:24:55 2018: Epoch: 0 Step: 500 ppl worse: 1.033666968345642 old: 1.026968240737915
+INFO:tensorflow:Wed Oct 17 04:25:00 2018: Epoch: 0 Step: 510 Avg Loss: 6.104210376739502
+INFO:tensorflow:Wed Oct 17 04:25:05 2018: Epoch: 0 Step: 520 Avg Loss: 6.26124906539917
+INFO:tensorflow:Wed Oct 17 04:25:11 2018: Epoch: 0 Step: 530 Avg Loss: 5.605080604553223
+INFO:tensorflow:Wed Oct 17 04:25:15 2018: Epoch: 0 Step: 540 Avg Loss: 6.395656585693359
+INFO:tensorflow:Wed Oct 17 04:25:20 2018: Epoch: 0 Step: 550 Avg Loss: 5.983792304992676
+INFO:tensorflow:Wed Oct 17 04:25:25 2018: Epoch: 0 Step: 560 Avg Loss: 5.68917989730835
+INFO:tensorflow:Wed Oct 17 04:25:30 2018: Epoch: 0 Step: 570 Avg Loss: 6.116989612579346
+INFO:tensorflow:Wed Oct 17 04:25:37 2018: Epoch: 0 Step: 580 Avg Loss: 5.747663974761963
+INFO:tensorflow:Wed Oct 17 04:25:42 2018: Epoch: 0 Step: 590 Avg Loss: 6.28807258605957
+INFO:tensorflow:Wed Oct 17 04:25:47 2018: Epoch: 0 Step: 600 Avg Loss: 5.985621929168701
+INFO:tensorflow:Wed Oct 17 04:25:48 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 04:25:58 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 04:26:07 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 04:26:17 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 04:26:26 2018: Epoch: 0 Step: 600 ppl worse: 1.0349984169006348 old: 1.026968240737915
+INFO:tensorflow:Wed Oct 17 04:26:31 2018: Epoch: 0 Step: 610 Avg Loss: 5.858513355255127
+INFO:tensorflow:Wed Oct 17 04:26:36 2018: Epoch: 0 Step: 620 Avg Loss: 6.413931369781494
+INFO:tensorflow:Wed Oct 17 04:26:42 2018: Epoch: 0 Step: 630 Avg Loss: 6.590998649597168
+INFO:tensorflow:Wed Oct 17 04:26:47 2018: Epoch: 0 Step: 640 Avg Loss: 6.283802032470703
+INFO:tensorflow:Wed Oct 17 04:26:53 2018: Epoch: 0 Step: 650 Avg Loss: 6.049081325531006
+INFO:tensorflow:Wed Oct 17 04:26:58 2018: Epoch: 0 Step: 660 Avg Loss: 5.725660800933838
+INFO:tensorflow:Wed Oct 17 04:27:04 2018: Epoch: 0 Step: 670 Avg Loss: 5.898566246032715
+INFO:tensorflow:Wed Oct 17 04:27:10 2018: Epoch: 0 Step: 680 Avg Loss: 5.953991413116455
+INFO:tensorflow:Wed Oct 17 04:27:15 2018: Epoch: 0 Step: 690 Avg Loss: 5.689303398132324
+INFO:tensorflow:Wed Oct 17 04:27:20 2018: Epoch: 0 Step: 700 Avg Loss: 5.347607612609863
+INFO:tensorflow:Wed Oct 17 04:27:20 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 04:27:30 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 04:27:39 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 04:27:49 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 04:27:58 2018: Epoch: 0 Step: 700 ppl worse: 1.0296812057495117 old: 1.026968240737915
+INFO:tensorflow:Wed Oct 17 04:28:04 2018: Epoch: 0 Step: 710 Avg Loss: 6.8712592124938965
+INFO:tensorflow:Wed Oct 17 04:28:10 2018: Epoch: 0 Step: 720 Avg Loss: 5.665683269500732
+INFO:tensorflow:Wed Oct 17 04:28:15 2018: Epoch: 0 Step: 730 Avg Loss: 5.956489562988281
+INFO:tensorflow:Wed Oct 17 04:28:21 2018: Epoch: 0 Step: 740 Avg Loss: 5.710184574127197
+INFO:tensorflow:Wed Oct 17 04:28:26 2018: Epoch: 0 Step: 750 Avg Loss: 6.240697860717773
+INFO:tensorflow:Wed Oct 17 04:28:31 2018: Epoch: 0 Step: 760 Avg Loss: 5.538479804992676
+INFO:tensorflow:Wed Oct 17 04:28:36 2018: Epoch: 0 Step: 770 Avg Loss: 6.216410160064697
+INFO:tensorflow:Wed Oct 17 04:28:42 2018: Epoch: 0 Step: 780 Avg Loss: 6.030884742736816
+INFO:tensorflow:Wed Oct 17 04:28:47 2018: Epoch: 0 Step: 790 Avg Loss: 5.671674728393555
+INFO:tensorflow:Wed Oct 17 04:28:52 2018: Epoch: 0 Step: 800 Avg Loss: 6.109344482421875
+INFO:tensorflow:Wed Oct 17 04:28:52 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 04:29:02 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 04:29:11 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 04:29:21 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 04:29:30 2018: Epoch: 0 Step: 800 ppl worse: 1.0292092561721802 old: 1.026968240737915
+INFO:tensorflow:Wed Oct 17 04:29:36 2018: Epoch: 0 Step: 810 Avg Loss: 6.385709285736084
+INFO:tensorflow:Wed Oct 17 04:29:41 2018: Epoch: 0 Step: 820 Avg Loss: 5.8485236167907715
+INFO:tensorflow:Wed Oct 17 04:29:46 2018: Epoch: 0 Step: 830 Avg Loss: 6.026465892791748
+INFO:tensorflow:Wed Oct 17 04:29:52 2018: Epoch: 0 Step: 840 Avg Loss: 5.806723594665527
+INFO:tensorflow:Wed Oct 17 04:29:58 2018: Epoch: 0 Step: 850 Avg Loss: 6.2734575271606445
+INFO:tensorflow:Wed Oct 17 04:30:03 2018: Epoch: 0 Step: 860 Avg Loss: 5.9570112228393555
+INFO:tensorflow:Wed Oct 17 04:30:08 2018: Epoch: 0 Step: 870 Avg Loss: 6.257659912109375
+INFO:tensorflow:Wed Oct 17 04:30:14 2018: Epoch: 0 Step: 880 Avg Loss: 5.906234264373779
+INFO:tensorflow:Wed Oct 17 04:30:20 2018: Epoch: 0 Step: 890 Avg Loss: 5.531513214111328
+INFO:tensorflow:Wed Oct 17 04:30:25 2018: Epoch: 0 Step: 900 Avg Loss: 5.479752540588379
+INFO:tensorflow:Wed Oct 17 04:30:26 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 04:30:35 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 04:30:45 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 04:30:55 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 04:31:03 2018: Epoch: 0 Step: 900 ppl worse: 1.0287078619003296 old: 1.026968240737915
+INFO:tensorflow:Wed Oct 17 04:31:09 2018: Epoch: 0 Step: 910 Avg Loss: 5.890255451202393
+INFO:tensorflow:Wed Oct 17 04:31:15 2018: Epoch: 0 Step: 920 Avg Loss: 5.625360488891602
+INFO:tensorflow:Wed Oct 17 04:31:21 2018: Epoch: 0 Step: 930 Avg Loss: 6.218843460083008
+INFO:tensorflow:Wed Oct 17 04:31:26 2018: Epoch: 0 Step: 940 Avg Loss: 5.567227363586426
+INFO:tensorflow:Wed Oct 17 04:31:32 2018: Epoch: 0 Step: 950 Avg Loss: 6.188466548919678
+INFO:tensorflow:Wed Oct 17 04:31:37 2018: Epoch: 0 Step: 960 Avg Loss: 5.722445964813232
+INFO:tensorflow:Wed Oct 17 04:31:43 2018: Epoch: 0 Step: 970 Avg Loss: 5.79533052444458
+INFO:tensorflow:Wed Oct 17 04:31:48 2018: Epoch: 0 Step: 980 Avg Loss: 5.743594169616699
+INFO:tensorflow:Wed Oct 17 04:31:53 2018: Epoch: 0 Step: 990 Avg Loss: 5.52037239074707
+INFO:tensorflow:Wed Oct 17 04:31:58 2018: Epoch: 0 Step: 1000 Avg Loss: 5.847774028778076
+INFO:tensorflow:Wed Oct 17 04:31:59 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 04:32:08 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 04:32:18 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 04:32:28 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 04:32:37 2018: Epoch: 0 Step: 1000 ppl worse: 1.0323445796966553 old: 1.026968240737915
+INFO:tensorflow:Wed Oct 17 04:32:42 2018: Epoch: 0 Step: 1010 Avg Loss: 6.076638221740723
+INFO:tensorflow:Wed Oct 17 04:32:47 2018: Epoch: 0 Step: 1020 Avg Loss: 5.839004039764404
+INFO:tensorflow:Wed Oct 17 04:32:53 2018: Epoch: 0 Step: 1030 Avg Loss: 5.832756996154785
+INFO:tensorflow:Wed Oct 17 04:32:59 2018: Epoch: 0 Step: 1040 Avg Loss: 5.793360233306885
+INFO:tensorflow:Wed Oct 17 04:33:04 2018: Epoch: 0 Step: 1050 Avg Loss: 5.265824317932129
+INFO:tensorflow:Wed Oct 17 04:33:09 2018: Epoch: 0 Step: 1060 Avg Loss: 6.3875346183776855
+INFO:tensorflow:Wed Oct 17 04:33:13 2018: Epoch: 0 Step: 1070 Avg Loss: 5.65049409866333
+INFO:tensorflow:Wed Oct 17 04:33:19 2018: Epoch: 0 Step: 1080 Avg Loss: 6.078919887542725
+INFO:tensorflow:Wed Oct 17 04:33:24 2018: Epoch: 0 Step: 1090 Avg Loss: 5.30565071105957
+INFO:tensorflow:Wed Oct 17 04:33:30 2018: Epoch: 0 Step: 1100 Avg Loss: 5.854445457458496
+INFO:tensorflow:Wed Oct 17 04:33:31 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 04:33:40 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 04:33:49 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 04:33:59 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 04:34:09 2018: Epoch: 0 Step: 1100 ppl worse: 1.0387171506881714 old: 1.026968240737915
+INFO:tensorflow:Wed Oct 17 04:34:14 2018: Epoch: 0 Step: 1110 Avg Loss: 5.589897155761719
+INFO:tensorflow:Wed Oct 17 04:34:19 2018: Epoch: 0 Step: 1120 Avg Loss: 5.5797648429870605
+INFO:tensorflow:Wed Oct 17 04:34:25 2018: Epoch: 0 Step: 1130 Avg Loss: 5.8890910148620605
+INFO:tensorflow:Wed Oct 17 04:34:31 2018: Epoch: 0 Step: 1140 Avg Loss: 6.0382585525512695
+INFO:tensorflow:Wed Oct 17 04:34:36 2018: Epoch: 0 Step: 1150 Avg Loss: 5.917311668395996
+INFO:tensorflow:Wed Oct 17 04:34:41 2018: Epoch: 0 Step: 1160 Avg Loss: 5.141371250152588
+INFO:tensorflow:Wed Oct 17 04:34:46 2018: Epoch: 0 Step: 1170 Avg Loss: 5.541007995605469
+INFO:tensorflow:Wed Oct 17 04:34:51 2018: Epoch: 0 Step: 1180 Avg Loss: 5.968151569366455
+INFO:tensorflow:Wed Oct 17 04:34:57 2018: Epoch: 0 Step: 1190 Avg Loss: 5.481479644775391
+INFO:tensorflow:Wed Oct 17 04:35:01 2018: Epoch: 0 Step: 1200 Avg Loss: 5.670220375061035
+INFO:tensorflow:Wed Oct 17 04:35:02 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 04:35:11 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 04:35:21 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 04:35:30 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 04:35:40 2018: Epoch: 0 Step: 1200 ppl worse: 1.037055492401123 old: 1.026968240737915
+INFO:tensorflow:Wed Oct 17 04:35:45 2018: Epoch: 0 Step: 1210 Avg Loss: 5.707736492156982
+INFO:tensorflow:Wed Oct 17 04:35:51 2018: Epoch: 0 Step: 1220 Avg Loss: 5.774191856384277
+INFO:tensorflow:Wed Oct 17 04:35:56 2018: Epoch: 0 Step: 1230 Avg Loss: 5.603274345397949
+INFO:tensorflow:Wed Oct 17 04:36:02 2018: Epoch: 0 Step: 1240 Avg Loss: 5.709123134613037
+INFO:tensorflow:Wed Oct 17 04:36:07 2018: Epoch: 0 Step: 1250 Avg Loss: 4.837996482849121
+INFO:tensorflow:Wed Oct 17 04:36:12 2018: Epoch: 0 Step: 1260 Avg Loss: 5.478376865386963
+INFO:tensorflow:Wed Oct 17 04:36:17 2018: Epoch: 0 Step: 1270 Avg Loss: 6.250570297241211
+INFO:tensorflow:Wed Oct 17 04:36:22 2018: Epoch: 0 Step: 1280 Avg Loss: 5.3115153312683105
+INFO:tensorflow:Wed Oct 17 04:36:27 2018: Epoch: 0 Step: 1290 Avg Loss: 6.078776836395264
+INFO:tensorflow:Wed Oct 17 04:36:32 2018: Epoch: 0 Step: 1300 Avg Loss: 6.020943641662598
+INFO:tensorflow:Wed Oct 17 04:36:33 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 04:36:42 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 04:36:51 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 04:37:01 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 04:37:11 2018: Epoch: 0 Step: 1300 ppl worse: 1.0282565355300903 old: 1.026968240737915
+INFO:tensorflow:Wed Oct 17 04:37:16 2018: Epoch: 0 Step: 1310 Avg Loss: 6.31080961227417
+INFO:tensorflow:Wed Oct 17 04:37:21 2018: Epoch: 0 Step: 1320 Avg Loss: 5.554370880126953
+INFO:tensorflow:Wed Oct 17 04:37:28 2018: Epoch: 0 Step: 1330 Avg Loss: 5.682089805603027
+INFO:tensorflow:Wed Oct 17 04:37:32 2018: Epoch: 0 Step: 1340 Avg Loss: 5.391195297241211
+INFO:tensorflow:Wed Oct 17 04:37:38 2018: Epoch: 0 Step: 1350 Avg Loss: 5.845147609710693
+INFO:tensorflow:Wed Oct 17 04:37:44 2018: Epoch: 0 Step: 1360 Avg Loss: 5.5314812660217285
+INFO:tensorflow:Wed Oct 17 04:37:49 2018: Epoch: 0 Step: 1370 Avg Loss: 5.58294677734375
+INFO:tensorflow:Wed Oct 17 04:37:55 2018: Epoch: 0 Step: 1380 Avg Loss: 5.363691329956055
+INFO:tensorflow:Wed Oct 17 04:38:01 2018: Epoch: 0 Step: 1390 Avg Loss: 5.723334789276123
+INFO:tensorflow:Wed Oct 17 04:38:06 2018: Epoch: 0 Step: 1400 Avg Loss: 5.954209327697754
+INFO:tensorflow:Wed Oct 17 04:38:06 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 04:38:16 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 04:38:26 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 04:38:35 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 04:38:44 2018: Epoch: 0 Step: 1400 ppl worse: 1.027925729751587 old: 1.026968240737915
+INFO:tensorflow:Wed Oct 17 04:38:49 2018: Epoch: 0 Step: 1410 Avg Loss: 5.337337493896484
+INFO:tensorflow:Wed Oct 17 04:38:54 2018: Epoch: 0 Step: 1420 Avg Loss: 5.906553268432617
+INFO:tensorflow:Wed Oct 17 04:39:00 2018: Epoch: 0 Step: 1430 Avg Loss: 5.401294231414795
+INFO:tensorflow:Wed Oct 17 04:39:05 2018: Epoch: 0 Step: 1440 Avg Loss: 5.026528358459473
+INFO:tensorflow:Wed Oct 17 04:39:10 2018: Epoch: 0 Step: 1450 Avg Loss: 5.56475830078125
+INFO:tensorflow:Wed Oct 17 04:39:16 2018: Epoch: 0 Step: 1460 Avg Loss: 5.661489009857178
+INFO:tensorflow:Wed Oct 17 04:39:21 2018: Epoch: 0 Step: 1470 Avg Loss: 5.498269557952881
+INFO:tensorflow:Wed Oct 17 04:39:27 2018: Epoch: 0 Step: 1480 Avg Loss: 5.502243518829346
+INFO:tensorflow:Wed Oct 17 04:39:32 2018: Epoch: 0 Step: 1490 Avg Loss: 5.774820327758789
+INFO:tensorflow:Wed Oct 17 04:39:37 2018: Epoch: 0 Step: 1500 Avg Loss: 5.850235462188721
+INFO:tensorflow:Wed Oct 17 04:39:38 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 04:39:47 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 04:39:56 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 04:40:06 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 04:40:16 2018: Epoch: 0 Step: 1500 ppl worse: 1.0301942825317383 old: 1.026968240737915
+INFO:tensorflow:Wed Oct 17 04:40:21 2018: Epoch: 0 Step: 1510 Avg Loss: 5.992688179016113
+INFO:tensorflow:Wed Oct 17 04:40:26 2018: Epoch: 0 Step: 1520 Avg Loss: 5.859208583831787
+INFO:tensorflow:Wed Oct 17 04:40:32 2018: Epoch: 0 Step: 1530 Avg Loss: 5.663312911987305
+INFO:tensorflow:Wed Oct 17 04:40:37 2018: Epoch: 0 Step: 1540 Avg Loss: 5.843337059020996
+INFO:tensorflow:Wed Oct 17 04:40:42 2018: Epoch: 0 Step: 1550 Avg Loss: 5.504591464996338
+INFO:tensorflow:Wed Oct 17 04:40:47 2018: Epoch: 0 Step: 1560 Avg Loss: 5.566322326660156
+INFO:tensorflow:Wed Oct 17 04:40:52 2018: Epoch: 0 Step: 1570 Avg Loss: 5.046140670776367
+INFO:tensorflow:Wed Oct 17 04:40:57 2018: Epoch: 0 Step: 1580 Avg Loss: 5.651047229766846
+INFO:tensorflow:Wed Oct 17 04:41:03 2018: Epoch: 0 Step: 1590 Avg Loss: 5.712153911590576
+INFO:tensorflow:Wed Oct 17 04:41:08 2018: Epoch: 0 Step: 1600 Avg Loss: 6.134853839874268
+INFO:tensorflow:Wed Oct 17 04:41:08 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 04:41:18 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 04:41:28 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 04:41:37 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 04:41:46 2018: Epoch: 0 Step: 1600 ppl worse: 1.0324995517730713 old: 1.026968240737915
+INFO:tensorflow:Wed Oct 17 04:41:51 2018: Epoch: 0 Step: 1610 Avg Loss: 5.871725082397461
+INFO:tensorflow:Wed Oct 17 04:41:56 2018: Epoch: 0 Step: 1620 Avg Loss: 4.940881252288818
+INFO:tensorflow:Wed Oct 17 04:42:01 2018: Epoch: 0 Step: 1630 Avg Loss: 5.285926818847656
+INFO:tensorflow:Wed Oct 17 04:42:06 2018: Epoch: 0 Step: 1640 Avg Loss: 5.506023406982422
+INFO:tensorflow:Wed Oct 17 04:42:12 2018: Epoch: 0 Step: 1650 Avg Loss: 5.785553455352783
+INFO:tensorflow:Wed Oct 17 04:42:17 2018: Epoch: 0 Step: 1660 Avg Loss: 5.822813987731934
+INFO:tensorflow:Wed Oct 17 04:42:23 2018: Epoch: 0 Step: 1670 Avg Loss: 5.687254428863525
+INFO:tensorflow:Wed Oct 17 04:42:28 2018: Epoch: 0 Step: 1680 Avg Loss: 5.979290962219238
+INFO:tensorflow:Wed Oct 17 04:42:33 2018: Epoch: 0 Step: 1690 Avg Loss: 5.274379253387451
+INFO:tensorflow:Wed Oct 17 04:42:39 2018: Epoch: 0 Step: 1700 Avg Loss: 5.895440578460693
+INFO:tensorflow:Wed Oct 17 04:42:40 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 04:42:49 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 04:42:59 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 04:43:08 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 04:43:17 2018: Epoch: 0 Step: 1700 ppl improved: 1.0244892835617065 old: 1.026968240737915 Model saved: ./encoder_nmt/ckpt-4
+INFO:tensorflow:Wed Oct 17 04:43:22 2018: Epoch: 0 Step: 1710 Avg Loss: 4.93626070022583
+INFO:tensorflow:Wed Oct 17 04:43:27 2018: Epoch: 0 Step: 1720 Avg Loss: 5.851659297943115
+INFO:tensorflow:Wed Oct 17 04:43:35 2018: Epoch: 0 Step: 1730 Avg Loss: 5.420288562774658
+INFO:tensorflow:Wed Oct 17 04:43:39 2018: Epoch: 0 Step: 1740 Avg Loss: 5.453123569488525
+INFO:tensorflow:Wed Oct 17 04:43:45 2018: Epoch: 0 Step: 1750 Avg Loss: 5.400481224060059
+INFO:tensorflow:Wed Oct 17 04:43:50 2018: Epoch: 0 Step: 1760 Avg Loss: 5.586561679840088
+INFO:tensorflow:Wed Oct 17 04:43:55 2018: Epoch: 0 Step: 1770 Avg Loss: 5.446146011352539
+INFO:tensorflow:Wed Oct 17 04:44:01 2018: Epoch: 0 Step: 1780 Avg Loss: 5.5583648681640625
+INFO:tensorflow:Wed Oct 17 04:44:06 2018: Epoch: 0 Step: 1790 Avg Loss: 5.284167289733887
+INFO:tensorflow:Wed Oct 17 04:44:10 2018: Epoch: 0 Step: 1800 Avg Loss: 5.20705509185791
+INFO:tensorflow:Wed Oct 17 04:44:11 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 04:44:21 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 04:44:30 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 04:44:39 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 04:44:48 2018: Epoch: 0 Step: 1800 ppl worse: 1.0253560543060303 old: 1.0244892835617065
+INFO:tensorflow:Wed Oct 17 04:44:53 2018: Epoch: 0 Step: 1810 Avg Loss: 5.780472278594971
+INFO:tensorflow:Wed Oct 17 04:44:59 2018: Epoch: 0 Step: 1820 Avg Loss: 5.520437717437744
+INFO:tensorflow:Wed Oct 17 04:45:04 2018: Epoch: 0 Step: 1830 Avg Loss: 5.823976516723633
+INFO:tensorflow:Wed Oct 17 04:45:08 2018: Epoch: 0 Step: 1840 Avg Loss: 5.377751350402832
+INFO:tensorflow:Wed Oct 17 04:45:14 2018: Epoch: 0 Step: 1850 Avg Loss: 5.703752040863037
+INFO:tensorflow:Wed Oct 17 04:45:19 2018: Epoch: 0 Step: 1860 Avg Loss: 5.110794544219971
+INFO:tensorflow:Wed Oct 17 04:45:24 2018: Epoch: 0 Step: 1870 Avg Loss: 5.563161373138428
+INFO:tensorflow:Wed Oct 17 04:45:29 2018: Epoch: 0 Step: 1880 Avg Loss: 5.585538387298584
+INFO:tensorflow:Wed Oct 17 04:45:34 2018: Epoch: 0 Step: 1890 Avg Loss: 5.1700239181518555
+INFO:tensorflow:Wed Oct 17 04:45:40 2018: Epoch: 0 Step: 1900 Avg Loss: 5.454691410064697
+INFO:tensorflow:Wed Oct 17 04:45:40 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 04:45:50 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 04:45:59 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 04:46:09 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 04:46:18 2018: Epoch: 0 Step: 1900 ppl improved: 1.0193886756896973 old: 1.0244892835617065 Model saved: ./encoder_nmt/ckpt-5
+INFO:tensorflow:Wed Oct 17 04:46:23 2018: Epoch: 0 Step: 1910 Avg Loss: 6.155076026916504
+INFO:tensorflow:Wed Oct 17 04:46:28 2018: Epoch: 0 Step: 1920 Avg Loss: 5.247100830078125
+INFO:tensorflow:Wed Oct 17 04:46:34 2018: Epoch: 0 Step: 1930 Avg Loss: 5.153982162475586
+INFO:tensorflow:Wed Oct 17 04:46:39 2018: Epoch: 0 Step: 1940 Avg Loss: 5.5910468101501465
+INFO:tensorflow:Wed Oct 17 04:46:44 2018: Epoch: 0 Step: 1950 Avg Loss: 5.582585334777832
+INFO:tensorflow:Wed Oct 17 04:46:49 2018: Epoch: 0 Step: 1960 Avg Loss: 5.43752908706665
+INFO:tensorflow:Wed Oct 17 04:46:54 2018: Epoch: 0 Step: 1970 Avg Loss: 5.793677806854248
+INFO:tensorflow:Wed Oct 17 04:47:00 2018: Epoch: 0 Step: 1980 Avg Loss: 5.280935764312744
+INFO:tensorflow:Wed Oct 17 04:47:04 2018: Epoch: 0 Step: 1990 Avg Loss: 5.011698246002197
+INFO:tensorflow:Wed Oct 17 04:47:10 2018: Epoch: 0 Step: 2000 Avg Loss: 5.110507488250732
+INFO:tensorflow:Wed Oct 17 04:47:10 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 04:47:19 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 04:47:29 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 04:47:38 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 04:47:47 2018: Epoch: 0 Step: 2000 ppl worse: 1.0277650356292725 old: 1.0193886756896973
+INFO:tensorflow:Wed Oct 17 04:47:52 2018: Epoch: 0 Step: 2010 Avg Loss: 5.522939682006836
+INFO:tensorflow:Wed Oct 17 04:47:57 2018: Epoch: 0 Step: 2020 Avg Loss: 5.007189750671387
+INFO:tensorflow:Wed Oct 17 04:48:02 2018: Epoch: 0 Step: 2030 Avg Loss: 5.277438163757324
+INFO:tensorflow:Wed Oct 17 04:48:08 2018: Epoch: 0 Step: 2040 Avg Loss: 5.740528583526611
+INFO:tensorflow:Wed Oct 17 04:48:12 2018: Epoch: 0 Step: 2050 Avg Loss: 5.110018730163574
+INFO:tensorflow:Wed Oct 17 04:48:17 2018: Epoch: 0 Step: 2060 Avg Loss: 5.029839515686035
+INFO:tensorflow:Wed Oct 17 04:48:23 2018: Epoch: 0 Step: 2070 Avg Loss: 5.622769355773926
+INFO:tensorflow:Wed Oct 17 04:48:28 2018: Epoch: 0 Step: 2080 Avg Loss: 5.492228984832764
+INFO:tensorflow:Wed Oct 17 04:48:33 2018: Epoch: 0 Step: 2090 Avg Loss: 5.823800563812256
+INFO:tensorflow:Wed Oct 17 04:48:38 2018: Epoch: 0 Step: 2100 Avg Loss: 5.8304243087768555
+INFO:tensorflow:Wed Oct 17 04:48:38 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 04:48:47 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 04:48:57 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 04:49:06 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 04:49:15 2018: Epoch: 0 Step: 2100 ppl worse: 1.0201599597930908 old: 1.0193886756896973
+INFO:tensorflow:Wed Oct 17 04:49:20 2018: Epoch: 0 Step: 2110 Avg Loss: 5.428430080413818
+INFO:tensorflow:Wed Oct 17 04:49:26 2018: Epoch: 0 Step: 2120 Avg Loss: 5.613850116729736
+INFO:tensorflow:Wed Oct 17 04:49:31 2018: Epoch: 0 Step: 2130 Avg Loss: 5.4601521492004395
+INFO:tensorflow:Wed Oct 17 04:49:37 2018: Epoch: 0 Step: 2140 Avg Loss: 5.160644054412842
+INFO:tensorflow:Wed Oct 17 04:49:43 2018: Epoch: 0 Step: 2150 Avg Loss: 5.67008638381958
+INFO:tensorflow:Wed Oct 17 04:49:47 2018: Epoch: 0 Step: 2160 Avg Loss: 5.297076225280762
+INFO:tensorflow:Wed Oct 17 04:49:52 2018: Epoch: 0 Step: 2170 Avg Loss: 5.867107391357422
+INFO:tensorflow:Wed Oct 17 04:49:58 2018: Epoch: 0 Step: 2180 Avg Loss: 5.296448230743408
+INFO:tensorflow:Wed Oct 17 04:50:04 2018: Epoch: 0 Step: 2190 Avg Loss: 4.867602825164795
+INFO:tensorflow:Wed Oct 17 04:50:09 2018: Epoch: 0 Step: 2200 Avg Loss: 5.511265754699707
+INFO:tensorflow:Wed Oct 17 04:50:10 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 04:50:20 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 04:50:29 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 04:50:38 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 04:50:47 2018: Epoch: 0 Step: 2200 ppl worse: 1.0272749662399292 old: 1.0193886756896973
+INFO:tensorflow:Wed Oct 17 04:50:52 2018: Epoch: 0 Step: 2210 Avg Loss: 5.045609951019287
+INFO:tensorflow:Wed Oct 17 04:50:57 2018: Epoch: 0 Step: 2220 Avg Loss: 5.121527194976807
+INFO:tensorflow:Wed Oct 17 04:51:03 2018: Epoch: 0 Step: 2230 Avg Loss: 5.183628082275391
+INFO:tensorflow:Wed Oct 17 04:51:08 2018: Epoch: 0 Step: 2240 Avg Loss: 5.06910514831543
+INFO:tensorflow:Wed Oct 17 04:51:13 2018: Epoch: 0 Step: 2250 Avg Loss: 5.333014488220215
+INFO:tensorflow:Wed Oct 17 04:51:19 2018: Epoch: 0 Step: 2260 Avg Loss: 5.402128219604492
+INFO:tensorflow:Wed Oct 17 04:51:24 2018: Epoch: 0 Step: 2270 Avg Loss: 4.75325345993042
+INFO:tensorflow:Wed Oct 17 04:51:30 2018: Epoch: 0 Step: 2280 Avg Loss: 5.455713272094727
+INFO:tensorflow:Wed Oct 17 04:51:35 2018: Epoch: 0 Step: 2290 Avg Loss: 5.435614585876465
+INFO:tensorflow:Wed Oct 17 04:51:39 2018: Epoch: 0 Step: 2300 Avg Loss: 5.828535556793213
+INFO:tensorflow:Wed Oct 17 04:51:40 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 04:51:50 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 04:51:59 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 04:52:08 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 04:52:17 2018: Epoch: 0 Step: 2300 ppl worse: 1.0227725505828857 old: 1.0193886756896973
+INFO:tensorflow:Wed Oct 17 04:52:22 2018: Epoch: 0 Step: 2310 Avg Loss: 5.270235538482666
+INFO:tensorflow:Wed Oct 17 04:52:27 2018: Epoch: 0 Step: 2320 Avg Loss: 5.0432257652282715
+INFO:tensorflow:Wed Oct 17 04:52:33 2018: Epoch: 0 Step: 2330 Avg Loss: 5.441342830657959
+INFO:tensorflow:Wed Oct 17 04:52:38 2018: Epoch: 0 Step: 2340 Avg Loss: 5.3208327293396
+INFO:tensorflow:Wed Oct 17 04:52:44 2018: Epoch: 0 Step: 2350 Avg Loss: 5.74766731262207
+INFO:tensorflow:Wed Oct 17 04:52:50 2018: Epoch: 0 Step: 2360 Avg Loss: 5.314124584197998
+INFO:tensorflow:Wed Oct 17 04:52:55 2018: Epoch: 0 Step: 2370 Avg Loss: 5.060811519622803
+INFO:tensorflow:Wed Oct 17 04:53:00 2018: Epoch: 0 Step: 2380 Avg Loss: 5.683866500854492
+INFO:tensorflow:Wed Oct 17 04:53:05 2018: Epoch: 0 Step: 2390 Avg Loss: 5.118422985076904
+INFO:tensorflow:Wed Oct 17 04:53:10 2018: Epoch: 0 Step: 2400 Avg Loss: 5.387289524078369
+INFO:tensorflow:Wed Oct 17 04:53:11 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 04:53:21 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 04:53:30 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 04:53:39 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 04:53:48 2018: Epoch: 0 Step: 2400 ppl worse: 1.0262097120285034 old: 1.0193886756896973
+INFO:tensorflow:Wed Oct 17 04:53:53 2018: Epoch: 0 Step: 2410 Avg Loss: 5.9830546379089355
+INFO:tensorflow:Wed Oct 17 04:53:58 2018: Epoch: 0 Step: 2420 Avg Loss: 5.546815395355225
+INFO:tensorflow:Wed Oct 17 04:54:04 2018: Epoch: 0 Step: 2430 Avg Loss: 5.1817755699157715
+INFO:tensorflow:Wed Oct 17 04:54:10 2018: Epoch: 0 Step: 2440 Avg Loss: 5.248619079589844
+INFO:tensorflow:Wed Oct 17 04:54:14 2018: Epoch: 0 Step: 2450 Avg Loss: 5.7432756423950195
+INFO:tensorflow:Wed Oct 17 04:54:20 2018: Epoch: 0 Step: 2460 Avg Loss: 5.32069206237793
+INFO:tensorflow:Wed Oct 17 04:54:25 2018: Epoch: 0 Step: 2470 Avg Loss: 5.020120143890381
+INFO:tensorflow:Wed Oct 17 04:54:31 2018: Epoch: 0 Step: 2480 Avg Loss: 5.397998332977295
+INFO:tensorflow:Wed Oct 17 04:54:36 2018: Epoch: 0 Step: 2490 Avg Loss: 5.480165958404541
+INFO:tensorflow:Wed Oct 17 04:54:42 2018: Epoch: 0 Step: 2500 Avg Loss: 5.57385778427124
+INFO:tensorflow:Wed Oct 17 04:54:43 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 04:54:52 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 04:55:01 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 04:55:10 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 04:55:20 2018: Epoch: 0 Step: 2500 ppl worse: 1.0327645540237427 old: 1.0193886756896973
+INFO:tensorflow:Wed Oct 17 04:55:26 2018: Epoch: 0 Step: 2510 Avg Loss: 5.499129295349121
+INFO:tensorflow:Wed Oct 17 04:55:32 2018: Epoch: 0 Step: 2520 Avg Loss: 5.332931995391846
+INFO:tensorflow:Wed Oct 17 04:55:37 2018: Epoch: 0 Step: 2530 Avg Loss: 5.443775653839111
+INFO:tensorflow:Wed Oct 17 04:55:42 2018: Epoch: 0 Step: 2540 Avg Loss: 4.638098239898682
+INFO:tensorflow:Wed Oct 17 04:55:48 2018: Epoch: 0 Step: 2550 Avg Loss: 5.055490493774414
+INFO:tensorflow:Wed Oct 17 04:55:53 2018: Epoch: 0 Step: 2560 Avg Loss: 5.775567531585693
+INFO:tensorflow:Wed Oct 17 04:55:58 2018: Epoch: 0 Step: 2570 Avg Loss: 5.385962963104248
+INFO:tensorflow:Wed Oct 17 04:56:04 2018: Epoch: 0 Step: 2580 Avg Loss: 5.1001410484313965
+INFO:tensorflow:Wed Oct 17 04:56:10 2018: Epoch: 0 Step: 2590 Avg Loss: 5.391990661621094
+INFO:tensorflow:Wed Oct 17 04:56:14 2018: Epoch: 0 Step: 2600 Avg Loss: 5.02544641494751
+INFO:tensorflow:Wed Oct 17 04:56:15 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 04:56:24 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 04:56:34 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 04:56:43 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 04:56:52 2018: Epoch: 0 Step: 2600 ppl worse: 1.0255379676818848 old: 1.0193886756896973
+INFO:tensorflow:Wed Oct 17 04:56:57 2018: Epoch: 0 Step: 2610 Avg Loss: 5.26585578918457
+INFO:tensorflow:Wed Oct 17 04:57:03 2018: Epoch: 0 Step: 2620 Avg Loss: 5.139408588409424
+INFO:tensorflow:Wed Oct 17 04:57:07 2018: Epoch: 0 Step: 2630 Avg Loss: 5.3614301681518555
+INFO:tensorflow:Wed Oct 17 04:57:12 2018: Epoch: 0 Step: 2640 Avg Loss: 5.041816234588623
+INFO:tensorflow:Wed Oct 17 04:57:17 2018: Epoch: 0 Step: 2650 Avg Loss: 5.563979625701904
+INFO:tensorflow:Wed Oct 17 04:57:22 2018: Epoch: 0 Step: 2660 Avg Loss: 5.104781150817871
+INFO:tensorflow:Wed Oct 17 04:57:27 2018: Epoch: 0 Step: 2670 Avg Loss: 5.840992450714111
+INFO:tensorflow:Wed Oct 17 04:57:33 2018: Epoch: 0 Step: 2680 Avg Loss: 5.053805351257324
+INFO:tensorflow:Wed Oct 17 04:57:39 2018: Epoch: 0 Step: 2690 Avg Loss: 4.9583048820495605
+INFO:tensorflow:Wed Oct 17 04:57:44 2018: Epoch: 0 Step: 2700 Avg Loss: 5.482769012451172
+INFO:tensorflow:Wed Oct 17 04:57:44 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 04:57:54 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 04:58:03 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 04:58:12 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 04:58:21 2018: Epoch: 0 Step: 2700 ppl worse: 1.024842619895935 old: 1.0193886756896973
+INFO:tensorflow:Wed Oct 17 04:58:26 2018: Epoch: 0 Step: 2710 Avg Loss: 5.555634498596191
+INFO:tensorflow:Wed Oct 17 04:58:32 2018: Epoch: 0 Step: 2720 Avg Loss: 5.662364959716797
+INFO:tensorflow:Wed Oct 17 04:58:37 2018: Epoch: 0 Step: 2730 Avg Loss: 5.452112674713135
+INFO:tensorflow:Wed Oct 17 04:58:43 2018: Epoch: 0 Step: 2740 Avg Loss: 5.2482476234436035
+INFO:tensorflow:Wed Oct 17 04:58:48 2018: Epoch: 0 Step: 2750 Avg Loss: 5.237440586090088
+INFO:tensorflow:Wed Oct 17 04:58:53 2018: Epoch: 0 Step: 2760 Avg Loss: 5.3489155769348145
+INFO:tensorflow:Wed Oct 17 04:58:59 2018: Epoch: 0 Step: 2770 Avg Loss: 5.227552890777588
+INFO:tensorflow:Wed Oct 17 04:59:04 2018: Epoch: 0 Step: 2780 Avg Loss: 5.607731819152832
+INFO:tensorflow:Wed Oct 17 04:59:09 2018: Epoch: 0 Step: 2790 Avg Loss: 5.435275554656982
+INFO:tensorflow:Wed Oct 17 04:59:15 2018: Epoch: 0 Step: 2800 Avg Loss: 5.547703742980957
+INFO:tensorflow:Wed Oct 17 04:59:16 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 04:59:25 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 04:59:34 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 04:59:44 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 04:59:52 2018: Epoch: 0 Step: 2800 ppl worse: 1.02837336063385 old: 1.0193886756896973
+INFO:tensorflow:Wed Oct 17 04:59:57 2018: Epoch: 0 Step: 2810 Avg Loss: 5.782686710357666
+INFO:tensorflow:Wed Oct 17 05:00:04 2018: Epoch: 0 Step: 2820 Avg Loss: 5.424583911895752
+INFO:tensorflow:Wed Oct 17 05:00:10 2018: Epoch: 0 Step: 2830 Avg Loss: 4.876283645629883
+INFO:tensorflow:Wed Oct 17 05:00:15 2018: Epoch: 0 Step: 2840 Avg Loss: 5.309255599975586
+INFO:tensorflow:Wed Oct 17 05:00:20 2018: Epoch: 0 Step: 2850 Avg Loss: 5.368139743804932
+INFO:tensorflow:Wed Oct 17 05:00:26 2018: Epoch: 0 Step: 2860 Avg Loss: 5.138980388641357
+INFO:tensorflow:Wed Oct 17 05:00:31 2018: Epoch: 0 Step: 2870 Avg Loss: 5.341419696807861
+INFO:tensorflow:Wed Oct 17 05:00:37 2018: Epoch: 0 Step: 2880 Avg Loss: 5.513822555541992
+INFO:tensorflow:Wed Oct 17 05:00:42 2018: Epoch: 0 Step: 2890 Avg Loss: 5.193294525146484
+INFO:tensorflow:Wed Oct 17 05:00:47 2018: Epoch: 0 Step: 2900 Avg Loss: 5.256615161895752
+INFO:tensorflow:Wed Oct 17 05:00:47 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 05:00:57 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 05:01:07 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 05:01:16 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 05:01:24 2018: Epoch: 0 Step: 2900 ppl worse: 1.0292376279830933 old: 1.0193886756896973
+INFO:tensorflow:Wed Oct 17 05:01:29 2018: Epoch: 0 Step: 2910 Avg Loss: 5.314251899719238
+INFO:tensorflow:Wed Oct 17 05:01:34 2018: Epoch: 0 Step: 2920 Avg Loss: 5.116458415985107
+INFO:tensorflow:Wed Oct 17 05:01:39 2018: Epoch: 0 Step: 2930 Avg Loss: 5.022307395935059
+INFO:tensorflow:Wed Oct 17 05:01:44 2018: Epoch: 0 Step: 2940 Avg Loss: 5.012149810791016
+INFO:tensorflow:Wed Oct 17 05:01:50 2018: Epoch: 0 Step: 2950 Avg Loss: 5.37882137298584
+INFO:tensorflow:Wed Oct 17 05:01:55 2018: Epoch: 0 Step: 2960 Avg Loss: 5.2343573570251465
+INFO:tensorflow:Wed Oct 17 05:02:00 2018: Epoch: 0 Step: 2970 Avg Loss: 5.405325889587402
+INFO:tensorflow:Wed Oct 17 05:02:05 2018: Epoch: 0 Step: 2980 Avg Loss: 4.893561363220215
+INFO:tensorflow:Wed Oct 17 05:02:11 2018: Epoch: 0 Step: 2990 Avg Loss: 5.044896125793457
+INFO:tensorflow:Wed Oct 17 05:02:17 2018: Epoch: 0 Step: 3000 Avg Loss: 5.238732814788818
+INFO:tensorflow:Wed Oct 17 05:02:18 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 05:02:27 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 05:02:37 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 05:02:46 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 05:02:55 2018: Epoch: 0 Step: 3000 ppl worse: 1.0218534469604492 old: 1.0193886756896973
+INFO:tensorflow:Wed Oct 17 05:03:00 2018: Epoch: 0 Step: 3010 Avg Loss: 5.568395614624023
+INFO:tensorflow:Wed Oct 17 05:03:05 2018: Epoch: 0 Step: 3020 Avg Loss: 5.051187515258789
+INFO:tensorflow:Wed Oct 17 05:03:10 2018: Epoch: 0 Step: 3030 Avg Loss: 5.246420383453369
+INFO:tensorflow:Wed Oct 17 05:03:15 2018: Epoch: 0 Step: 3040 Avg Loss: 4.958042621612549
+INFO:tensorflow:Wed Oct 17 05:03:21 2018: Epoch: 0 Step: 3050 Avg Loss: 5.428243160247803
+INFO:tensorflow:Wed Oct 17 05:03:26 2018: Epoch: 0 Step: 3060 Avg Loss: 5.32311487197876
+INFO:tensorflow:Wed Oct 17 05:03:31 2018: Epoch: 0 Step: 3070 Avg Loss: 5.076966285705566
+INFO:tensorflow:Wed Oct 17 05:03:37 2018: Epoch: 0 Step: 3080 Avg Loss: 4.900570869445801
+INFO:tensorflow:Wed Oct 17 05:03:41 2018: Epoch: 0 Step: 3090 Avg Loss: 4.849922180175781
+INFO:tensorflow:Wed Oct 17 05:03:46 2018: Epoch: 0 Step: 3100 Avg Loss: 5.408412456512451
+INFO:tensorflow:Wed Oct 17 05:03:47 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 05:03:56 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 05:04:06 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 05:04:15 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 05:04:24 2018: Epoch: 0 Step: 3100 ppl worse: 1.0270910263061523 old: 1.0193886756896973
+INFO:tensorflow:Wed Oct 17 05:04:29 2018: Epoch: 0 Step: 3110 Avg Loss: 5.239544868469238
+INFO:tensorflow:Wed Oct 17 05:04:34 2018: Epoch: 0 Step: 3120 Avg Loss: 5.122263431549072
+INFO:tensorflow:Wed Oct 17 05:04:39 2018: Epoch: 0 Step: 3130 Avg Loss: 5.056158542633057
+INFO:tensorflow:Wed Oct 17 05:04:44 2018: Epoch: 0 Step: 3140 Avg Loss: 5.237842082977295
+INFO:tensorflow:Wed Oct 17 05:04:50 2018: Epoch: 0 Step: 3150 Avg Loss: 5.428851127624512
+INFO:tensorflow:Wed Oct 17 05:04:56 2018: Epoch: 0 Step: 3160 Avg Loss: 5.021186828613281
+INFO:tensorflow:Wed Oct 17 05:05:00 2018: Epoch: 0 Step: 3170 Avg Loss: 5.198843002319336
+INFO:tensorflow:Wed Oct 17 05:05:06 2018: Epoch: 0 Step: 3180 Avg Loss: 5.284337520599365
+INFO:tensorflow:Wed Oct 17 05:05:10 2018: Epoch: 0 Step: 3190 Avg Loss: 5.381360054016113
+INFO:tensorflow:Wed Oct 17 05:05:15 2018: Epoch: 0 Step: 3200 Avg Loss: 5.279551982879639
+INFO:tensorflow:Wed Oct 17 05:05:16 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 05:05:24 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 05:05:34 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 05:05:43 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 05:05:53 2018: Epoch: 0 Step: 3200 ppl worse: 1.031983494758606 old: 1.0193886756896973
+INFO:tensorflow:Wed Oct 17 05:05:58 2018: Epoch: 0 Step: 3210 Avg Loss: 5.14951229095459
+INFO:tensorflow:Wed Oct 17 05:06:03 2018: Epoch: 0 Step: 3220 Avg Loss: 5.379940986633301
+INFO:tensorflow:Wed Oct 17 05:06:08 2018: Epoch: 0 Step: 3230 Avg Loss: 5.582266807556152
+INFO:tensorflow:Wed Oct 17 05:06:14 2018: Epoch: 0 Step: 3240 Avg Loss: 5.525158882141113
+INFO:tensorflow:Wed Oct 17 05:06:19 2018: Epoch: 0 Step: 3250 Avg Loss: 5.411205291748047
+INFO:tensorflow:Wed Oct 17 05:06:24 2018: Epoch: 0 Step: 3260 Avg Loss: 4.911362648010254
+INFO:tensorflow:Wed Oct 17 05:06:29 2018: Epoch: 0 Step: 3270 Avg Loss: 5.04673957824707
+INFO:tensorflow:Wed Oct 17 05:06:34 2018: Epoch: 0 Step: 3280 Avg Loss: 5.287341594696045
+INFO:tensorflow:Wed Oct 17 05:06:40 2018: Epoch: 0 Step: 3290 Avg Loss: 4.951932430267334
+INFO:tensorflow:Wed Oct 17 05:06:46 2018: Epoch: 0 Step: 3300 Avg Loss: 5.320261001586914
+INFO:tensorflow:Wed Oct 17 05:06:46 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 05:06:55 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 05:07:04 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 05:07:13 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 05:07:23 2018: Epoch: 0 Step: 3300 ppl worse: 1.0320204496383667 old: 1.0193886756896973
+INFO:tensorflow:Wed Oct 17 05:07:28 2018: Epoch: 0 Step: 3310 Avg Loss: 5.791656970977783
+INFO:tensorflow:Wed Oct 17 05:07:33 2018: Epoch: 0 Step: 3320 Avg Loss: 5.235720634460449
+INFO:tensorflow:Wed Oct 17 05:07:38 2018: Epoch: 0 Step: 3330 Avg Loss: 5.0120415687561035
+INFO:tensorflow:Wed Oct 17 05:07:43 2018: Epoch: 0 Step: 3340 Avg Loss: 5.5313310623168945
+INFO:tensorflow:Wed Oct 17 05:07:49 2018: Epoch: 0 Step: 3350 Avg Loss: 5.37312650680542
+INFO:tensorflow:Wed Oct 17 05:07:54 2018: Epoch: 0 Step: 3360 Avg Loss: 5.4480299949646
+INFO:tensorflow:Wed Oct 17 05:07:59 2018: Epoch: 0 Step: 3370 Avg Loss: 4.711338043212891
+INFO:tensorflow:Wed Oct 17 05:08:04 2018: Epoch: 0 Step: 3380 Avg Loss: 5.41148567199707
+INFO:tensorflow:Wed Oct 17 05:08:09 2018: Epoch: 0 Step: 3390 Avg Loss: 5.411925315856934
+INFO:tensorflow:Wed Oct 17 05:08:15 2018: Epoch: 0 Step: 3400 Avg Loss: 5.38724946975708
+INFO:tensorflow:Wed Oct 17 05:08:15 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 05:08:25 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 05:08:34 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 05:08:43 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 05:08:52 2018: Epoch: 0 Step: 3400 ppl worse: 1.0332918167114258 old: 1.0193886756896973
+INFO:tensorflow:Wed Oct 17 05:08:58 2018: Epoch: 0 Step: 3410 Avg Loss: 5.529429912567139
+INFO:tensorflow:Wed Oct 17 05:09:03 2018: Epoch: 0 Step: 3420 Avg Loss: 5.391589641571045
+INFO:tensorflow:Wed Oct 17 05:09:09 2018: Epoch: 0 Step: 3430 Avg Loss: 5.093485355377197
+INFO:tensorflow:Wed Oct 17 05:09:15 2018: Epoch: 0 Step: 3440 Avg Loss: 4.7457733154296875
+INFO:tensorflow:Wed Oct 17 05:09:20 2018: Epoch: 0 Step: 3450 Avg Loss: 5.345338821411133
+INFO:tensorflow:Wed Oct 17 05:09:26 2018: Epoch: 0 Step: 3460 Avg Loss: 5.31873893737793
+INFO:tensorflow:Wed Oct 17 05:09:32 2018: Epoch: 0 Step: 3470 Avg Loss: 5.599968433380127
+INFO:tensorflow:Wed Oct 17 05:09:36 2018: Epoch: 0 Step: 3480 Avg Loss: 6.031035423278809
+INFO:tensorflow:Wed Oct 17 05:09:42 2018: Epoch: 0 Step: 3490 Avg Loss: 5.187241554260254
+INFO:tensorflow:Wed Oct 17 05:09:47 2018: Epoch: 0 Step: 3500 Avg Loss: 5.54888391494751
+INFO:tensorflow:Wed Oct 17 05:09:48 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 05:09:57 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 05:10:07 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 05:10:16 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 05:10:25 2018: Epoch: 0 Step: 3500 ppl worse: 1.0236186981201172 old: 1.0193886756896973
+INFO:tensorflow:Wed Oct 17 05:10:30 2018: Epoch: 0 Step: 3510 Avg Loss: 5.137293815612793
+INFO:tensorflow:Wed Oct 17 05:10:36 2018: Epoch: 0 Step: 3520 Avg Loss: 5.2860517501831055
+INFO:tensorflow:Wed Oct 17 05:10:41 2018: Epoch: 0 Step: 3530 Avg Loss: 5.129067420959473
+INFO:tensorflow:Wed Oct 17 05:10:46 2018: Epoch: 0 Step: 3540 Avg Loss: 5.044288158416748
+INFO:tensorflow:Wed Oct 17 05:10:51 2018: Epoch: 0 Step: 3550 Avg Loss: 5.582484722137451
+INFO:tensorflow:Wed Oct 17 05:10:57 2018: Epoch: 0 Step: 3560 Avg Loss: 5.431689262390137
+INFO:tensorflow:Wed Oct 17 05:11:03 2018: Epoch: 0 Step: 3570 Avg Loss: 4.649466514587402
+INFO:tensorflow:Wed Oct 17 05:11:07 2018: Epoch: 0 Step: 3580 Avg Loss: 5.191370487213135
+INFO:tensorflow:Wed Oct 17 05:11:12 2018: Epoch: 0 Step: 3590 Avg Loss: 4.910116672515869
+INFO:tensorflow:Wed Oct 17 05:11:17 2018: Epoch: 0 Step: 3600 Avg Loss: 5.685948848724365
+INFO:tensorflow:Wed Oct 17 05:11:18 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 05:11:27 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 05:11:37 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 05:11:46 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 05:11:55 2018: Epoch: 0 Step: 3600 ppl worse: 1.0287572145462036 old: 1.0193886756896973
+INFO:tensorflow:Wed Oct 17 05:12:01 2018: Epoch: 0 Step: 3610 Avg Loss: 4.675248146057129
+INFO:tensorflow:Wed Oct 17 05:12:05 2018: Epoch: 0 Step: 3620 Avg Loss: 4.875714302062988
+INFO:tensorflow:Wed Oct 17 05:12:11 2018: Epoch: 0 Step: 3630 Avg Loss: 5.690492153167725
+INFO:tensorflow:Wed Oct 17 05:12:17 2018: Epoch: 0 Step: 3640 Avg Loss: 5.0443549156188965
+INFO:tensorflow:Wed Oct 17 05:12:22 2018: Epoch: 0 Step: 3650 Avg Loss: 5.234008312225342
+INFO:tensorflow:Wed Oct 17 05:12:28 2018: Epoch: 0 Step: 3660 Avg Loss: 5.407996654510498
+INFO:tensorflow:Wed Oct 17 05:12:33 2018: Epoch: 0 Step: 3670 Avg Loss: 5.2668657302856445
+INFO:tensorflow:Wed Oct 17 05:12:37 2018: Epoch: 0 Step: 3680 Avg Loss: 5.26675271987915
+INFO:tensorflow:Wed Oct 17 05:12:42 2018: Epoch: 0 Step: 3690 Avg Loss: 5.4388933181762695
+INFO:tensorflow:Wed Oct 17 05:12:47 2018: Epoch: 0 Step: 3700 Avg Loss: 6.043224334716797
+INFO:tensorflow:Wed Oct 17 05:12:48 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 05:12:57 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 05:13:06 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 05:13:16 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 05:13:25 2018: Epoch: 0 Step: 3700 ppl improved: 1.0160748958587646 old: 1.0193886756896973 Model saved: ./encoder_nmt/ckpt-6
+INFO:tensorflow:Wed Oct 17 05:13:31 2018: Epoch: 0 Step: 3710 Avg Loss: 5.453708648681641
+INFO:tensorflow:Wed Oct 17 05:13:36 2018: Epoch: 0 Step: 3720 Avg Loss: 5.107361793518066
+INFO:tensorflow:Wed Oct 17 05:13:41 2018: Epoch: 0 Step: 3730 Avg Loss: 5.174184322357178
+INFO:tensorflow:Wed Oct 17 05:13:47 2018: Epoch: 0 Step: 3740 Avg Loss: 5.12241792678833
+INFO:tensorflow:Wed Oct 17 05:13:51 2018: Epoch: 0 Step: 3750 Avg Loss: 4.117645740509033
+INFO:tensorflow:Wed Oct 17 05:13:56 2018: Epoch: 0 Step: 3760 Avg Loss: 4.672086238861084
+INFO:tensorflow:Wed Oct 17 05:14:03 2018: Epoch: 0 Step: 3770 Avg Loss: 4.678787708282471
+INFO:tensorflow:Wed Oct 17 05:14:08 2018: Epoch: 0 Step: 3780 Avg Loss: 5.221803188323975
+INFO:tensorflow:Wed Oct 17 05:14:12 2018: Epoch: 0 Step: 3790 Avg Loss: 5.152294635772705
+INFO:tensorflow:Wed Oct 17 05:14:17 2018: Epoch: 0 Step: 3800 Avg Loss: 5.088994026184082
+INFO:tensorflow:Wed Oct 17 05:14:18 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 05:14:27 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 05:14:36 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 05:14:46 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 05:14:55 2018: Epoch: 0 Step: 3800 ppl worse: 1.0235515832901 old: 1.0160748958587646
+INFO:tensorflow:Wed Oct 17 05:15:00 2018: Epoch: 0 Step: 3810 Avg Loss: 4.692521572113037
+INFO:tensorflow:Wed Oct 17 05:15:06 2018: Epoch: 0 Step: 3820 Avg Loss: 5.322551727294922
+INFO:tensorflow:Wed Oct 17 05:15:10 2018: Epoch: 0 Step: 3830 Avg Loss: 5.184176445007324
+INFO:tensorflow:Wed Oct 17 05:15:15 2018: Epoch: 0 Step: 3840 Avg Loss: 4.6990180015563965
+INFO:tensorflow:Wed Oct 17 05:15:20 2018: Epoch: 0 Step: 3850 Avg Loss: 4.685422420501709
+INFO:tensorflow:Wed Oct 17 05:15:25 2018: Epoch: 0 Step: 3860 Avg Loss: 5.547964572906494
+INFO:tensorflow:Wed Oct 17 05:15:30 2018: Epoch: 0 Step: 3870 Avg Loss: 5.4676923751831055
+INFO:tensorflow:Wed Oct 17 05:15:35 2018: Epoch: 0 Step: 3880 Avg Loss: 4.972072124481201
+INFO:tensorflow:Wed Oct 17 05:15:40 2018: Epoch: 0 Step: 3890 Avg Loss: 5.195108890533447
+INFO:tensorflow:Wed Oct 17 05:15:45 2018: Epoch: 0 Step: 3900 Avg Loss: 5.355392932891846
+INFO:tensorflow:Wed Oct 17 05:15:46 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 05:15:56 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 05:16:05 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 05:16:14 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 05:16:23 2018: Epoch: 0 Step: 3900 ppl worse: 1.028988003730774 old: 1.0160748958587646
+INFO:tensorflow:Wed Oct 17 05:16:29 2018: Epoch: 0 Step: 3910 Avg Loss: 5.102000713348389
+INFO:tensorflow:Wed Oct 17 05:16:34 2018: Epoch: 0 Step: 3920 Avg Loss: 5.0531415939331055
+INFO:tensorflow:Wed Oct 17 05:16:39 2018: Epoch: 0 Step: 3930 Avg Loss: 4.844051837921143
+INFO:tensorflow:Wed Oct 17 05:16:44 2018: Epoch: 0 Step: 3940 Avg Loss: 4.923901081085205
+INFO:tensorflow:Wed Oct 17 05:16:49 2018: Epoch: 0 Step: 3950 Avg Loss: 5.345072269439697
+INFO:tensorflow:Wed Oct 17 05:16:54 2018: Epoch: 0 Step: 3960 Avg Loss: 4.84926176071167
+INFO:tensorflow:Wed Oct 17 05:17:00 2018: Epoch: 0 Step: 3970 Avg Loss: 5.010507583618164
+INFO:tensorflow:Wed Oct 17 05:17:04 2018: Epoch: 0 Step: 3980 Avg Loss: 5.091296672821045
+INFO:tensorflow:Wed Oct 17 05:17:10 2018: Epoch: 0 Step: 3990 Avg Loss: 4.585158348083496
+INFO:tensorflow:Wed Oct 17 05:17:16 2018: Epoch: 0 Step: 4000 Avg Loss: 4.940668106079102
+INFO:tensorflow:Wed Oct 17 05:17:16 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 05:17:26 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 05:17:35 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 05:17:44 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 05:17:53 2018: Epoch: 0 Step: 4000 ppl worse: 1.0243686437606812 old: 1.0160748958587646
+INFO:tensorflow:Wed Oct 17 05:17:59 2018: Epoch: 0 Step: 4010 Avg Loss: 5.045157432556152
+INFO:tensorflow:Wed Oct 17 05:18:05 2018: Epoch: 0 Step: 4020 Avg Loss: 5.162978649139404
+INFO:tensorflow:Wed Oct 17 05:18:10 2018: Epoch: 0 Step: 4030 Avg Loss: 4.594550609588623
+INFO:tensorflow:Wed Oct 17 05:18:15 2018: Epoch: 0 Step: 4040 Avg Loss: 4.800793170928955
+INFO:tensorflow:Wed Oct 17 05:18:21 2018: Epoch: 0 Step: 4050 Avg Loss: 5.169264316558838
+INFO:tensorflow:Wed Oct 17 05:18:26 2018: Epoch: 0 Step: 4060 Avg Loss: 5.180472373962402
+INFO:tensorflow:Wed Oct 17 05:18:33 2018: Epoch: 0 Step: 4070 Avg Loss: 5.018887042999268
+INFO:tensorflow:Wed Oct 17 05:18:38 2018: Epoch: 0 Step: 4080 Avg Loss: 5.031839370727539
+INFO:tensorflow:Wed Oct 17 05:18:42 2018: Epoch: 0 Step: 4090 Avg Loss: 5.166972637176514
+INFO:tensorflow:Wed Oct 17 05:18:47 2018: Epoch: 0 Step: 4100 Avg Loss: 4.7595319747924805
+INFO:tensorflow:Wed Oct 17 05:18:48 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 05:18:57 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 05:19:07 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 05:19:16 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 05:19:25 2018: Epoch: 0 Step: 4100 ppl worse: 1.0255541801452637 old: 1.0160748958587646
+INFO:tensorflow:Wed Oct 17 05:19:31 2018: Epoch: 0 Step: 4110 Avg Loss: 4.9673848152160645
+INFO:tensorflow:Wed Oct 17 05:19:36 2018: Epoch: 0 Step: 4120 Avg Loss: 4.825368404388428
+INFO:tensorflow:Wed Oct 17 05:19:41 2018: Epoch: 0 Step: 4130 Avg Loss: 4.7042670249938965
+INFO:tensorflow:Wed Oct 17 05:19:47 2018: Epoch: 0 Step: 4140 Avg Loss: 5.051318645477295
+INFO:tensorflow:Wed Oct 17 05:19:52 2018: Epoch: 0 Step: 4150 Avg Loss: 5.139376163482666
+INFO:tensorflow:Wed Oct 17 05:19:57 2018: Epoch: 0 Step: 4160 Avg Loss: 5.471376895904541
+INFO:tensorflow:Wed Oct 17 05:20:02 2018: Epoch: 0 Step: 4170 Avg Loss: 5.3765058517456055
+INFO:tensorflow:Wed Oct 17 05:20:07 2018: Epoch: 0 Step: 4180 Avg Loss: 4.970085144042969
+INFO:tensorflow:Wed Oct 17 05:20:13 2018: Epoch: 0 Step: 4190 Avg Loss: 4.249247074127197
+INFO:tensorflow:Wed Oct 17 05:20:18 2018: Epoch: 0 Step: 4200 Avg Loss: 5.275711536407471
+INFO:tensorflow:Wed Oct 17 05:20:18 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 05:20:28 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 05:20:37 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 05:20:46 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 05:20:55 2018: Epoch: 0 Step: 4200 ppl worse: 1.0289491415023804 old: 1.0160748958587646
+INFO:tensorflow:Wed Oct 17 05:21:00 2018: Epoch: 0 Step: 4210 Avg Loss: 4.7817182540893555
+INFO:tensorflow:Wed Oct 17 05:21:05 2018: Epoch: 0 Step: 4220 Avg Loss: 5.580697059631348
+INFO:tensorflow:Wed Oct 17 05:21:10 2018: Epoch: 0 Step: 4230 Avg Loss: 5.076772212982178
+INFO:tensorflow:Wed Oct 17 05:21:15 2018: Epoch: 0 Step: 4240 Avg Loss: 5.279277801513672
+INFO:tensorflow:Wed Oct 17 05:21:20 2018: Epoch: 0 Step: 4250 Avg Loss: 5.246092796325684
+INFO:tensorflow:Wed Oct 17 05:21:26 2018: Epoch: 0 Step: 4260 Avg Loss: 4.886022567749023
+INFO:tensorflow:Wed Oct 17 05:21:32 2018: Epoch: 0 Step: 4270 Avg Loss: 4.78330659866333
+INFO:tensorflow:Wed Oct 17 05:21:37 2018: Epoch: 0 Step: 4280 Avg Loss: 5.339134693145752
+INFO:tensorflow:Wed Oct 17 05:21:43 2018: Epoch: 0 Step: 4290 Avg Loss: 4.719460487365723
+INFO:tensorflow:Wed Oct 17 05:21:48 2018: Epoch: 0 Step: 4300 Avg Loss: 5.0599164962768555
+INFO:tensorflow:Wed Oct 17 05:21:49 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 05:21:58 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 05:22:07 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 05:22:17 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 05:22:26 2018: Epoch: 0 Step: 4300 ppl worse: 1.0188556909561157 old: 1.0160748958587646
+INFO:tensorflow:Wed Oct 17 05:22:31 2018: Epoch: 0 Step: 4310 Avg Loss: 5.276939868927002
+INFO:tensorflow:Wed Oct 17 05:22:36 2018: Epoch: 0 Step: 4320 Avg Loss: 4.46371603012085
+INFO:tensorflow:Wed Oct 17 05:22:42 2018: Epoch: 0 Step: 4330 Avg Loss: 5.308248043060303
+INFO:tensorflow:Wed Oct 17 05:22:47 2018: Epoch: 0 Step: 4340 Avg Loss: 5.365413188934326
+INFO:tensorflow:Wed Oct 17 05:22:52 2018: Epoch: 0 Step: 4350 Avg Loss: 5.4167704582214355
+INFO:tensorflow:Wed Oct 17 05:22:57 2018: Epoch: 0 Step: 4360 Avg Loss: 5.373723983764648
+INFO:tensorflow:Wed Oct 17 05:23:03 2018: Epoch: 0 Step: 4370 Avg Loss: 4.318439960479736
+INFO:tensorflow:Wed Oct 17 05:23:07 2018: Epoch: 0 Step: 4380 Avg Loss: 5.261119842529297
+INFO:tensorflow:Wed Oct 17 05:23:13 2018: Epoch: 0 Step: 4390 Avg Loss: 5.109450340270996
+INFO:tensorflow:Wed Oct 17 05:23:18 2018: Epoch: 0 Step: 4400 Avg Loss: 5.197037220001221
+INFO:tensorflow:Wed Oct 17 05:23:18 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 05:23:27 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 05:23:37 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 05:23:46 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 05:23:55 2018: Epoch: 0 Step: 4400 ppl worse: 1.033458948135376 old: 1.0160748958587646
+INFO:tensorflow:Wed Oct 17 05:24:01 2018: Epoch: 0 Step: 4410 Avg Loss: 5.087276458740234
+INFO:tensorflow:Wed Oct 17 05:24:06 2018: Epoch: 0 Step: 4420 Avg Loss: 5.27117395401001
+INFO:tensorflow:Wed Oct 17 05:24:11 2018: Epoch: 0 Step: 4430 Avg Loss: 5.260112762451172
+INFO:tensorflow:Wed Oct 17 05:24:16 2018: Epoch: 0 Step: 4440 Avg Loss: 5.023032188415527
+INFO:tensorflow:Wed Oct 17 05:24:21 2018: Epoch: 0 Step: 4450 Avg Loss: 5.210730075836182
+INFO:tensorflow:Wed Oct 17 05:24:27 2018: Epoch: 0 Step: 4460 Avg Loss: 5.361782550811768
+INFO:tensorflow:Wed Oct 17 05:24:32 2018: Epoch: 0 Step: 4470 Avg Loss: 5.266939163208008
+INFO:tensorflow:Wed Oct 17 05:24:38 2018: Epoch: 0 Step: 4480 Avg Loss: 4.866471290588379
+INFO:tensorflow:Wed Oct 17 05:24:43 2018: Epoch: 0 Step: 4490 Avg Loss: 5.114885330200195
+INFO:tensorflow:Wed Oct 17 05:24:48 2018: Epoch: 0 Step: 4500 Avg Loss: 5.057913303375244
+INFO:tensorflow:Wed Oct 17 05:24:49 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 05:24:58 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 05:25:08 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 05:25:17 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 05:25:26 2018: Epoch: 0 Step: 4500 ppl worse: 1.0281285047531128 old: 1.0160748958587646
+INFO:tensorflow:Wed Oct 17 05:25:32 2018: Epoch: 0 Step: 4510 Avg Loss: 4.607162952423096
+INFO:tensorflow:Wed Oct 17 05:25:37 2018: Epoch: 0 Step: 4520 Avg Loss: 5.137153148651123
+INFO:tensorflow:Wed Oct 17 05:25:42 2018: Epoch: 0 Step: 4530 Avg Loss: 4.908653736114502
+INFO:tensorflow:Wed Oct 17 05:25:47 2018: Epoch: 0 Step: 4540 Avg Loss: 5.032594203948975
+INFO:tensorflow:Wed Oct 17 05:25:52 2018: Epoch: 0 Step: 4550 Avg Loss: 5.341785430908203
+INFO:tensorflow:Wed Oct 17 05:25:58 2018: Epoch: 0 Step: 4560 Avg Loss: 5.167940616607666
+INFO:tensorflow:Wed Oct 17 05:26:04 2018: Epoch: 0 Step: 4570 Avg Loss: 4.742520332336426
+INFO:tensorflow:Wed Oct 17 05:26:09 2018: Epoch: 0 Step: 4580 Avg Loss: 4.9521026611328125
+INFO:tensorflow:Wed Oct 17 05:26:14 2018: Epoch: 0 Step: 4590 Avg Loss: 5.318321704864502
+INFO:tensorflow:Wed Oct 17 05:26:19 2018: Epoch: 0 Step: 4600 Avg Loss: 5.200621128082275
+INFO:tensorflow:Wed Oct 17 05:26:20 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 05:26:29 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 05:26:38 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 05:26:48 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 05:26:57 2018: Epoch: 0 Step: 4600 ppl worse: 1.025226354598999 old: 1.0160748958587646
+INFO:tensorflow:Wed Oct 17 05:27:02 2018: Epoch: 0 Step: 4610 Avg Loss: 4.95556116104126
+INFO:tensorflow:Wed Oct 17 05:27:07 2018: Epoch: 0 Step: 4620 Avg Loss: 5.180840015411377
+INFO:tensorflow:Wed Oct 17 05:27:12 2018: Epoch: 0 Step: 4630 Avg Loss: 4.717289924621582
+INFO:tensorflow:Wed Oct 17 05:27:16 2018: Epoch: 0 Step: 4640 Avg Loss: 5.280436992645264
+INFO:tensorflow:Wed Oct 17 05:27:21 2018: Epoch: 0 Step: 4650 Avg Loss: 5.71113920211792
+INFO:tensorflow:Wed Oct 17 05:27:26 2018: Epoch: 0 Step: 4660 Avg Loss: 4.919504165649414
+INFO:tensorflow:Wed Oct 17 05:27:32 2018: Epoch: 0 Step: 4670 Avg Loss: 4.710870265960693
+INFO:tensorflow:Wed Oct 17 05:27:37 2018: Epoch: 0 Step: 4680 Avg Loss: 4.368841171264648
+INFO:tensorflow:Wed Oct 17 05:27:41 2018: Epoch: 0 Step: 4690 Avg Loss: 4.896997928619385
+INFO:tensorflow:Wed Oct 17 05:27:47 2018: Epoch: 0 Step: 4700 Avg Loss: 5.2214460372924805
+INFO:tensorflow:Wed Oct 17 05:27:48 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 05:27:57 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 05:28:06 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 05:28:15 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 05:28:25 2018: Epoch: 0 Step: 4700 ppl worse: 1.0226645469665527 old: 1.0160748958587646
+INFO:tensorflow:Wed Oct 17 05:28:29 2018: Epoch: 0 Step: 4710 Avg Loss: 5.247600078582764
+INFO:tensorflow:Wed Oct 17 05:28:34 2018: Epoch: 0 Step: 4720 Avg Loss: 5.253965854644775
+INFO:tensorflow:Wed Oct 17 05:28:40 2018: Epoch: 0 Step: 4730 Avg Loss: 4.947710037231445
+INFO:tensorflow:Wed Oct 17 05:28:44 2018: Epoch: 0 Step: 4740 Avg Loss: 4.983262062072754
+INFO:tensorflow:Wed Oct 17 05:28:49 2018: Epoch: 0 Step: 4750 Avg Loss: 4.794995307922363
+INFO:tensorflow:Wed Oct 17 05:28:54 2018: Epoch: 0 Step: 4760 Avg Loss: 5.233499050140381
+INFO:tensorflow:Wed Oct 17 05:28:59 2018: Epoch: 0 Step: 4770 Avg Loss: 4.830995082855225
+INFO:tensorflow:Wed Oct 17 05:29:05 2018: Epoch: 0 Step: 4780 Avg Loss: 4.9787678718566895
+INFO:tensorflow:Wed Oct 17 05:29:10 2018: Epoch: 0 Step: 4790 Avg Loss: 4.42732572555542
+INFO:tensorflow:Wed Oct 17 05:29:15 2018: Epoch: 0 Step: 4800 Avg Loss: 5.088585376739502
+INFO:tensorflow:Wed Oct 17 05:29:15 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 05:29:24 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 05:29:34 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 05:29:43 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 05:29:52 2018: Epoch: 0 Step: 4800 ppl worse: 1.0289207696914673 old: 1.0160748958587646
+INFO:tensorflow:Wed Oct 17 05:29:57 2018: Epoch: 0 Step: 4810 Avg Loss: 4.907186031341553
+INFO:tensorflow:Wed Oct 17 05:30:02 2018: Epoch: 0 Step: 4820 Avg Loss: 5.23022985458374
+INFO:tensorflow:Wed Oct 17 05:30:07 2018: Epoch: 0 Step: 4830 Avg Loss: 4.462214946746826
+INFO:tensorflow:Wed Oct 17 05:30:12 2018: Epoch: 0 Step: 4840 Avg Loss: 4.4254584312438965
+INFO:tensorflow:Wed Oct 17 05:30:17 2018: Epoch: 0 Step: 4850 Avg Loss: 4.614804744720459
+INFO:tensorflow:Wed Oct 17 05:30:22 2018: Epoch: 0 Step: 4860 Avg Loss: 4.941117763519287
+INFO:tensorflow:Wed Oct 17 05:30:27 2018: Epoch: 0 Step: 4870 Avg Loss: 5.488753318786621
+INFO:tensorflow:Wed Oct 17 05:30:32 2018: Epoch: 0 Step: 4880 Avg Loss: 4.941667079925537
+INFO:tensorflow:Wed Oct 17 05:30:37 2018: Epoch: 0 Step: 4890 Avg Loss: 5.075610160827637
+INFO:tensorflow:Wed Oct 17 05:30:42 2018: Epoch: 0 Step: 4900 Avg Loss: 5.304189205169678
+INFO:tensorflow:Wed Oct 17 05:30:42 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 05:30:52 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 05:31:01 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 05:31:10 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 05:31:19 2018: Epoch: 0 Step: 4900 ppl worse: 1.0293645858764648 old: 1.0160748958587646
+INFO:tensorflow:Wed Oct 17 05:31:25 2018: Epoch: 0 Step: 4910 Avg Loss: 4.862710475921631
+INFO:tensorflow:Wed Oct 17 05:31:30 2018: Epoch: 0 Step: 4920 Avg Loss: 5.825677871704102
+INFO:tensorflow:Wed Oct 17 05:31:36 2018: Epoch: 0 Step: 4930 Avg Loss: 5.250802040100098
+INFO:tensorflow:Wed Oct 17 05:31:41 2018: Epoch: 0 Step: 4940 Avg Loss: 4.635073661804199
+INFO:tensorflow:Wed Oct 17 05:31:46 2018: Epoch: 0 Step: 4950 Avg Loss: 5.17071008682251
+INFO:tensorflow:Wed Oct 17 05:31:51 2018: Epoch: 0 Step: 4960 Avg Loss: 5.3469438552856445
+INFO:tensorflow:Wed Oct 17 05:31:56 2018: Epoch: 0 Step: 4970 Avg Loss: 4.886105060577393
+INFO:tensorflow:Wed Oct 17 05:32:01 2018: Epoch: 0 Step: 4980 Avg Loss: 5.075216293334961
+INFO:tensorflow:Wed Oct 17 05:32:07 2018: Epoch: 0 Step: 4990 Avg Loss: 5.390326023101807
+INFO:tensorflow:Wed Oct 17 05:32:12 2018: Epoch: 0 Step: 5000 Avg Loss: 5.16229772567749
+INFO:tensorflow:Wed Oct 17 05:32:12 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 05:32:21 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 05:32:31 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 05:32:40 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 05:32:49 2018: Epoch: 0 Step: 5000 ppl worse: 1.0273468494415283 old: 1.0160748958587646
+INFO:tensorflow:Wed Oct 17 05:32:55 2018: Epoch: 0 Step: 5010 Avg Loss: 5.558374404907227
+INFO:tensorflow:Wed Oct 17 05:33:00 2018: Epoch: 0 Step: 5020 Avg Loss: 5.079431056976318
+INFO:tensorflow:Wed Oct 17 05:33:05 2018: Epoch: 0 Step: 5030 Avg Loss: 4.807445526123047
+INFO:tensorflow:Wed Oct 17 05:33:11 2018: Epoch: 0 Step: 5040 Avg Loss: 5.167852878570557
+INFO:tensorflow:Wed Oct 17 05:33:17 2018: Epoch: 0 Step: 5050 Avg Loss: 4.90112829208374
+INFO:tensorflow:Wed Oct 17 05:33:22 2018: Epoch: 0 Step: 5060 Avg Loss: 5.116745948791504
+INFO:tensorflow:Wed Oct 17 05:33:28 2018: Epoch: 0 Step: 5070 Avg Loss: 5.174190998077393
+INFO:tensorflow:Wed Oct 17 05:33:34 2018: Epoch: 0 Step: 5080 Avg Loss: 5.457040309906006
+INFO:tensorflow:Wed Oct 17 05:33:39 2018: Epoch: 0 Step: 5090 Avg Loss: 4.666667938232422
+INFO:tensorflow:Wed Oct 17 05:33:44 2018: Epoch: 0 Step: 5100 Avg Loss: 4.983946800231934
+INFO:tensorflow:Wed Oct 17 05:33:45 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 05:33:54 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 05:34:04 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 05:34:13 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 05:34:22 2018: Epoch: 0 Step: 5100 ppl worse: 1.0187572240829468 old: 1.0160748958587646
+INFO:tensorflow:Wed Oct 17 05:34:28 2018: Epoch: 0 Step: 5110 Avg Loss: 4.920097351074219
+INFO:tensorflow:Wed Oct 17 05:34:33 2018: Epoch: 0 Step: 5120 Avg Loss: 5.399577617645264
+INFO:tensorflow:Wed Oct 17 05:34:40 2018: Epoch: 0 Step: 5130 Avg Loss: 4.5807600021362305
+INFO:tensorflow:Wed Oct 17 05:34:45 2018: Epoch: 0 Step: 5140 Avg Loss: 5.187911033630371
+INFO:tensorflow:Wed Oct 17 05:34:50 2018: Epoch: 0 Step: 5150 Avg Loss: 5.3545637130737305
+INFO:tensorflow:Wed Oct 17 05:34:55 2018: Epoch: 0 Step: 5160 Avg Loss: 5.348465442657471
+INFO:tensorflow:Wed Oct 17 05:35:00 2018: Epoch: 0 Step: 5170 Avg Loss: 5.052198886871338
+INFO:tensorflow:Wed Oct 17 05:35:06 2018: Epoch: 0 Step: 5180 Avg Loss: 4.810772895812988
+INFO:tensorflow:Wed Oct 17 05:35:11 2018: Epoch: 0 Step: 5190 Avg Loss: 4.757724285125732
+INFO:tensorflow:Wed Oct 17 05:35:17 2018: Epoch: 0 Step: 5200 Avg Loss: 5.340171813964844
+INFO:tensorflow:Wed Oct 17 05:35:17 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 05:35:26 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 05:35:36 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 05:35:45 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 05:35:54 2018: Epoch: 0 Step: 5200 ppl worse: 1.0237531661987305 old: 1.0160748958587646
+INFO:tensorflow:Wed Oct 17 05:35:59 2018: Epoch: 0 Step: 5210 Avg Loss: 5.553094863891602
+INFO:tensorflow:Wed Oct 17 05:36:04 2018: Epoch: 0 Step: 5220 Avg Loss: 5.052685737609863
+INFO:tensorflow:Wed Oct 17 05:36:09 2018: Epoch: 0 Step: 5230 Avg Loss: 4.9557271003723145
+INFO:tensorflow:Wed Oct 17 05:36:14 2018: Epoch: 0 Step: 5240 Avg Loss: 5.058213233947754
+INFO:tensorflow:Wed Oct 17 05:36:19 2018: Epoch: 0 Step: 5250 Avg Loss: 4.559295177459717
+INFO:tensorflow:Wed Oct 17 05:36:25 2018: Epoch: 0 Step: 5260 Avg Loss: 5.112483501434326
+INFO:tensorflow:Wed Oct 17 05:36:30 2018: Epoch: 0 Step: 5270 Avg Loss: 4.7777204513549805
+INFO:tensorflow:Wed Oct 17 05:36:36 2018: Epoch: 0 Step: 5280 Avg Loss: 4.645533084869385
+INFO:tensorflow:Wed Oct 17 05:36:41 2018: Epoch: 0 Step: 5290 Avg Loss: 5.172049045562744
+INFO:tensorflow:Wed Oct 17 05:36:47 2018: Epoch: 0 Step: 5300 Avg Loss: 5.097330570220947
+INFO:tensorflow:Wed Oct 17 05:36:47 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 05:36:57 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 05:37:06 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 05:37:15 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 05:37:24 2018: Epoch: 0 Step: 5300 ppl worse: 1.0281575918197632 old: 1.0160748958587646
+INFO:tensorflow:Wed Oct 17 05:37:30 2018: Epoch: 0 Step: 5310 Avg Loss: 4.616776466369629
+INFO:tensorflow:Wed Oct 17 05:37:34 2018: Epoch: 0 Step: 5320 Avg Loss: 4.994730472564697
+INFO:tensorflow:Wed Oct 17 05:37:40 2018: Epoch: 0 Step: 5330 Avg Loss: 4.788670539855957
+INFO:tensorflow:Wed Oct 17 05:37:45 2018: Epoch: 0 Step: 5340 Avg Loss: 4.907177925109863
+INFO:tensorflow:Wed Oct 17 05:37:50 2018: Epoch: 0 Step: 5350 Avg Loss: 4.7117390632629395
+INFO:tensorflow:Wed Oct 17 05:37:56 2018: Epoch: 0 Step: 5360 Avg Loss: 5.060266494750977
+INFO:tensorflow:Wed Oct 17 05:38:01 2018: Epoch: 0 Step: 5370 Avg Loss: 4.928045272827148
+INFO:tensorflow:Wed Oct 17 05:38:06 2018: Epoch: 0 Step: 5380 Avg Loss: 5.124505996704102
+INFO:tensorflow:Wed Oct 17 05:38:11 2018: Epoch: 0 Step: 5390 Avg Loss: 4.7304463386535645
+INFO:tensorflow:Wed Oct 17 05:38:16 2018: Epoch: 0 Step: 5400 Avg Loss: 5.272214889526367
+INFO:tensorflow:Wed Oct 17 05:38:16 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 05:38:26 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 05:38:36 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 05:38:45 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 05:38:54 2018: Epoch: 0 Step: 5400 ppl worse: 1.0187970399856567 old: 1.0160748958587646
+INFO:tensorflow:Wed Oct 17 05:39:00 2018: Epoch: 0 Step: 5410 Avg Loss: 5.581713676452637
+INFO:tensorflow:Wed Oct 17 05:39:05 2018: Epoch: 0 Step: 5420 Avg Loss: 4.688480854034424
+INFO:tensorflow:Wed Oct 17 05:39:10 2018: Epoch: 0 Step: 5430 Avg Loss: 4.6859049797058105
+INFO:tensorflow:Wed Oct 17 05:39:16 2018: Epoch: 0 Step: 5440 Avg Loss: 4.647022247314453
+INFO:tensorflow:Wed Oct 17 05:39:22 2018: Epoch: 0 Step: 5450 Avg Loss: 5.111865520477295
+INFO:tensorflow:Wed Oct 17 05:39:27 2018: Epoch: 0 Step: 5460 Avg Loss: 5.312315940856934
+INFO:tensorflow:Wed Oct 17 05:39:33 2018: Epoch: 0 Step: 5470 Avg Loss: 4.672042369842529
+INFO:tensorflow:Wed Oct 17 05:39:38 2018: Epoch: 0 Step: 5480 Avg Loss: 5.0662522315979
+INFO:tensorflow:Wed Oct 17 05:39:45 2018: Epoch: 0 Step: 5490 Avg Loss: 5.147170543670654
+INFO:tensorflow:Wed Oct 17 05:39:49 2018: Epoch: 0 Step: 5500 Avg Loss: 5.0602126121521
+INFO:tensorflow:Wed Oct 17 05:39:50 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 05:40:00 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 05:40:09 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 05:40:18 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 05:40:27 2018: Epoch: 0 Step: 5500 ppl worse: 1.0181002616882324 old: 1.0160748958587646
+INFO:tensorflow:Wed Oct 17 05:40:33 2018: Epoch: 0 Step: 5510 Avg Loss: 4.7741379737854
+INFO:tensorflow:Wed Oct 17 05:40:38 2018: Epoch: 0 Step: 5520 Avg Loss: 4.813689708709717
+INFO:tensorflow:Wed Oct 17 05:40:43 2018: Epoch: 0 Step: 5530 Avg Loss: 5.212013244628906
+INFO:tensorflow:Wed Oct 17 05:40:48 2018: Epoch: 0 Step: 5540 Avg Loss: 4.557068347930908
+INFO:tensorflow:Wed Oct 17 05:40:54 2018: Epoch: 0 Step: 5550 Avg Loss: 4.84587287902832
+INFO:tensorflow:Wed Oct 17 05:41:00 2018: Epoch: 0 Step: 5560 Avg Loss: 4.6611409187316895
+INFO:tensorflow:Wed Oct 17 05:41:05 2018: Epoch: 0 Step: 5570 Avg Loss: 5.267386436462402
+INFO:tensorflow:Wed Oct 17 05:41:10 2018: Epoch: 0 Step: 5580 Avg Loss: 4.912962436676025
+INFO:tensorflow:Wed Oct 17 05:41:16 2018: Epoch: 0 Step: 5590 Avg Loss: 5.277531623840332
+INFO:tensorflow:Wed Oct 17 05:41:21 2018: Epoch: 0 Step: 5600 Avg Loss: 4.7523579597473145
+INFO:tensorflow:Wed Oct 17 05:41:22 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 05:41:31 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 05:41:40 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 05:41:50 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 05:41:59 2018: Epoch: 0 Step: 5600 ppl worse: 1.0257997512817383 old: 1.0160748958587646
+INFO:tensorflow:Wed Oct 17 05:42:04 2018: Epoch: 0 Step: 5610 Avg Loss: 5.13753080368042
+INFO:tensorflow:Wed Oct 17 05:42:09 2018: Epoch: 0 Step: 5620 Avg Loss: 4.618347644805908
+INFO:tensorflow:Wed Oct 17 05:42:15 2018: Epoch: 0 Step: 5630 Avg Loss: 4.575222015380859
+INFO:tensorflow:Wed Oct 17 05:42:20 2018: Epoch: 0 Step: 5640 Avg Loss: 5.207762241363525
+INFO:tensorflow:Wed Oct 17 05:42:26 2018: Epoch: 0 Step: 5650 Avg Loss: 5.065817356109619
+INFO:tensorflow:Wed Oct 17 05:42:32 2018: Epoch: 0 Step: 5660 Avg Loss: 5.062609672546387
+INFO:tensorflow:Wed Oct 17 05:42:38 2018: Epoch: 0 Step: 5670 Avg Loss: 5.3738298416137695
+INFO:tensorflow:Wed Oct 17 05:42:43 2018: Epoch: 0 Step: 5680 Avg Loss: 4.528732776641846
+INFO:tensorflow:Wed Oct 17 05:42:48 2018: Epoch: 0 Step: 5690 Avg Loss: 5.549188137054443
+INFO:tensorflow:Wed Oct 17 05:42:53 2018: Epoch: 0 Step: 5700 Avg Loss: 5.209911346435547
+INFO:tensorflow:Wed Oct 17 05:42:54 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 05:43:03 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 05:43:12 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 05:43:22 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 05:43:31 2018: Epoch: 0 Step: 5700 ppl worse: 1.0294264554977417 old: 1.0160748958587646
+INFO:tensorflow:Wed Oct 17 05:43:35 2018: Epoch: 0 Step: 5710 Avg Loss: 5.246730327606201
+INFO:tensorflow:Wed Oct 17 05:43:40 2018: Epoch: 0 Step: 5720 Avg Loss: 4.751552104949951
+INFO:tensorflow:Wed Oct 17 05:43:45 2018: Epoch: 0 Step: 5730 Avg Loss: 4.998772144317627
+INFO:tensorflow:Wed Oct 17 05:43:50 2018: Epoch: 0 Step: 5740 Avg Loss: 4.954934120178223
+INFO:tensorflow:Wed Oct 17 05:43:55 2018: Epoch: 0 Step: 5750 Avg Loss: 4.7784223556518555
+INFO:tensorflow:Wed Oct 17 05:44:00 2018: Epoch: 0 Step: 5760 Avg Loss: 4.816005229949951
+INFO:tensorflow:Wed Oct 17 05:44:05 2018: Epoch: 0 Step: 5770 Avg Loss: 4.889929294586182
+INFO:tensorflow:Wed Oct 17 05:44:10 2018: Epoch: 0 Step: 5780 Avg Loss: 4.961008548736572
+INFO:tensorflow:Wed Oct 17 05:44:16 2018: Epoch: 0 Step: 5790 Avg Loss: 5.284583568572998
+INFO:tensorflow:Wed Oct 17 05:44:21 2018: Epoch: 0 Step: 5800 Avg Loss: 4.720929145812988
+INFO:tensorflow:Wed Oct 17 05:44:21 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 05:44:30 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 05:44:40 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 05:44:49 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 05:44:58 2018: Epoch: 0 Step: 5800 ppl worse: 1.0231904983520508 old: 1.0160748958587646
+INFO:tensorflow:Wed Oct 17 05:45:04 2018: Epoch: 0 Step: 5810 Avg Loss: 4.695046424865723
+INFO:tensorflow:Wed Oct 17 05:45:09 2018: Epoch: 0 Step: 5820 Avg Loss: 4.380453109741211
+INFO:tensorflow:Wed Oct 17 05:45:15 2018: Epoch: 0 Step: 5830 Avg Loss: 4.656177997589111
+INFO:tensorflow:Wed Oct 17 05:45:21 2018: Epoch: 0 Step: 5840 Avg Loss: 5.755852699279785
+INFO:tensorflow:Wed Oct 17 05:45:26 2018: Epoch: 0 Step: 5850 Avg Loss: 4.587459564208984
+INFO:tensorflow:Wed Oct 17 05:45:31 2018: Epoch: 0 Step: 5860 Avg Loss: 5.221609592437744
+INFO:tensorflow:Wed Oct 17 05:45:36 2018: Epoch: 0 Step: 5870 Avg Loss: 5.2741265296936035
+INFO:tensorflow:Wed Oct 17 05:45:41 2018: Epoch: 0 Step: 5880 Avg Loss: 4.693648815155029
+INFO:tensorflow:Wed Oct 17 05:45:48 2018: Epoch: 0 Step: 5890 Avg Loss: 4.335196018218994
+INFO:tensorflow:Wed Oct 17 05:45:53 2018: Epoch: 0 Step: 5900 Avg Loss: 5.041279315948486
+INFO:tensorflow:Wed Oct 17 05:45:53 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 05:46:03 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 05:46:12 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 05:46:21 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 05:46:30 2018: Epoch: 0 Step: 5900 ppl worse: 1.0238584280014038 old: 1.0160748958587646
+INFO:tensorflow:Wed Oct 17 05:46:36 2018: Epoch: 0 Step: 5910 Avg Loss: 5.251438140869141
+INFO:tensorflow:Wed Oct 17 05:46:40 2018: Epoch: 0 Step: 5920 Avg Loss: 4.931616306304932
+INFO:tensorflow:Wed Oct 17 05:46:45 2018: Epoch: 0 Step: 5930 Avg Loss: 4.816608428955078
+INFO:tensorflow:Wed Oct 17 05:46:50 2018: Epoch: 0 Step: 5940 Avg Loss: 4.602097988128662
+INFO:tensorflow:Wed Oct 17 05:46:55 2018: Epoch: 0 Step: 5950 Avg Loss: 5.471521377563477
+INFO:tensorflow:Wed Oct 17 05:47:01 2018: Epoch: 0 Step: 5960 Avg Loss: 4.761091709136963
+INFO:tensorflow:Wed Oct 17 05:47:05 2018: Epoch: 0 Step: 5970 Avg Loss: 4.902111530303955
+INFO:tensorflow:Wed Oct 17 05:47:11 2018: Epoch: 0 Step: 5980 Avg Loss: 4.967591285705566
+INFO:tensorflow:Wed Oct 17 05:47:16 2018: Epoch: 0 Step: 5990 Avg Loss: 5.077511310577393
+INFO:tensorflow:Wed Oct 17 05:47:22 2018: Epoch: 0 Step: 6000 Avg Loss: 5.123168468475342
+INFO:tensorflow:Wed Oct 17 05:47:22 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 05:47:31 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 05:47:40 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 05:47:50 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 05:47:59 2018: Epoch: 0 Step: 6000 ppl worse: 1.0365586280822754 old: 1.0160748958587646
+INFO:tensorflow:Wed Oct 17 05:48:05 2018: Epoch: 0 Step: 6010 Avg Loss: 4.821217060089111
+INFO:tensorflow:Wed Oct 17 05:48:10 2018: Epoch: 0 Step: 6020 Avg Loss: 4.942108154296875
+INFO:tensorflow:Wed Oct 17 05:48:15 2018: Epoch: 0 Step: 6030 Avg Loss: 4.115104675292969
+INFO:tensorflow:Wed Oct 17 05:48:21 2018: Epoch: 0 Step: 6040 Avg Loss: 4.936436653137207
+INFO:tensorflow:Wed Oct 17 05:48:26 2018: Epoch: 0 Step: 6050 Avg Loss: 5.238731861114502
+INFO:tensorflow:Wed Oct 17 05:48:30 2018: Epoch: 0 Step: 6060 Avg Loss: 5.043979167938232
+INFO:tensorflow:Wed Oct 17 05:48:36 2018: Epoch: 0 Step: 6070 Avg Loss: 4.859691143035889
+INFO:tensorflow:Wed Oct 17 05:48:40 2018: Epoch: 0 Step: 6080 Avg Loss: 4.822108745574951
+INFO:tensorflow:Wed Oct 17 05:48:46 2018: Epoch: 0 Step: 6090 Avg Loss: 5.528501987457275
+INFO:tensorflow:Wed Oct 17 05:48:51 2018: Epoch: 0 Step: 6100 Avg Loss: 5.132720947265625
+INFO:tensorflow:Wed Oct 17 05:48:51 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 05:49:00 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 05:49:09 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 05:49:19 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 05:49:28 2018: Epoch: 0 Step: 6100 ppl worse: 1.0201038122177124 old: 1.0160748958587646
+INFO:tensorflow:Wed Oct 17 05:49:33 2018: Epoch: 0 Step: 6110 Avg Loss: 4.75269889831543
+INFO:tensorflow:Wed Oct 17 05:49:39 2018: Epoch: 0 Step: 6120 Avg Loss: 4.786129951477051
+INFO:tensorflow:Wed Oct 17 05:49:44 2018: Epoch: 0 Step: 6130 Avg Loss: 4.958662986755371
+INFO:tensorflow:Wed Oct 17 05:49:49 2018: Epoch: 0 Step: 6140 Avg Loss: 4.828009128570557
+INFO:tensorflow:Wed Oct 17 05:49:54 2018: Epoch: 0 Step: 6150 Avg Loss: 4.422464847564697
+INFO:tensorflow:Wed Oct 17 05:49:59 2018: Epoch: 0 Step: 6160 Avg Loss: 4.984358787536621
+INFO:tensorflow:Wed Oct 17 05:50:04 2018: Epoch: 0 Step: 6170 Avg Loss: 4.818395137786865
+INFO:tensorflow:Wed Oct 17 05:50:08 2018: Epoch: 0 Step: 6180 Avg Loss: 4.601839065551758
+INFO:tensorflow:Wed Oct 17 05:50:13 2018: Epoch: 0 Step: 6190 Avg Loss: 4.6584978103637695
+INFO:tensorflow:Wed Oct 17 05:50:18 2018: Epoch: 0 Step: 6200 Avg Loss: 5.315487384796143
+INFO:tensorflow:Wed Oct 17 05:50:19 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 05:50:28 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 05:50:37 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 05:50:47 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 05:50:56 2018: Epoch: 0 Step: 6200 ppl worse: 1.0258311033248901 old: 1.0160748958587646
+INFO:tensorflow:Wed Oct 17 05:51:01 2018: Epoch: 0 Step: 6210 Avg Loss: 5.510390758514404
+INFO:tensorflow:Wed Oct 17 05:51:06 2018: Epoch: 0 Step: 6220 Avg Loss: 4.390137195587158
+INFO:tensorflow:Wed Oct 17 05:51:11 2018: Epoch: 0 Step: 6230 Avg Loss: 5.182724952697754
+INFO:tensorflow:Wed Oct 17 05:51:17 2018: Epoch: 0 Step: 6240 Avg Loss: 5.479091644287109
+INFO:tensorflow:Wed Oct 17 05:51:23 2018: Epoch: 0 Step: 6250 Avg Loss: 4.8238959312438965
+INFO:tensorflow:Wed Oct 17 05:51:27 2018: Epoch: 0 Step: 6260 Avg Loss: 4.219784736633301
+INFO:tensorflow:Wed Oct 17 05:51:32 2018: Epoch: 0 Step: 6270 Avg Loss: 4.782362461090088
+INFO:tensorflow:Wed Oct 17 05:51:37 2018: Epoch: 0 Step: 6280 Avg Loss: 4.70889139175415
+INFO:tensorflow:Wed Oct 17 05:51:43 2018: Epoch: 0 Step: 6290 Avg Loss: 4.897639751434326
+INFO:tensorflow:Wed Oct 17 05:51:48 2018: Epoch: 0 Step: 6300 Avg Loss: 4.375058650970459
+INFO:tensorflow:Wed Oct 17 05:51:49 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 05:51:58 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 05:52:07 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 05:52:17 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 05:52:26 2018: Epoch: 0 Step: 6300 ppl worse: 1.0210953950881958 old: 1.0160748958587646
+INFO:tensorflow:Wed Oct 17 05:52:31 2018: Epoch: 0 Step: 6310 Avg Loss: 4.935612201690674
+INFO:tensorflow:Wed Oct 17 05:52:36 2018: Epoch: 0 Step: 6320 Avg Loss: 4.737007141113281
+INFO:tensorflow:Wed Oct 17 05:52:41 2018: Epoch: 0 Step: 6330 Avg Loss: 4.187217712402344
+INFO:tensorflow:Wed Oct 17 05:52:46 2018: Epoch: 0 Step: 6340 Avg Loss: 5.223090171813965
+INFO:tensorflow:Wed Oct 17 05:52:52 2018: Epoch: 0 Step: 6350 Avg Loss: 5.296099662780762
+INFO:tensorflow:Wed Oct 17 05:52:58 2018: Epoch: 0 Step: 6360 Avg Loss: 4.741161823272705
+INFO:tensorflow:Wed Oct 17 05:53:03 2018: Epoch: 0 Step: 6370 Avg Loss: 4.644415378570557
+INFO:tensorflow:Wed Oct 17 05:53:08 2018: Epoch: 0 Step: 6380 Avg Loss: 4.716514587402344
+INFO:tensorflow:Wed Oct 17 05:53:13 2018: Epoch: 0 Step: 6390 Avg Loss: 4.412240505218506
+INFO:tensorflow:Wed Oct 17 05:53:18 2018: Epoch: 0 Step: 6400 Avg Loss: 4.664752960205078
+INFO:tensorflow:Wed Oct 17 05:53:19 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 05:53:28 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 05:53:37 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 05:53:47 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 05:53:56 2018: Epoch: 0 Step: 6400 ppl worse: 1.033503770828247 old: 1.0160748958587646
+INFO:tensorflow:Wed Oct 17 05:54:01 2018: Epoch: 0 Step: 6410 Avg Loss: 4.702151775360107
+INFO:tensorflow:Wed Oct 17 05:54:06 2018: Epoch: 0 Step: 6420 Avg Loss: 5.143634796142578
+INFO:tensorflow:Wed Oct 17 05:54:12 2018: Epoch: 0 Step: 6430 Avg Loss: 4.944736480712891
+INFO:tensorflow:Wed Oct 17 05:54:18 2018: Epoch: 0 Step: 6440 Avg Loss: 5.1212992668151855
+INFO:tensorflow:Wed Oct 17 05:54:23 2018: Epoch: 0 Step: 6450 Avg Loss: 5.279010772705078
+INFO:tensorflow:Wed Oct 17 05:54:28 2018: Epoch: 0 Step: 6460 Avg Loss: 5.312910556793213
+INFO:tensorflow:Wed Oct 17 05:54:33 2018: Epoch: 0 Step: 6470 Avg Loss: 5.013533592224121
+INFO:tensorflow:Wed Oct 17 05:54:39 2018: Epoch: 0 Step: 6480 Avg Loss: 4.2676777839660645
+INFO:tensorflow:Wed Oct 17 05:54:44 2018: Epoch: 0 Step: 6490 Avg Loss: 4.517788410186768
+INFO:tensorflow:Wed Oct 17 05:54:49 2018: Epoch: 0 Step: 6500 Avg Loss: 4.672549247741699
+INFO:tensorflow:Wed Oct 17 05:54:49 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 05:54:58 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 05:55:07 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 05:55:17 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 05:55:26 2018: Epoch: 0 Step: 6500 ppl worse: 1.021031141281128 old: 1.0160748958587646
+INFO:tensorflow:Wed Oct 17 05:55:32 2018: Epoch: 0 Step: 6510 Avg Loss: 5.014137268066406
+INFO:tensorflow:Wed Oct 17 05:55:36 2018: Epoch: 0 Step: 6520 Avg Loss: 4.841153144836426
+INFO:tensorflow:Wed Oct 17 05:55:41 2018: Epoch: 0 Step: 6530 Avg Loss: 4.784516334533691
+INFO:tensorflow:Wed Oct 17 05:55:47 2018: Epoch: 0 Step: 6540 Avg Loss: 4.917792797088623
+INFO:tensorflow:Wed Oct 17 05:55:52 2018: Epoch: 0 Step: 6550 Avg Loss: 4.682092666625977
+INFO:tensorflow:Wed Oct 17 05:55:57 2018: Epoch: 0 Step: 6560 Avg Loss: 4.872961044311523
+INFO:tensorflow:Wed Oct 17 05:56:02 2018: Epoch: 0 Step: 6570 Avg Loss: 5.311873435974121
+INFO:tensorflow:Wed Oct 17 05:56:07 2018: Epoch: 0 Step: 6580 Avg Loss: 5.006866931915283
+INFO:tensorflow:Wed Oct 17 05:56:12 2018: Epoch: 0 Step: 6590 Avg Loss: 4.3430938720703125
+INFO:tensorflow:Wed Oct 17 05:56:17 2018: Epoch: 0 Step: 6600 Avg Loss: 4.980905055999756
+INFO:tensorflow:Wed Oct 17 05:56:18 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 05:56:27 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 05:56:36 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 05:56:46 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 05:56:55 2018: Epoch: 0 Step: 6600 ppl worse: 1.0234156847000122 old: 1.0160748958587646
+INFO:tensorflow:Wed Oct 17 05:56:59 2018: Epoch: 0 Step: 6610 Avg Loss: 4.211266994476318
+INFO:tensorflow:Wed Oct 17 05:57:05 2018: Epoch: 0 Step: 6620 Avg Loss: 5.576778411865234
+INFO:tensorflow:Wed Oct 17 05:57:10 2018: Epoch: 0 Step: 6630 Avg Loss: 4.994478225708008
+INFO:tensorflow:Wed Oct 17 05:57:15 2018: Epoch: 0 Step: 6640 Avg Loss: 4.892494201660156
+INFO:tensorflow:Wed Oct 17 05:57:22 2018: Epoch: 0 Step: 6650 Avg Loss: 4.894991397857666
+INFO:tensorflow:Wed Oct 17 05:57:26 2018: Epoch: 0 Step: 6660 Avg Loss: 4.616009712219238
+INFO:tensorflow:Wed Oct 17 05:57:32 2018: Epoch: 0 Step: 6670 Avg Loss: 3.6571059226989746
+INFO:tensorflow:Wed Oct 17 05:57:37 2018: Epoch: 0 Step: 6680 Avg Loss: 5.061777591705322
+INFO:tensorflow:Wed Oct 17 05:57:42 2018: Epoch: 0 Step: 6690 Avg Loss: 4.164217472076416
+INFO:tensorflow:Wed Oct 17 05:57:47 2018: Epoch: 0 Step: 6700 Avg Loss: 4.586253643035889
+INFO:tensorflow:Wed Oct 17 05:57:48 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 05:57:58 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 05:58:07 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 05:58:16 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 05:58:25 2018: Epoch: 0 Step: 6700 ppl worse: 1.0259045362472534 old: 1.0160748958587646
+INFO:tensorflow:Wed Oct 17 05:58:30 2018: Epoch: 0 Step: 6710 Avg Loss: 4.399916172027588
+INFO:tensorflow:Wed Oct 17 05:58:35 2018: Epoch: 0 Step: 6720 Avg Loss: 4.423241138458252
+INFO:tensorflow:Wed Oct 17 05:58:41 2018: Epoch: 0 Step: 6730 Avg Loss: 5.045403480529785
+INFO:tensorflow:Wed Oct 17 05:58:46 2018: Epoch: 0 Step: 6740 Avg Loss: 4.010929584503174
+INFO:tensorflow:Wed Oct 17 05:58:51 2018: Epoch: 0 Step: 6750 Avg Loss: 4.753024578094482
+INFO:tensorflow:Wed Oct 17 05:58:57 2018: Epoch: 0 Step: 6760 Avg Loss: 4.797512054443359
+INFO:tensorflow:Wed Oct 17 05:59:02 2018: Epoch: 0 Step: 6770 Avg Loss: 4.840639591217041
+INFO:tensorflow:Wed Oct 17 05:59:07 2018: Epoch: 0 Step: 6780 Avg Loss: 3.840559720993042
+INFO:tensorflow:Wed Oct 17 05:59:12 2018: Epoch: 0 Step: 6790 Avg Loss: 4.594720363616943
+INFO:tensorflow:Wed Oct 17 05:59:17 2018: Epoch: 0 Step: 6800 Avg Loss: 4.697542667388916
+INFO:tensorflow:Wed Oct 17 05:59:18 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 05:59:28 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 05:59:36 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 05:59:46 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 05:59:55 2018: Epoch: 0 Step: 6800 ppl worse: 1.019693374633789 old: 1.0160748958587646
+INFO:tensorflow:Wed Oct 17 06:00:01 2018: Epoch: 0 Step: 6810 Avg Loss: 4.466847896575928
+INFO:tensorflow:Wed Oct 17 06:00:06 2018: Epoch: 0 Step: 6820 Avg Loss: 5.033483028411865
+INFO:tensorflow:Wed Oct 17 06:00:11 2018: Epoch: 0 Step: 6830 Avg Loss: 4.669869899749756
+INFO:tensorflow:Wed Oct 17 06:00:16 2018: Epoch: 0 Step: 6840 Avg Loss: 5.362936019897461
+INFO:tensorflow:Wed Oct 17 06:00:21 2018: Epoch: 0 Step: 6850 Avg Loss: 4.590199947357178
+INFO:tensorflow:Wed Oct 17 06:00:28 2018: Epoch: 0 Step: 6860 Avg Loss: 4.8625311851501465
+INFO:tensorflow:Wed Oct 17 06:00:33 2018: Epoch: 0 Step: 6870 Avg Loss: 4.3968892097473145
+INFO:tensorflow:Wed Oct 17 06:00:39 2018: Epoch: 0 Step: 6880 Avg Loss: 4.956843852996826
+INFO:tensorflow:Wed Oct 17 06:00:44 2018: Epoch: 0 Step: 6890 Avg Loss: 4.581112861633301
+INFO:tensorflow:Wed Oct 17 06:00:49 2018: Epoch: 0 Step: 6900 Avg Loss: 4.626073837280273
+INFO:tensorflow:Wed Oct 17 06:00:49 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 06:00:58 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 06:01:07 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 06:01:17 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 06:01:26 2018: Epoch: 0 Step: 6900 ppl worse: 1.0255017280578613 old: 1.0160748958587646
+INFO:tensorflow:Wed Oct 17 06:01:32 2018: Epoch: 0 Step: 6910 Avg Loss: 4.23814058303833
+INFO:tensorflow:Wed Oct 17 06:01:38 2018: Epoch: 0 Step: 6920 Avg Loss: 4.933353900909424
+INFO:tensorflow:Wed Oct 17 06:01:43 2018: Epoch: 0 Step: 6930 Avg Loss: 4.3806681632995605
+INFO:tensorflow:Wed Oct 17 06:01:49 2018: Epoch: 0 Step: 6940 Avg Loss: 4.212202548980713
+INFO:tensorflow:Wed Oct 17 06:01:54 2018: Epoch: 0 Step: 6950 Avg Loss: 4.855395317077637
+INFO:tensorflow:Wed Oct 17 06:02:00 2018: Epoch: 0 Step: 6960 Avg Loss: 4.7135491371154785
+INFO:tensorflow:Wed Oct 17 06:02:05 2018: Epoch: 0 Step: 6970 Avg Loss: 4.848510265350342
+INFO:tensorflow:Wed Oct 17 06:02:10 2018: Epoch: 0 Step: 6980 Avg Loss: 4.639909744262695
+INFO:tensorflow:Wed Oct 17 06:02:16 2018: Epoch: 0 Step: 6990 Avg Loss: 5.38886022567749
+INFO:tensorflow:Wed Oct 17 06:02:21 2018: Epoch: 0 Step: 7000 Avg Loss: 4.757631301879883
+INFO:tensorflow:Wed Oct 17 06:02:21 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 06:02:31 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 06:02:40 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 06:02:50 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 06:02:58 2018: Epoch: 0 Step: 7000 ppl worse: 1.0242189168930054 old: 1.0160748958587646
+INFO:tensorflow:Wed Oct 17 06:03:03 2018: Epoch: 0 Step: 7010 Avg Loss: 4.5286102294921875
+INFO:tensorflow:Wed Oct 17 06:03:07 2018: Epoch: 0 Step: 7020 Avg Loss: 5.029063701629639
+INFO:tensorflow:Wed Oct 17 06:03:13 2018: Epoch: 0 Step: 7030 Avg Loss: 4.566978931427002
+INFO:tensorflow:Wed Oct 17 06:03:18 2018: Epoch: 0 Step: 7040 Avg Loss: 4.8765363693237305
+INFO:tensorflow:Wed Oct 17 06:03:23 2018: Epoch: 0 Step: 7050 Avg Loss: 4.480698585510254
+INFO:tensorflow:Wed Oct 17 06:03:29 2018: Epoch: 0 Step: 7060 Avg Loss: 4.633684158325195
+INFO:tensorflow:Wed Oct 17 06:03:33 2018: Epoch: 0 Step: 7070 Avg Loss: 5.077325820922852
+INFO:tensorflow:Wed Oct 17 06:03:38 2018: Epoch: 0 Step: 7080 Avg Loss: 5.043821334838867
+INFO:tensorflow:Wed Oct 17 06:03:43 2018: Epoch: 0 Step: 7090 Avg Loss: 5.356789588928223
+INFO:tensorflow:Wed Oct 17 06:03:48 2018: Epoch: 0 Step: 7100 Avg Loss: 4.2458882331848145
+INFO:tensorflow:Wed Oct 17 06:03:48 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 06:03:58 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 06:04:07 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 06:04:16 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 06:04:25 2018: Epoch: 0 Step: 7100 ppl worse: 1.0215911865234375 old: 1.0160748958587646
+INFO:tensorflow:Wed Oct 17 06:04:31 2018: Epoch: 0 Step: 7110 Avg Loss: 4.866251468658447
+INFO:tensorflow:Wed Oct 17 06:04:37 2018: Epoch: 0 Step: 7120 Avg Loss: 4.62410306930542
+INFO:tensorflow:Wed Oct 17 06:04:43 2018: Epoch: 0 Step: 7130 Avg Loss: 4.95601749420166
+INFO:tensorflow:Wed Oct 17 06:04:49 2018: Epoch: 0 Step: 7140 Avg Loss: 4.854485511779785
+INFO:tensorflow:Wed Oct 17 06:04:54 2018: Epoch: 0 Step: 7150 Avg Loss: 4.929092884063721
+INFO:tensorflow:Wed Oct 17 06:05:00 2018: Epoch: 0 Step: 7160 Avg Loss: 5.025395393371582
+INFO:tensorflow:Wed Oct 17 06:05:05 2018: Epoch: 0 Step: 7170 Avg Loss: 4.30938720703125
+INFO:tensorflow:Wed Oct 17 06:05:10 2018: Epoch: 0 Step: 7180 Avg Loss: 4.550505638122559
+INFO:tensorflow:Wed Oct 17 06:05:15 2018: Epoch: 0 Step: 7190 Avg Loss: 4.742872714996338
+INFO:tensorflow:Wed Oct 17 06:05:21 2018: Epoch: 0 Step: 7200 Avg Loss: 4.496645927429199
+INFO:tensorflow:Wed Oct 17 06:05:21 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 06:05:31 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 06:05:40 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 06:05:50 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 06:05:58 2018: Epoch: 0 Step: 7200 ppl worse: 1.025882601737976 old: 1.0160748958587646
+INFO:tensorflow:Wed Oct 17 06:06:03 2018: Epoch: 0 Step: 7210 Avg Loss: 4.889401435852051
+INFO:tensorflow:Wed Oct 17 06:06:09 2018: Epoch: 0 Step: 7220 Avg Loss: 5.417109489440918
+INFO:tensorflow:Wed Oct 17 06:06:13 2018: Epoch: 0 Step: 7230 Avg Loss: 5.005849361419678
+INFO:tensorflow:Wed Oct 17 06:06:18 2018: Epoch: 0 Step: 7240 Avg Loss: 4.685837745666504
+INFO:tensorflow:Wed Oct 17 06:06:23 2018: Epoch: 0 Step: 7250 Avg Loss: 5.245304584503174
+INFO:tensorflow:Wed Oct 17 06:06:28 2018: Epoch: 0 Step: 7260 Avg Loss: 5.4692230224609375
+INFO:tensorflow:Wed Oct 17 06:06:34 2018: Epoch: 0 Step: 7270 Avg Loss: 5.044562339782715
+INFO:tensorflow:Wed Oct 17 06:06:39 2018: Epoch: 0 Step: 7280 Avg Loss: 4.742666721343994
+INFO:tensorflow:Wed Oct 17 06:06:44 2018: Epoch: 0 Step: 7290 Avg Loss: 4.63605260848999
+INFO:tensorflow:Wed Oct 17 06:06:49 2018: Epoch: 0 Step: 7300 Avg Loss: 4.88970947265625
+INFO:tensorflow:Wed Oct 17 06:06:49 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 06:06:58 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 06:07:07 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 06:07:17 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 06:07:26 2018: Epoch: 0 Step: 7300 ppl worse: 1.0279171466827393 old: 1.0160748958587646
+INFO:tensorflow:Wed Oct 17 06:07:32 2018: Epoch: 0 Step: 7310 Avg Loss: 4.310585021972656
+INFO:tensorflow:Wed Oct 17 06:07:38 2018: Epoch: 0 Step: 7320 Avg Loss: 4.926699638366699
+INFO:tensorflow:Wed Oct 17 06:07:43 2018: Epoch: 0 Step: 7330 Avg Loss: 4.778663158416748
+INFO:tensorflow:Wed Oct 17 06:07:49 2018: Epoch: 0 Step: 7340 Avg Loss: 4.733829975128174
+INFO:tensorflow:Wed Oct 17 06:07:53 2018: Epoch: 0 Step: 7350 Avg Loss: 4.437315940856934
+INFO:tensorflow:Wed Oct 17 06:07:58 2018: Epoch: 0 Step: 7360 Avg Loss: 5.063140869140625
+INFO:tensorflow:Wed Oct 17 06:08:03 2018: Epoch: 0 Step: 7370 Avg Loss: 5.251523971557617
+INFO:tensorflow:Wed Oct 17 06:08:08 2018: Epoch: 0 Step: 7380 Avg Loss: 4.889364719390869
+INFO:tensorflow:Wed Oct 17 06:08:13 2018: Epoch: 0 Step: 7390 Avg Loss: 5.007574081420898
+INFO:tensorflow:Wed Oct 17 06:08:18 2018: Epoch: 0 Step: 7400 Avg Loss: 5.215611934661865
+INFO:tensorflow:Wed Oct 17 06:08:19 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 06:08:28 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 06:08:38 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 06:08:47 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 06:08:56 2018: Epoch: 0 Step: 7400 ppl worse: 1.0213468074798584 old: 1.0160748958587646
+INFO:tensorflow:Wed Oct 17 06:09:02 2018: Epoch: 0 Step: 7410 Avg Loss: 5.288544178009033
+INFO:tensorflow:Wed Oct 17 06:09:06 2018: Epoch: 0 Step: 7420 Avg Loss: 4.301624298095703
+INFO:tensorflow:Wed Oct 17 06:09:12 2018: Epoch: 0 Step: 7430 Avg Loss: 5.152397632598877
+INFO:tensorflow:Wed Oct 17 06:09:18 2018: Epoch: 0 Step: 7440 Avg Loss: 5.082602500915527
+INFO:tensorflow:Wed Oct 17 06:09:23 2018: Epoch: 0 Step: 7450 Avg Loss: 5.2178754806518555
+INFO:tensorflow:Wed Oct 17 06:09:27 2018: Epoch: 0 Step: 7460 Avg Loss: 4.873866081237793
+INFO:tensorflow:Wed Oct 17 06:09:33 2018: Epoch: 0 Step: 7470 Avg Loss: 4.923995494842529
+INFO:tensorflow:Wed Oct 17 06:09:37 2018: Epoch: 0 Step: 7480 Avg Loss: 4.537017822265625
+INFO:tensorflow:Wed Oct 17 06:09:43 2018: Epoch: 0 Step: 7490 Avg Loss: 5.086632251739502
+INFO:tensorflow:Wed Oct 17 06:09:49 2018: Epoch: 0 Step: 7500 Avg Loss: 4.837172508239746
+INFO:tensorflow:Wed Oct 17 06:09:50 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 06:09:59 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 06:10:08 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 06:10:18 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 06:10:27 2018: Epoch: 0 Step: 7500 ppl worse: 1.0308598279953003 old: 1.0160748958587646
+INFO:tensorflow:Wed Oct 17 06:10:32 2018: Epoch: 0 Step: 7510 Avg Loss: 4.776974678039551
+INFO:tensorflow:Wed Oct 17 06:10:38 2018: Epoch: 0 Step: 7520 Avg Loss: 4.476186275482178
+INFO:tensorflow:Wed Oct 17 06:10:43 2018: Epoch: 0 Step: 7530 Avg Loss: 4.907792091369629
+INFO:tensorflow:Wed Oct 17 06:10:48 2018: Epoch: 0 Step: 7540 Avg Loss: 4.3964080810546875
+INFO:tensorflow:Wed Oct 17 06:10:54 2018: Epoch: 0 Step: 7550 Avg Loss: 5.595726490020752
+INFO:tensorflow:Wed Oct 17 06:10:58 2018: Epoch: 0 Step: 7560 Avg Loss: 5.0553669929504395
+INFO:tensorflow:Wed Oct 17 06:11:03 2018: Epoch: 0 Step: 7570 Avg Loss: 4.242661952972412
+INFO:tensorflow:Wed Oct 17 06:11:09 2018: Epoch: 0 Step: 7580 Avg Loss: 4.207751274108887
+INFO:tensorflow:Wed Oct 17 06:11:15 2018: Epoch: 0 Step: 7590 Avg Loss: 4.354356288909912
+INFO:tensorflow:Wed Oct 17 06:11:21 2018: Epoch: 0 Step: 7600 Avg Loss: 4.866885662078857
+INFO:tensorflow:Wed Oct 17 06:11:22 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 06:11:30 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 06:11:40 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 06:11:49 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 06:11:58 2018: Epoch: 0 Step: 7600 ppl worse: 1.032157301902771 old: 1.0160748958587646
+INFO:tensorflow:Wed Oct 17 06:12:03 2018: Epoch: 0 Step: 7610 Avg Loss: 4.902482509613037
+INFO:tensorflow:Wed Oct 17 06:12:09 2018: Epoch: 0 Step: 7620 Avg Loss: 4.6006293296813965
+INFO:tensorflow:Wed Oct 17 06:12:13 2018: Epoch: 0 Step: 7630 Avg Loss: 4.657570838928223
+INFO:tensorflow:Wed Oct 17 06:12:19 2018: Epoch: 0 Step: 7640 Avg Loss: 5.413753509521484
+INFO:tensorflow:Wed Oct 17 06:12:24 2018: Epoch: 0 Step: 7650 Avg Loss: 5.195091247558594
+INFO:tensorflow:Wed Oct 17 06:12:29 2018: Epoch: 0 Step: 7660 Avg Loss: 4.350586891174316
+INFO:tensorflow:Wed Oct 17 06:12:34 2018: Epoch: 0 Step: 7670 Avg Loss: 4.627237319946289
+INFO:tensorflow:Wed Oct 17 06:12:39 2018: Epoch: 0 Step: 7680 Avg Loss: 5.065857887268066
+INFO:tensorflow:Wed Oct 17 06:12:45 2018: Epoch: 0 Step: 7690 Avg Loss: 4.792784214019775
+INFO:tensorflow:Wed Oct 17 06:12:50 2018: Epoch: 0 Step: 7700 Avg Loss: 4.943901538848877
+INFO:tensorflow:Wed Oct 17 06:12:51 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 06:13:00 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 06:13:09 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 06:13:19 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 06:13:28 2018: Epoch: 0 Step: 7700 ppl worse: 1.0329264402389526 old: 1.0160748958587646
+INFO:tensorflow:Wed Oct 17 06:13:33 2018: Epoch: 0 Step: 7710 Avg Loss: 4.678359508514404
+INFO:tensorflow:Wed Oct 17 06:13:38 2018: Epoch: 0 Step: 7720 Avg Loss: 4.638195991516113
+INFO:tensorflow:Wed Oct 17 06:13:44 2018: Epoch: 0 Step: 7730 Avg Loss: 4.627067565917969
+INFO:tensorflow:Wed Oct 17 06:13:49 2018: Epoch: 0 Step: 7740 Avg Loss: 4.814323425292969
+INFO:tensorflow:Wed Oct 17 06:13:54 2018: Epoch: 0 Step: 7750 Avg Loss: 4.884265899658203
+INFO:tensorflow:Wed Oct 17 06:14:00 2018: Epoch: 0 Step: 7760 Avg Loss: 4.5128631591796875
+INFO:tensorflow:Wed Oct 17 06:14:05 2018: Epoch: 0 Step: 7770 Avg Loss: 4.641216278076172
+INFO:tensorflow:Wed Oct 17 06:14:11 2018: Epoch: 0 Step: 7780 Avg Loss: 4.836263179779053
+INFO:tensorflow:Wed Oct 17 06:14:16 2018: Epoch: 0 Step: 7790 Avg Loss: 4.124919414520264
+INFO:tensorflow:Wed Oct 17 06:14:21 2018: Epoch: 0 Step: 7800 Avg Loss: 5.218189716339111
+INFO:tensorflow:Wed Oct 17 06:14:22 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 06:14:31 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 06:14:41 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 06:14:50 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 06:14:59 2018: Epoch: 0 Step: 7800 ppl worse: 1.023374080657959 old: 1.0160748958587646
+INFO:tensorflow:Wed Oct 17 06:15:05 2018: Epoch: 0 Step: 7810 Avg Loss: 4.935769081115723
+INFO:tensorflow:Wed Oct 17 06:15:09 2018: Epoch: 0 Step: 7820 Avg Loss: 4.501968860626221
+INFO:tensorflow:Wed Oct 17 06:15:14 2018: Epoch: 0 Step: 7830 Avg Loss: 4.7176713943481445
+INFO:tensorflow:Wed Oct 17 06:15:20 2018: Epoch: 0 Step: 7840 Avg Loss: 4.392069339752197
+INFO:tensorflow:Wed Oct 17 06:15:24 2018: Epoch: 0 Step: 7850 Avg Loss: 4.740123271942139
+INFO:tensorflow:Wed Oct 17 06:15:29 2018: Epoch: 0 Step: 7860 Avg Loss: 4.973270416259766
+INFO:tensorflow:Wed Oct 17 06:15:35 2018: Epoch: 0 Step: 7870 Avg Loss: 4.355062961578369
+INFO:tensorflow:Wed Oct 17 06:15:40 2018: Epoch: 0 Step: 7880 Avg Loss: 4.324813365936279
+INFO:tensorflow:Wed Oct 17 06:15:46 2018: Epoch: 0 Step: 7890 Avg Loss: 4.677239894866943
+INFO:tensorflow:Wed Oct 17 06:15:50 2018: Epoch: 0 Step: 7900 Avg Loss: 4.726937294006348
+INFO:tensorflow:Wed Oct 17 06:15:51 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 06:15:59 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 06:16:09 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 06:16:18 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 06:16:28 2018: Epoch: 0 Step: 7900 ppl worse: 1.0246797800064087 old: 1.0160748958587646
+INFO:tensorflow:Wed Oct 17 06:16:33 2018: Epoch: 0 Step: 7910 Avg Loss: 5.054619789123535
+INFO:tensorflow:Wed Oct 17 06:16:38 2018: Epoch: 0 Step: 7920 Avg Loss: 4.569012641906738
+INFO:tensorflow:Wed Oct 17 06:16:43 2018: Epoch: 0 Step: 7930 Avg Loss: 4.381616592407227
+INFO:tensorflow:Wed Oct 17 06:16:48 2018: Epoch: 0 Step: 7940 Avg Loss: 4.800290107727051
+INFO:tensorflow:Wed Oct 17 06:16:54 2018: Epoch: 0 Step: 7950 Avg Loss: 4.942473888397217
+INFO:tensorflow:Wed Oct 17 06:16:59 2018: Epoch: 0 Step: 7960 Avg Loss: 4.666847229003906
+INFO:tensorflow:Wed Oct 17 06:17:05 2018: Epoch: 0 Step: 7970 Avg Loss: 4.59705924987793
+INFO:tensorflow:Wed Oct 17 06:17:10 2018: Epoch: 0 Step: 7980 Avg Loss: 4.611631393432617
+INFO:tensorflow:Wed Oct 17 06:17:16 2018: Epoch: 0 Step: 7990 Avg Loss: 4.951602935791016
+INFO:tensorflow:Wed Oct 17 06:17:21 2018: Epoch: 0 Step: 8000 Avg Loss: 4.442090034484863
+INFO:tensorflow:Wed Oct 17 06:17:21 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 06:17:32 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 06:17:41 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 06:17:50 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 06:17:59 2018: Epoch: 0 Step: 8000 ppl worse: 1.023989200592041 old: 1.0160748958587646
+INFO:tensorflow:Wed Oct 17 06:18:03 2018: Epoch: 0 Step: 8010 Avg Loss: 4.894170761108398
+INFO:tensorflow:Wed Oct 17 06:18:09 2018: Epoch: 0 Step: 8020 Avg Loss: 5.1963419914245605
+INFO:tensorflow:Wed Oct 17 06:18:14 2018: Epoch: 0 Step: 8030 Avg Loss: 5.080317497253418
+INFO:tensorflow:Wed Oct 17 06:18:19 2018: Epoch: 0 Step: 8040 Avg Loss: 5.079846382141113
+INFO:tensorflow:Wed Oct 17 06:18:25 2018: Epoch: 0 Step: 8050 Avg Loss: 4.721053123474121
+INFO:tensorflow:Wed Oct 17 06:18:30 2018: Epoch: 0 Step: 8060 Avg Loss: 4.571062088012695
+INFO:tensorflow:Wed Oct 17 06:18:35 2018: Epoch: 0 Step: 8070 Avg Loss: 4.596228122711182
+INFO:tensorflow:Wed Oct 17 06:18:40 2018: Epoch: 0 Step: 8080 Avg Loss: 4.90733003616333
+INFO:tensorflow:Wed Oct 17 06:18:45 2018: Epoch: 0 Step: 8090 Avg Loss: 5.227750778198242
+INFO:tensorflow:Wed Oct 17 06:18:51 2018: Epoch: 0 Step: 8100 Avg Loss: 5.0467071533203125
+INFO:tensorflow:Wed Oct 17 06:18:51 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 06:19:00 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 06:19:10 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 06:19:19 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 06:19:28 2018: Epoch: 0 Step: 8100 ppl worse: 1.023581862449646 old: 1.0160748958587646
+INFO:tensorflow:Wed Oct 17 06:19:33 2018: Epoch: 0 Step: 8110 Avg Loss: 5.012455940246582
+INFO:tensorflow:Wed Oct 17 06:19:38 2018: Epoch: 0 Step: 8120 Avg Loss: 4.0554070472717285
+INFO:tensorflow:Wed Oct 17 06:19:43 2018: Epoch: 0 Step: 8130 Avg Loss: 5.234511852264404
+INFO:tensorflow:Wed Oct 17 06:19:49 2018: Epoch: 0 Step: 8140 Avg Loss: 5.101770877838135
+INFO:tensorflow:Wed Oct 17 06:19:54 2018: Epoch: 0 Step: 8150 Avg Loss: 4.752877235412598
+INFO:tensorflow:Wed Oct 17 06:19:59 2018: Epoch: 0 Step: 8160 Avg Loss: 4.788489818572998
+INFO:tensorflow:Wed Oct 17 06:20:04 2018: Epoch: 0 Step: 8170 Avg Loss: 4.995485782623291
+INFO:tensorflow:Wed Oct 17 06:20:10 2018: Epoch: 0 Step: 8180 Avg Loss: 4.722410678863525
+INFO:tensorflow:Wed Oct 17 06:20:15 2018: Epoch: 0 Step: 8190 Avg Loss: 4.4381022453308105
+INFO:tensorflow:Wed Oct 17 06:20:21 2018: Epoch: 0 Step: 8200 Avg Loss: 4.567654609680176
+INFO:tensorflow:Wed Oct 17 06:20:21 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 06:20:31 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 06:20:40 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 06:20:49 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 06:20:58 2018: Epoch: 0 Step: 8200 ppl worse: 1.0198373794555664 old: 1.0160748958587646
+INFO:tensorflow:Wed Oct 17 06:21:04 2018: Epoch: 0 Step: 8210 Avg Loss: 4.638431549072266
+INFO:tensorflow:Wed Oct 17 06:21:09 2018: Epoch: 0 Step: 8220 Avg Loss: 4.790248394012451
+INFO:tensorflow:Wed Oct 17 06:21:14 2018: Epoch: 0 Step: 8230 Avg Loss: 4.39027214050293
+INFO:tensorflow:Wed Oct 17 06:21:19 2018: Epoch: 0 Step: 8240 Avg Loss: 4.667177677154541
+INFO:tensorflow:Wed Oct 17 06:21:25 2018: Epoch: 0 Step: 8250 Avg Loss: 5.2020111083984375
+INFO:tensorflow:Wed Oct 17 06:21:30 2018: Epoch: 0 Step: 8260 Avg Loss: 4.689363479614258
+INFO:tensorflow:Wed Oct 17 06:21:35 2018: Epoch: 0 Step: 8270 Avg Loss: 5.230711460113525
+INFO:tensorflow:Wed Oct 17 06:21:41 2018: Epoch: 0 Step: 8280 Avg Loss: 4.9225850105285645
+INFO:tensorflow:Wed Oct 17 06:21:46 2018: Epoch: 0 Step: 8290 Avg Loss: 4.667008876800537
+INFO:tensorflow:Wed Oct 17 06:21:51 2018: Epoch: 0 Step: 8300 Avg Loss: 4.753620147705078
+INFO:tensorflow:Wed Oct 17 06:21:52 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 06:22:01 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 06:22:10 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 06:22:19 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 06:22:29 2018: Epoch: 0 Step: 8300 ppl worse: 1.0326513051986694 old: 1.0160748958587646
+INFO:tensorflow:Wed Oct 17 06:22:34 2018: Epoch: 0 Step: 8310 Avg Loss: 5.14424991607666
+INFO:tensorflow:Wed Oct 17 06:22:39 2018: Epoch: 0 Step: 8320 Avg Loss: 4.872011184692383
+INFO:tensorflow:Wed Oct 17 06:22:45 2018: Epoch: 0 Step: 8330 Avg Loss: 4.977639198303223
+INFO:tensorflow:Wed Oct 17 06:22:51 2018: Epoch: 0 Step: 8340 Avg Loss: 4.751790523529053
+INFO:tensorflow:Wed Oct 17 06:22:56 2018: Epoch: 0 Step: 8350 Avg Loss: 4.256947040557861
+INFO:tensorflow:Wed Oct 17 06:23:01 2018: Epoch: 0 Step: 8360 Avg Loss: 4.349097728729248
+INFO:tensorflow:Wed Oct 17 06:23:06 2018: Epoch: 0 Step: 8370 Avg Loss: 4.669139862060547
+INFO:tensorflow:Wed Oct 17 06:23:12 2018: Epoch: 0 Step: 8380 Avg Loss: 5.210781574249268
+INFO:tensorflow:Wed Oct 17 06:23:17 2018: Epoch: 0 Step: 8390 Avg Loss: 4.767246246337891
+INFO:tensorflow:Wed Oct 17 06:23:22 2018: Epoch: 0 Step: 8400 Avg Loss: 4.442472457885742
+INFO:tensorflow:Wed Oct 17 06:23:22 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 06:23:32 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 06:23:41 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 06:23:51 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 06:24:00 2018: Epoch: 0 Step: 8400 ppl improved: 1.013858437538147 old: 1.0160748958587646 Model saved: ./encoder_nmt/ckpt-7
+INFO:tensorflow:Wed Oct 17 06:24:05 2018: Epoch: 0 Step: 8410 Avg Loss: 4.218843460083008
+INFO:tensorflow:Wed Oct 17 06:24:11 2018: Epoch: 0 Step: 8420 Avg Loss: 4.612972736358643
+INFO:tensorflow:Wed Oct 17 06:24:16 2018: Epoch: 0 Step: 8430 Avg Loss: 4.924290180206299
+INFO:tensorflow:Wed Oct 17 06:24:21 2018: Epoch: 0 Step: 8440 Avg Loss: 4.805234909057617
+INFO:tensorflow:Wed Oct 17 06:24:27 2018: Epoch: 0 Step: 8450 Avg Loss: 4.795217990875244
+INFO:tensorflow:Wed Oct 17 06:24:31 2018: Epoch: 0 Step: 8460 Avg Loss: 4.581377029418945
+INFO:tensorflow:Wed Oct 17 06:24:36 2018: Epoch: 0 Step: 8470 Avg Loss: 4.95232629776001
+INFO:tensorflow:Wed Oct 17 06:24:42 2018: Epoch: 0 Step: 8480 Avg Loss: 5.282527446746826
+INFO:tensorflow:Wed Oct 17 06:24:48 2018: Epoch: 0 Step: 8490 Avg Loss: 4.452067852020264
+INFO:tensorflow:Wed Oct 17 06:24:54 2018: Epoch: 0 Step: 8500 Avg Loss: 4.8069963455200195
+INFO:tensorflow:Wed Oct 17 06:24:54 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 06:25:04 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 06:25:13 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 06:25:22 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 06:25:31 2018: Epoch: 0 Step: 8500 ppl worse: 1.0254727602005005 old: 1.013858437538147
+INFO:tensorflow:Wed Oct 17 06:25:36 2018: Epoch: 0 Step: 8510 Avg Loss: 4.782777786254883
+INFO:tensorflow:Wed Oct 17 06:25:42 2018: Epoch: 0 Step: 8520 Avg Loss: 4.848217964172363
+INFO:tensorflow:Wed Oct 17 06:25:48 2018: Epoch: 0 Step: 8530 Avg Loss: 4.889590740203857
+INFO:tensorflow:Wed Oct 17 06:25:53 2018: Epoch: 0 Step: 8540 Avg Loss: 4.836585998535156
+INFO:tensorflow:Wed Oct 17 06:25:59 2018: Epoch: 0 Step: 8550 Avg Loss: 4.7446818351745605
+INFO:tensorflow:Wed Oct 17 06:26:04 2018: Epoch: 0 Step: 8560 Avg Loss: 4.34926176071167
+INFO:tensorflow:Wed Oct 17 06:26:10 2018: Epoch: 0 Step: 8570 Avg Loss: 4.28981351852417
+INFO:tensorflow:Wed Oct 17 06:26:14 2018: Epoch: 0 Step: 8580 Avg Loss: 5.272820949554443
+INFO:tensorflow:Wed Oct 17 06:26:20 2018: Epoch: 0 Step: 8590 Avg Loss: 4.389197826385498
+INFO:tensorflow:Wed Oct 17 06:26:26 2018: Epoch: 0 Step: 8600 Avg Loss: 4.665837287902832
+INFO:tensorflow:Wed Oct 17 06:26:26 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 06:26:36 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 06:26:45 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 06:26:54 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 06:27:03 2018: Epoch: 0 Step: 8600 ppl worse: 1.0196748971939087 old: 1.013858437538147
+INFO:tensorflow:Wed Oct 17 06:27:08 2018: Epoch: 0 Step: 8610 Avg Loss: 4.2942728996276855
+INFO:tensorflow:Wed Oct 17 06:27:14 2018: Epoch: 0 Step: 8620 Avg Loss: 4.177030086517334
+INFO:tensorflow:Wed Oct 17 06:27:19 2018: Epoch: 0 Step: 8630 Avg Loss: 4.032095909118652
+INFO:tensorflow:Wed Oct 17 06:27:25 2018: Epoch: 0 Step: 8640 Avg Loss: 5.13716983795166
+INFO:tensorflow:Wed Oct 17 06:27:30 2018: Epoch: 0 Step: 8650 Avg Loss: 4.326396465301514
+INFO:tensorflow:Wed Oct 17 06:27:35 2018: Epoch: 0 Step: 8660 Avg Loss: 4.794663429260254
+INFO:tensorflow:Wed Oct 17 06:27:40 2018: Epoch: 0 Step: 8670 Avg Loss: 5.0161824226379395
+INFO:tensorflow:Wed Oct 17 06:27:45 2018: Epoch: 0 Step: 8680 Avg Loss: 4.2119317054748535
+INFO:tensorflow:Wed Oct 17 06:27:50 2018: Epoch: 0 Step: 8690 Avg Loss: 4.868031024932861
+INFO:tensorflow:Wed Oct 17 06:27:55 2018: Epoch: 0 Step: 8700 Avg Loss: 4.8114495277404785
+INFO:tensorflow:Wed Oct 17 06:27:56 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 06:28:05 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 06:28:15 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 06:28:24 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 06:28:33 2018: Epoch: 0 Step: 8700 ppl improved: 1.011589765548706 old: 1.013858437538147 Model saved: ./encoder_nmt/ckpt-8
+INFO:tensorflow:Wed Oct 17 06:28:38 2018: Epoch: 0 Step: 8710 Avg Loss: 4.692567825317383
+INFO:tensorflow:Wed Oct 17 06:28:44 2018: Epoch: 0 Step: 8720 Avg Loss: 4.827314376831055
+INFO:tensorflow:Wed Oct 17 06:28:49 2018: Epoch: 0 Step: 8730 Avg Loss: 4.9123616218566895
+INFO:tensorflow:Wed Oct 17 06:28:54 2018: Epoch: 0 Step: 8740 Avg Loss: 4.3509202003479
+INFO:tensorflow:Wed Oct 17 06:29:00 2018: Epoch: 0 Step: 8750 Avg Loss: 4.621397018432617
+INFO:tensorflow:Wed Oct 17 06:29:05 2018: Epoch: 0 Step: 8760 Avg Loss: 5.253530025482178
+INFO:tensorflow:Wed Oct 17 06:29:10 2018: Epoch: 0 Step: 8770 Avg Loss: 3.75123929977417
+INFO:tensorflow:Wed Oct 17 06:29:15 2018: Epoch: 0 Step: 8780 Avg Loss: 5.020787239074707
+INFO:tensorflow:Wed Oct 17 06:29:20 2018: Epoch: 0 Step: 8790 Avg Loss: 4.8174591064453125
+INFO:tensorflow:Wed Oct 17 06:29:26 2018: Epoch: 0 Step: 8800 Avg Loss: 5.49531364440918
+INFO:tensorflow:Wed Oct 17 06:29:26 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 06:29:36 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 06:29:45 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 06:29:55 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 06:30:03 2018: Epoch: 0 Step: 8800 ppl worse: 1.0203016996383667 old: 1.011589765548706
+INFO:tensorflow:Wed Oct 17 06:30:09 2018: Epoch: 0 Step: 8810 Avg Loss: 4.824610710144043
+INFO:tensorflow:Wed Oct 17 06:30:14 2018: Epoch: 0 Step: 8820 Avg Loss: 5.059005260467529
+INFO:tensorflow:Wed Oct 17 06:30:19 2018: Epoch: 0 Step: 8830 Avg Loss: 4.436229228973389
+INFO:tensorflow:Wed Oct 17 06:30:24 2018: Epoch: 0 Step: 8840 Avg Loss: 4.658344268798828
+INFO:tensorflow:Wed Oct 17 06:30:30 2018: Epoch: 0 Step: 8850 Avg Loss: 4.477605819702148
+INFO:tensorflow:Wed Oct 17 06:30:34 2018: Epoch: 0 Step: 8860 Avg Loss: 5.00439453125
+INFO:tensorflow:Wed Oct 17 06:30:40 2018: Epoch: 0 Step: 8870 Avg Loss: 4.675952911376953
+INFO:tensorflow:Wed Oct 17 06:30:45 2018: Epoch: 0 Step: 8880 Avg Loss: 4.847922325134277
+INFO:tensorflow:Wed Oct 17 06:30:51 2018: Epoch: 0 Step: 8890 Avg Loss: 4.878334999084473
+INFO:tensorflow:Wed Oct 17 06:30:56 2018: Epoch: 0 Step: 8900 Avg Loss: 4.802578449249268
+INFO:tensorflow:Wed Oct 17 06:30:57 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 06:31:06 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 06:31:15 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 06:31:24 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 06:31:34 2018: Epoch: 0 Step: 8900 ppl worse: 1.0246306657791138 old: 1.011589765548706
+INFO:tensorflow:Wed Oct 17 06:31:39 2018: Epoch: 0 Step: 8910 Avg Loss: 4.371285438537598
+INFO:tensorflow:Wed Oct 17 06:31:44 2018: Epoch: 0 Step: 8920 Avg Loss: 4.925116062164307
+INFO:tensorflow:Wed Oct 17 06:31:49 2018: Epoch: 0 Step: 8930 Avg Loss: 4.682450771331787
+INFO:tensorflow:Wed Oct 17 06:31:54 2018: Epoch: 0 Step: 8940 Avg Loss: 4.077539443969727
+INFO:tensorflow:Wed Oct 17 06:32:00 2018: Epoch: 0 Step: 8950 Avg Loss: 4.067675590515137
+INFO:tensorflow:Wed Oct 17 06:32:05 2018: Epoch: 0 Step: 8960 Avg Loss: 5.094308376312256
+INFO:tensorflow:Wed Oct 17 06:32:09 2018: Epoch: 0 Step: 8970 Avg Loss: 4.82263708114624
+INFO:tensorflow:Wed Oct 17 06:32:14 2018: Epoch: 0 Step: 8980 Avg Loss: 4.863330364227295
+INFO:tensorflow:Wed Oct 17 06:32:19 2018: Epoch: 0 Step: 8990 Avg Loss: 4.5973615646362305
+INFO:tensorflow:Wed Oct 17 06:32:24 2018: Epoch: 0 Step: 9000 Avg Loss: 4.933663368225098
+INFO:tensorflow:Wed Oct 17 06:32:25 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 06:32:34 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 06:32:43 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 06:32:53 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 06:33:02 2018: Epoch: 0 Step: 9000 ppl worse: 1.026332974433899 old: 1.011589765548706
+INFO:tensorflow:Wed Oct 17 06:33:08 2018: Epoch: 0 Step: 9010 Avg Loss: 4.4679460525512695
+INFO:tensorflow:Wed Oct 17 06:33:13 2018: Epoch: 0 Step: 9020 Avg Loss: 4.818585395812988
+INFO:tensorflow:Wed Oct 17 06:33:17 2018: Epoch: 0 Step: 9030 Avg Loss: 4.548452377319336
+INFO:tensorflow:Wed Oct 17 06:33:23 2018: Epoch: 0 Step: 9040 Avg Loss: 4.389646530151367
+INFO:tensorflow:Wed Oct 17 06:33:28 2018: Epoch: 0 Step: 9050 Avg Loss: 4.597887992858887
+INFO:tensorflow:Wed Oct 17 06:33:33 2018: Epoch: 0 Step: 9060 Avg Loss: 4.805856227874756
+INFO:tensorflow:Wed Oct 17 06:33:39 2018: Epoch: 0 Step: 9070 Avg Loss: 4.355172157287598
+INFO:tensorflow:Wed Oct 17 06:33:44 2018: Epoch: 0 Step: 9080 Avg Loss: 4.1312761306762695
+INFO:tensorflow:Wed Oct 17 06:33:50 2018: Epoch: 0 Step: 9090 Avg Loss: 5.02847957611084
+INFO:tensorflow:Wed Oct 17 06:33:55 2018: Epoch: 0 Step: 9100 Avg Loss: 4.640994071960449
+INFO:tensorflow:Wed Oct 17 06:33:55 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 06:34:04 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 06:34:13 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 06:34:23 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 06:34:32 2018: Epoch: 0 Step: 9100 ppl worse: 1.0286788940429688 old: 1.011589765548706
+INFO:tensorflow:Wed Oct 17 06:34:37 2018: Epoch: 0 Step: 9110 Avg Loss: 5.070781230926514
+INFO:tensorflow:Wed Oct 17 06:34:44 2018: Epoch: 0 Step: 9120 Avg Loss: 4.514016628265381
+INFO:tensorflow:Wed Oct 17 06:34:48 2018: Epoch: 0 Step: 9130 Avg Loss: 4.860227584838867
+INFO:tensorflow:Wed Oct 17 06:34:54 2018: Epoch: 0 Step: 9140 Avg Loss: 4.265718936920166
+INFO:tensorflow:Wed Oct 17 06:35:00 2018: Epoch: 0 Step: 9150 Avg Loss: 4.960756301879883
+INFO:tensorflow:Wed Oct 17 06:35:05 2018: Epoch: 0 Step: 9160 Avg Loss: 4.829596996307373
+INFO:tensorflow:Wed Oct 17 06:35:10 2018: Epoch: 0 Step: 9170 Avg Loss: 4.6888017654418945
+INFO:tensorflow:Wed Oct 17 06:35:15 2018: Epoch: 0 Step: 9180 Avg Loss: 5.071826934814453
+INFO:tensorflow:Wed Oct 17 06:35:20 2018: Epoch: 0 Step: 9190 Avg Loss: 4.707045555114746
+INFO:tensorflow:Wed Oct 17 06:35:26 2018: Epoch: 0 Step: 9200 Avg Loss: 4.8255934715271
+INFO:tensorflow:Wed Oct 17 06:35:27 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 06:35:36 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 06:35:45 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 06:35:54 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 06:36:04 2018: Epoch: 0 Step: 9200 ppl worse: 1.025357961654663 old: 1.011589765548706
+INFO:tensorflow:Wed Oct 17 06:36:09 2018: Epoch: 0 Step: 9210 Avg Loss: 4.704680442810059
+INFO:tensorflow:Wed Oct 17 06:36:13 2018: Epoch: 0 Step: 9220 Avg Loss: 5.453675270080566
+INFO:tensorflow:Wed Oct 17 06:36:19 2018: Epoch: 0 Step: 9230 Avg Loss: 4.581964492797852
+INFO:tensorflow:Wed Oct 17 06:36:24 2018: Epoch: 0 Step: 9240 Avg Loss: 5.048824787139893
+INFO:tensorflow:Wed Oct 17 06:36:30 2018: Epoch: 0 Step: 9250 Avg Loss: 4.68621301651001
+INFO:tensorflow:Wed Oct 17 06:36:35 2018: Epoch: 0 Step: 9260 Avg Loss: 4.6286492347717285
+INFO:tensorflow:Wed Oct 17 06:36:40 2018: Epoch: 0 Step: 9270 Avg Loss: 4.478578090667725
+INFO:tensorflow:Wed Oct 17 06:36:45 2018: Epoch: 0 Step: 9280 Avg Loss: 5.022614002227783
+INFO:tensorflow:Wed Oct 17 06:36:51 2018: Epoch: 0 Step: 9290 Avg Loss: 4.288255214691162
+INFO:tensorflow:Wed Oct 17 06:36:56 2018: Epoch: 0 Step: 9300 Avg Loss: 4.800875663757324
+INFO:tensorflow:Wed Oct 17 06:36:56 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 06:37:05 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 06:37:15 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 06:37:25 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 06:37:33 2018: Epoch: 0 Step: 9300 ppl worse: 1.031878113746643 old: 1.011589765548706
+INFO:tensorflow:Wed Oct 17 06:37:39 2018: Epoch: 0 Step: 9310 Avg Loss: 5.001887798309326
+INFO:tensorflow:Wed Oct 17 06:37:44 2018: Epoch: 0 Step: 9320 Avg Loss: 4.8018341064453125
+INFO:tensorflow:Wed Oct 17 06:37:49 2018: Epoch: 0 Step: 9330 Avg Loss: 4.820107936859131
+INFO:tensorflow:Wed Oct 17 06:37:54 2018: Epoch: 0 Step: 9340 Avg Loss: 4.95731258392334
+INFO:tensorflow:Wed Oct 17 06:37:59 2018: Epoch: 0 Step: 9350 Avg Loss: 4.173474311828613
+INFO:tensorflow:Wed Oct 17 06:38:05 2018: Epoch: 0 Step: 9360 Avg Loss: 4.791364669799805
+INFO:tensorflow:Wed Oct 17 06:38:10 2018: Epoch: 0 Step: 9370 Avg Loss: 4.8455891609191895
+INFO:tensorflow:Wed Oct 17 06:38:15 2018: Epoch: 0 Step: 9380 Avg Loss: 4.957075119018555
+INFO:tensorflow:Wed Oct 17 06:38:20 2018: Epoch: 0 Step: 9390 Avg Loss: 4.431714057922363
+INFO:tensorflow:Wed Oct 17 06:38:25 2018: Epoch: 0 Step: 9400 Avg Loss: 4.442837238311768
+INFO:tensorflow:Wed Oct 17 06:38:26 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 06:38:35 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 06:38:45 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 06:38:54 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 06:39:03 2018: Epoch: 0 Step: 9400 ppl worse: 1.0196868181228638 old: 1.011589765548706
+INFO:tensorflow:Wed Oct 17 06:39:09 2018: Epoch: 0 Step: 9410 Avg Loss: 4.626505374908447
+INFO:tensorflow:Wed Oct 17 06:39:15 2018: Epoch: 0 Step: 9420 Avg Loss: 4.496138572692871
+INFO:tensorflow:Wed Oct 17 06:39:20 2018: Epoch: 0 Step: 9430 Avg Loss: 4.791285991668701
+INFO:tensorflow:Wed Oct 17 06:39:25 2018: Epoch: 0 Step: 9440 Avg Loss: 4.7132697105407715
+INFO:tensorflow:Wed Oct 17 06:39:30 2018: Epoch: 0 Step: 9450 Avg Loss: 4.656894207000732
+INFO:tensorflow:Wed Oct 17 06:39:36 2018: Epoch: 0 Step: 9460 Avg Loss: 4.840978622436523
+INFO:tensorflow:Wed Oct 17 06:39:42 2018: Epoch: 0 Step: 9470 Avg Loss: 3.913935661315918
+INFO:tensorflow:Wed Oct 17 06:39:47 2018: Epoch: 0 Step: 9480 Avg Loss: 5.027631759643555
+INFO:tensorflow:Wed Oct 17 06:39:53 2018: Epoch: 0 Step: 9490 Avg Loss: 4.404058456420898
+INFO:tensorflow:Wed Oct 17 06:39:58 2018: Epoch: 0 Step: 9500 Avg Loss: 4.675416946411133
+INFO:tensorflow:Wed Oct 17 06:39:59 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 06:40:08 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 06:40:18 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 06:40:27 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 06:40:36 2018: Epoch: 0 Step: 9500 ppl worse: 1.0295536518096924 old: 1.011589765548706
+INFO:tensorflow:Wed Oct 17 06:40:43 2018: Epoch: 0 Step: 9510 Avg Loss: 4.746253967285156
+INFO:tensorflow:Wed Oct 17 06:40:49 2018: Epoch: 0 Step: 9520 Avg Loss: 4.234762191772461
+INFO:tensorflow:Wed Oct 17 06:40:54 2018: Epoch: 0 Step: 9530 Avg Loss: 4.348989963531494
+INFO:tensorflow:Wed Oct 17 06:40:59 2018: Epoch: 0 Step: 9540 Avg Loss: 4.451047897338867
+INFO:tensorflow:Wed Oct 17 06:41:05 2018: Epoch: 0 Step: 9550 Avg Loss: 4.2979841232299805
+INFO:tensorflow:Wed Oct 17 06:41:11 2018: Epoch: 0 Step: 9560 Avg Loss: 4.32829475402832
+INFO:tensorflow:Wed Oct 17 06:41:16 2018: Epoch: 0 Step: 9570 Avg Loss: 4.896427154541016
+INFO:tensorflow:Wed Oct 17 06:41:22 2018: Epoch: 0 Step: 9580 Avg Loss: 4.685824871063232
+INFO:tensorflow:Wed Oct 17 06:41:27 2018: Epoch: 0 Step: 9590 Avg Loss: 5.115015029907227
+INFO:tensorflow:Wed Oct 17 06:41:32 2018: Epoch: 0 Step: 9600 Avg Loss: 4.913625717163086
+INFO:tensorflow:Wed Oct 17 06:41:32 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 06:41:41 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 06:41:51 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 06:42:00 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 06:42:09 2018: Epoch: 0 Step: 9600 ppl worse: 1.0197077989578247 old: 1.011589765548706
+INFO:tensorflow:Wed Oct 17 06:42:15 2018: Epoch: 0 Step: 9610 Avg Loss: 4.7044878005981445
+INFO:tensorflow:Wed Oct 17 06:42:21 2018: Epoch: 0 Step: 9620 Avg Loss: 4.706864356994629
+INFO:tensorflow:Wed Oct 17 06:42:26 2018: Epoch: 0 Step: 9630 Avg Loss: 4.668496608734131
+INFO:tensorflow:Wed Oct 17 06:42:31 2018: Epoch: 0 Step: 9640 Avg Loss: 4.681122779846191
+INFO:tensorflow:Wed Oct 17 06:42:37 2018: Epoch: 0 Step: 9650 Avg Loss: 4.427824020385742
+INFO:tensorflow:Wed Oct 17 06:42:41 2018: Epoch: 0 Step: 9660 Avg Loss: 4.995494365692139
+INFO:tensorflow:Wed Oct 17 06:42:46 2018: Epoch: 0 Step: 9670 Avg Loss: 4.506132125854492
+INFO:tensorflow:Wed Oct 17 06:42:51 2018: Epoch: 0 Step: 9680 Avg Loss: 5.070498943328857
+INFO:tensorflow:Wed Oct 17 06:42:57 2018: Epoch: 0 Step: 9690 Avg Loss: 4.449737548828125
+INFO:tensorflow:Wed Oct 17 06:43:02 2018: Epoch: 0 Step: 9700 Avg Loss: 5.185436248779297
+INFO:tensorflow:Wed Oct 17 06:43:02 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 06:43:11 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 06:43:21 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 06:43:30 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 06:43:40 2018: Epoch: 0 Step: 9700 ppl worse: 1.0300862789154053 old: 1.011589765548706
+INFO:tensorflow:Wed Oct 17 06:43:45 2018: Epoch: 0 Step: 9710 Avg Loss: 4.905215740203857
+INFO:tensorflow:Wed Oct 17 06:43:50 2018: Epoch: 0 Step: 9720 Avg Loss: 4.089839935302734
+INFO:tensorflow:Wed Oct 17 06:43:55 2018: Epoch: 0 Step: 9730 Avg Loss: 3.954190731048584
+INFO:tensorflow:Wed Oct 17 06:44:00 2018: Epoch: 0 Step: 9740 Avg Loss: 4.6577959060668945
+INFO:tensorflow:Wed Oct 17 06:44:05 2018: Epoch: 0 Step: 9750 Avg Loss: 5.25328254699707
+INFO:tensorflow:Wed Oct 17 06:44:10 2018: Epoch: 0 Step: 9760 Avg Loss: 4.144599437713623
+INFO:tensorflow:Wed Oct 17 06:44:16 2018: Epoch: 0 Step: 9770 Avg Loss: 4.396448135375977
+INFO:tensorflow:Wed Oct 17 06:44:21 2018: Epoch: 0 Step: 9780 Avg Loss: 5.082422733306885
+INFO:tensorflow:Wed Oct 17 06:44:26 2018: Epoch: 0 Step: 9790 Avg Loss: 4.331845283508301
+INFO:tensorflow:Wed Oct 17 06:44:32 2018: Epoch: 0 Step: 9800 Avg Loss: 4.8046488761901855
+INFO:tensorflow:Wed Oct 17 06:44:32 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 06:44:42 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 06:44:50 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 06:45:00 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 06:45:09 2018: Epoch: 0 Step: 9800 ppl worse: 1.0222663879394531 old: 1.011589765548706
+INFO:tensorflow:Wed Oct 17 06:45:15 2018: Epoch: 0 Step: 9810 Avg Loss: 4.470598220825195
+INFO:tensorflow:Wed Oct 17 06:45:20 2018: Epoch: 0 Step: 9820 Avg Loss: 4.4117865562438965
+INFO:tensorflow:Wed Oct 17 06:45:25 2018: Epoch: 0 Step: 9830 Avg Loss: 4.813498497009277
+INFO:tensorflow:Wed Oct 17 06:45:30 2018: Epoch: 0 Step: 9840 Avg Loss: 4.167268753051758
+INFO:tensorflow:Wed Oct 17 06:45:35 2018: Epoch: 0 Step: 9850 Avg Loss: 4.9140143394470215
+INFO:tensorflow:Wed Oct 17 06:45:40 2018: Epoch: 0 Step: 9860 Avg Loss: 4.926580905914307
+INFO:tensorflow:Wed Oct 17 06:45:45 2018: Epoch: 0 Step: 9870 Avg Loss: 5.1479573249816895
+INFO:tensorflow:Wed Oct 17 06:45:51 2018: Epoch: 0 Step: 9880 Avg Loss: 4.097968578338623
+INFO:tensorflow:Wed Oct 17 06:45:57 2018: Epoch: 0 Step: 9890 Avg Loss: 4.627762794494629
+INFO:tensorflow:Wed Oct 17 06:46:02 2018: Epoch: 0 Step: 9900 Avg Loss: 4.68597936630249
+INFO:tensorflow:Wed Oct 17 06:46:03 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 06:46:13 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 06:46:22 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 06:46:31 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 06:46:40 2018: Epoch: 0 Step: 9900 ppl worse: 1.0268932580947876 old: 1.011589765548706
+INFO:tensorflow:Wed Oct 17 06:46:46 2018: Epoch: 0 Step: 9910 Avg Loss: 4.54598331451416
+INFO:tensorflow:Wed Oct 17 06:46:51 2018: Epoch: 0 Step: 9920 Avg Loss: 5.1897501945495605
+INFO:tensorflow:Wed Oct 17 06:46:55 2018: Epoch: 0 Step: 9930 Avg Loss: 4.83467960357666
+INFO:tensorflow:Wed Oct 17 06:47:01 2018: Epoch: 0 Step: 9940 Avg Loss: 4.573048114776611
+INFO:tensorflow:Wed Oct 17 06:47:06 2018: Epoch: 0 Step: 9950 Avg Loss: 4.3519158363342285
+INFO:tensorflow:Wed Oct 17 06:47:11 2018: Epoch: 0 Step: 9960 Avg Loss: 4.718272686004639
+INFO:tensorflow:Wed Oct 17 06:47:16 2018: Epoch: 0 Step: 9970 Avg Loss: 4.370086193084717
+INFO:tensorflow:Wed Oct 17 06:47:20 2018: Epoch: 0 Step: 9980 Avg Loss: 4.672552585601807
+INFO:tensorflow:Wed Oct 17 06:47:25 2018: Epoch: 0 Step: 9990 Avg Loss: 4.450253963470459
+INFO:tensorflow:Wed Oct 17 06:47:31 2018: Epoch: 0 Step: 10000 Avg Loss: 4.366170883178711
+INFO:tensorflow:Wed Oct 17 06:47:31 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 06:47:40 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 06:47:50 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 06:47:58 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 06:48:08 2018: Epoch: 0 Step: 10000 ppl worse: 1.0190976858139038 old: 1.011589765548706
+INFO:tensorflow:Wed Oct 17 06:48:13 2018: Epoch: 0 Step: 10010 Avg Loss: 4.747278213500977
+INFO:tensorflow:Wed Oct 17 06:48:18 2018: Epoch: 0 Step: 10020 Avg Loss: 5.182064533233643
+INFO:tensorflow:Wed Oct 17 06:48:24 2018: Epoch: 0 Step: 10030 Avg Loss: 5.05808162689209
+INFO:tensorflow:Wed Oct 17 06:48:29 2018: Epoch: 0 Step: 10040 Avg Loss: 4.525052547454834
+INFO:tensorflow:Wed Oct 17 06:48:34 2018: Epoch: 0 Step: 10050 Avg Loss: 4.43649959564209
+INFO:tensorflow:Wed Oct 17 06:48:39 2018: Epoch: 0 Step: 10060 Avg Loss: 5.001288890838623
+INFO:tensorflow:Wed Oct 17 06:48:45 2018: Epoch: 0 Step: 10070 Avg Loss: 4.858749866485596
+INFO:tensorflow:Wed Oct 17 06:48:50 2018: Epoch: 0 Step: 10080 Avg Loss: 4.580061435699463
+INFO:tensorflow:Wed Oct 17 06:48:56 2018: Epoch: 0 Step: 10090 Avg Loss: 4.568459510803223
+INFO:tensorflow:Wed Oct 17 06:49:02 2018: Epoch: 0 Step: 10100 Avg Loss: 4.570085048675537
+INFO:tensorflow:Wed Oct 17 06:49:03 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 06:49:12 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 06:49:21 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 06:49:30 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 06:49:40 2018: Epoch: 0 Step: 10100 ppl worse: 1.0224485397338867 old: 1.011589765548706
+INFO:tensorflow:Wed Oct 17 06:49:44 2018: Epoch: 0 Step: 10110 Avg Loss: 4.943083763122559
+INFO:tensorflow:Wed Oct 17 06:49:50 2018: Epoch: 0 Step: 10120 Avg Loss: 5.235559940338135
+INFO:tensorflow:Wed Oct 17 06:49:55 2018: Epoch: 0 Step: 10130 Avg Loss: 4.31140661239624
+INFO:tensorflow:Wed Oct 17 06:50:01 2018: Epoch: 0 Step: 10140 Avg Loss: 4.550308704376221
+INFO:tensorflow:Wed Oct 17 06:50:06 2018: Epoch: 0 Step: 10150 Avg Loss: 4.762385845184326
+INFO:tensorflow:Wed Oct 17 06:50:12 2018: Epoch: 0 Step: 10160 Avg Loss: 4.755405426025391
+INFO:tensorflow:Wed Oct 17 06:50:17 2018: Epoch: 0 Step: 10170 Avg Loss: 5.0809407234191895
+INFO:tensorflow:Wed Oct 17 06:50:22 2018: Epoch: 0 Step: 10180 Avg Loss: 4.621953964233398
+INFO:tensorflow:Wed Oct 17 06:50:28 2018: Epoch: 0 Step: 10190 Avg Loss: 4.208471775054932
+INFO:tensorflow:Wed Oct 17 06:50:33 2018: Epoch: 0 Step: 10200 Avg Loss: 4.922478199005127
+INFO:tensorflow:Wed Oct 17 06:50:34 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 06:50:43 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 06:50:52 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 06:51:01 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 06:51:11 2018: Epoch: 0 Step: 10200 ppl worse: 1.0233830213546753 old: 1.011589765548706
+INFO:tensorflow:Wed Oct 17 06:51:17 2018: Epoch: 0 Step: 10210 Avg Loss: 3.6408469676971436
+INFO:tensorflow:Wed Oct 17 06:51:22 2018: Epoch: 0 Step: 10220 Avg Loss: 4.6461286544799805
+INFO:tensorflow:Wed Oct 17 06:51:28 2018: Epoch: 0 Step: 10230 Avg Loss: 4.169060707092285
+INFO:tensorflow:Wed Oct 17 06:51:33 2018: Epoch: 0 Step: 10240 Avg Loss: 4.30523157119751
+INFO:tensorflow:Wed Oct 17 06:51:39 2018: Epoch: 0 Step: 10250 Avg Loss: 4.514345169067383
+INFO:tensorflow:Wed Oct 17 06:51:44 2018: Epoch: 0 Step: 10260 Avg Loss: 4.950841426849365
+INFO:tensorflow:Wed Oct 17 06:51:49 2018: Epoch: 0 Step: 10270 Avg Loss: 4.919278144836426
+INFO:tensorflow:Wed Oct 17 06:51:55 2018: Epoch: 0 Step: 10280 Avg Loss: 4.924004077911377
+INFO:tensorflow:Wed Oct 17 06:52:00 2018: Epoch: 0 Step: 10290 Avg Loss: 4.608653545379639
+INFO:tensorflow:Wed Oct 17 06:52:06 2018: Epoch: 0 Step: 10300 Avg Loss: 4.8452019691467285
+INFO:tensorflow:Wed Oct 17 06:52:06 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 06:52:16 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 06:52:25 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 06:52:34 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 06:52:43 2018: Epoch: 0 Step: 10300 ppl worse: 1.0245567560195923 old: 1.011589765548706
+INFO:tensorflow:Wed Oct 17 06:52:48 2018: Epoch: 0 Step: 10310 Avg Loss: 4.3694562911987305
+INFO:tensorflow:Wed Oct 17 06:52:54 2018: Epoch: 0 Step: 10320 Avg Loss: 4.478511333465576
+INFO:tensorflow:Wed Oct 17 06:52:59 2018: Epoch: 0 Step: 10330 Avg Loss: 5.713695526123047
+INFO:tensorflow:Wed Oct 17 06:53:04 2018: Epoch: 0 Step: 10340 Avg Loss: 4.753207683563232
+INFO:tensorflow:Wed Oct 17 06:53:09 2018: Epoch: 0 Step: 10350 Avg Loss: 4.704736232757568
+INFO:tensorflow:Wed Oct 17 06:53:14 2018: Epoch: 0 Step: 10360 Avg Loss: 4.564876556396484
+INFO:tensorflow:Wed Oct 17 06:53:20 2018: Epoch: 0 Step: 10370 Avg Loss: 4.527550220489502
+INFO:tensorflow:Wed Oct 17 06:53:24 2018: Epoch: 0 Step: 10380 Avg Loss: 5.154185771942139
+INFO:tensorflow:Wed Oct 17 06:53:29 2018: Epoch: 0 Step: 10390 Avg Loss: 4.934103488922119
+INFO:tensorflow:Wed Oct 17 06:53:35 2018: Epoch: 0 Step: 10400 Avg Loss: 4.681973457336426
+INFO:tensorflow:Wed Oct 17 06:53:35 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 06:53:45 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 06:53:55 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 06:54:04 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 06:54:12 2018: Epoch: 0 Step: 10400 ppl worse: 1.0223356485366821 old: 1.011589765548706
+INFO:tensorflow:Wed Oct 17 06:54:17 2018: Epoch: 0 Step: 10410 Avg Loss: 4.488349914550781
+INFO:tensorflow:Wed Oct 17 06:54:22 2018: Epoch: 0 Step: 10420 Avg Loss: 4.426893711090088
+INFO:tensorflow:Wed Oct 17 06:54:27 2018: Epoch: 0 Step: 10430 Avg Loss: 4.2709431648254395
+INFO:tensorflow:Wed Oct 17 06:54:32 2018: Epoch: 0 Step: 10440 Avg Loss: 4.965710163116455
+INFO:tensorflow:Wed Oct 17 06:54:37 2018: Epoch: 0 Step: 10450 Avg Loss: 4.043527126312256
+INFO:tensorflow:Wed Oct 17 06:54:42 2018: Epoch: 0 Step: 10460 Avg Loss: 5.001655578613281
+INFO:tensorflow:Wed Oct 17 06:54:47 2018: Epoch: 0 Step: 10470 Avg Loss: 4.553691387176514
+INFO:tensorflow:Wed Oct 17 06:54:53 2018: Epoch: 0 Step: 10480 Avg Loss: 4.650777816772461
+INFO:tensorflow:Wed Oct 17 06:54:58 2018: Epoch: 0 Step: 10490 Avg Loss: 4.0612263679504395
+INFO:tensorflow:Wed Oct 17 06:55:03 2018: Epoch: 0 Step: 10500 Avg Loss: 5.010500431060791
+INFO:tensorflow:Wed Oct 17 06:55:04 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 06:55:13 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 06:55:22 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 06:55:31 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 06:55:41 2018: Epoch: 0 Step: 10500 ppl worse: 1.019161581993103 old: 1.011589765548706
+INFO:tensorflow:Wed Oct 17 06:55:45 2018: Epoch: 0 Step: 10510 Avg Loss: 4.281808376312256
+INFO:tensorflow:Wed Oct 17 06:55:50 2018: Epoch: 0 Step: 10520 Avg Loss: 4.343735694885254
+INFO:tensorflow:Wed Oct 17 06:55:56 2018: Epoch: 0 Step: 10530 Avg Loss: 5.031164646148682
+INFO:tensorflow:Wed Oct 17 06:56:01 2018: Epoch: 0 Step: 10540 Avg Loss: 4.675723075866699
+INFO:tensorflow:Wed Oct 17 06:56:07 2018: Epoch: 0 Step: 10550 Avg Loss: 4.652098655700684
+INFO:tensorflow:Wed Oct 17 06:56:13 2018: Epoch: 0 Step: 10560 Avg Loss: 4.50840425491333
+INFO:tensorflow:Wed Oct 17 06:56:18 2018: Epoch: 0 Step: 10570 Avg Loss: 5.0589799880981445
+INFO:tensorflow:Wed Oct 17 06:56:23 2018: Epoch: 0 Step: 10580 Avg Loss: 4.991830348968506
+INFO:tensorflow:Wed Oct 17 06:56:28 2018: Epoch: 0 Step: 10590 Avg Loss: 4.54081916809082
+INFO:tensorflow:Wed Oct 17 06:56:33 2018: Epoch: 0 Step: 10600 Avg Loss: 4.608804225921631
+INFO:tensorflow:Wed Oct 17 06:56:33 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 06:56:43 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 06:56:52 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 06:57:02 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 06:57:11 2018: Epoch: 0 Step: 10600 ppl worse: 1.017301082611084 old: 1.011589765548706
+INFO:tensorflow:Wed Oct 17 06:57:16 2018: Epoch: 0 Step: 10610 Avg Loss: 5.022344589233398
+INFO:tensorflow:Wed Oct 17 06:57:22 2018: Epoch: 0 Step: 10620 Avg Loss: 4.610530376434326
+INFO:tensorflow:Wed Oct 17 06:57:27 2018: Epoch: 0 Step: 10630 Avg Loss: 4.814053058624268
+INFO:tensorflow:Wed Oct 17 06:57:32 2018: Epoch: 0 Step: 10640 Avg Loss: 4.642271995544434
+INFO:tensorflow:Wed Oct 17 06:57:38 2018: Epoch: 0 Step: 10650 Avg Loss: 4.870215892791748
+INFO:tensorflow:Wed Oct 17 06:57:43 2018: Epoch: 0 Step: 10660 Avg Loss: 4.313618183135986
+INFO:tensorflow:Wed Oct 17 06:57:48 2018: Epoch: 0 Step: 10670 Avg Loss: 4.61657190322876
+INFO:tensorflow:Wed Oct 17 06:57:53 2018: Epoch: 0 Step: 10680 Avg Loss: 4.543365955352783
+INFO:tensorflow:Wed Oct 17 06:57:58 2018: Epoch: 0 Step: 10690 Avg Loss: 4.727850914001465
+INFO:tensorflow:Wed Oct 17 06:58:03 2018: Epoch: 0 Step: 10700 Avg Loss: 4.18014669418335
+INFO:tensorflow:Wed Oct 17 06:58:03 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 06:58:13 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 06:58:22 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 06:58:32 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 06:58:40 2018: Epoch: 0 Step: 10700 ppl worse: 1.0312448740005493 old: 1.011589765548706
+INFO:tensorflow:Wed Oct 17 06:58:45 2018: Epoch: 0 Step: 10710 Avg Loss: 4.746066093444824
+INFO:tensorflow:Wed Oct 17 06:58:51 2018: Epoch: 0 Step: 10720 Avg Loss: 4.552493095397949
+INFO:tensorflow:Wed Oct 17 06:58:56 2018: Epoch: 0 Step: 10730 Avg Loss: 4.746798038482666
+INFO:tensorflow:Wed Oct 17 06:59:01 2018: Epoch: 0 Step: 10740 Avg Loss: 4.943268775939941
+INFO:tensorflow:Wed Oct 17 06:59:06 2018: Epoch: 0 Step: 10750 Avg Loss: 4.746256351470947
+INFO:tensorflow:Wed Oct 17 06:59:12 2018: Epoch: 0 Step: 10760 Avg Loss: 3.6829307079315186
+INFO:tensorflow:Wed Oct 17 06:59:18 2018: Epoch: 0 Step: 10770 Avg Loss: 4.981910228729248
+INFO:tensorflow:Wed Oct 17 06:59:23 2018: Epoch: 0 Step: 10780 Avg Loss: 4.5791425704956055
+INFO:tensorflow:Wed Oct 17 06:59:28 2018: Epoch: 0 Step: 10790 Avg Loss: 4.9074249267578125
+INFO:tensorflow:Wed Oct 17 06:59:35 2018: Epoch: 0 Step: 10800 Avg Loss: 4.378997802734375
+INFO:tensorflow:Wed Oct 17 06:59:35 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 06:59:45 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 06:59:54 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 07:00:03 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 07:00:12 2018: Epoch: 0 Step: 10800 ppl worse: 1.0225529670715332 old: 1.011589765548706
+INFO:tensorflow:Wed Oct 17 07:00:17 2018: Epoch: 0 Step: 10810 Avg Loss: 4.649719715118408
+INFO:tensorflow:Wed Oct 17 07:00:23 2018: Epoch: 0 Step: 10820 Avg Loss: 5.186829090118408
+INFO:tensorflow:Wed Oct 17 07:00:28 2018: Epoch: 0 Step: 10830 Avg Loss: 5.120248317718506
+INFO:tensorflow:Wed Oct 17 07:00:34 2018: Epoch: 0 Step: 10840 Avg Loss: 4.234800815582275
+INFO:tensorflow:Wed Oct 17 07:00:40 2018: Epoch: 0 Step: 10850 Avg Loss: 4.378393650054932
+INFO:tensorflow:Wed Oct 17 07:00:46 2018: Epoch: 0 Step: 10860 Avg Loss: 4.214565277099609
+INFO:tensorflow:Wed Oct 17 07:00:51 2018: Epoch: 0 Step: 10870 Avg Loss: 4.741851806640625
+INFO:tensorflow:Wed Oct 17 07:00:57 2018: Epoch: 0 Step: 10880 Avg Loss: 4.415621757507324
+INFO:tensorflow:Wed Oct 17 07:01:02 2018: Epoch: 0 Step: 10890 Avg Loss: 4.960801124572754
+INFO:tensorflow:Wed Oct 17 07:01:08 2018: Epoch: 0 Step: 10900 Avg Loss: 4.772791385650635
+INFO:tensorflow:Wed Oct 17 07:01:09 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 07:01:17 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 07:01:27 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 07:01:36 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 07:01:46 2018: Epoch: 0 Step: 10900 ppl worse: 1.0274569988250732 old: 1.011589765548706
+INFO:tensorflow:Wed Oct 17 07:01:51 2018: Epoch: 0 Step: 10910 Avg Loss: 4.837706089019775
+INFO:tensorflow:Wed Oct 17 07:01:56 2018: Epoch: 0 Step: 10920 Avg Loss: 3.9735283851623535
+INFO:tensorflow:Wed Oct 17 07:02:01 2018: Epoch: 0 Step: 10930 Avg Loss: 4.545778751373291
+INFO:tensorflow:Wed Oct 17 07:02:06 2018: Epoch: 0 Step: 10940 Avg Loss: 4.950570106506348
+INFO:tensorflow:Wed Oct 17 07:02:12 2018: Epoch: 0 Step: 10950 Avg Loss: 4.845362186431885
+INFO:tensorflow:Wed Oct 17 07:02:18 2018: Epoch: 0 Step: 10960 Avg Loss: 4.732683181762695
+INFO:tensorflow:Wed Oct 17 07:02:24 2018: Epoch: 0 Step: 10970 Avg Loss: 4.7211198806762695
+INFO:tensorflow:Wed Oct 17 07:02:30 2018: Epoch: 0 Step: 10980 Avg Loss: 4.421085357666016
+INFO:tensorflow:Wed Oct 17 07:02:34 2018: Epoch: 0 Step: 10990 Avg Loss: 4.4682159423828125
+INFO:tensorflow:Wed Oct 17 07:02:39 2018: Epoch: 0 Step: 11000 Avg Loss: 4.718920707702637
+INFO:tensorflow:Wed Oct 17 07:02:39 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 07:02:49 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 07:02:58 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 07:03:08 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 07:03:17 2018: Epoch: 0 Step: 11000 ppl worse: 1.0197229385375977 old: 1.011589765548706
+INFO:tensorflow:Wed Oct 17 07:03:22 2018: Epoch: 0 Step: 11010 Avg Loss: 4.589338779449463
+INFO:tensorflow:Wed Oct 17 07:03:26 2018: Epoch: 0 Step: 11020 Avg Loss: 4.454931259155273
+INFO:tensorflow:Wed Oct 17 07:03:32 2018: Epoch: 0 Step: 11030 Avg Loss: 4.0954999923706055
+INFO:tensorflow:Wed Oct 17 07:03:37 2018: Epoch: 0 Step: 11040 Avg Loss: 4.192202091217041
+INFO:tensorflow:Wed Oct 17 07:03:43 2018: Epoch: 0 Step: 11050 Avg Loss: 3.935321807861328
+INFO:tensorflow:Wed Oct 17 07:03:47 2018: Epoch: 0 Step: 11060 Avg Loss: 4.679831027984619
+INFO:tensorflow:Wed Oct 17 07:03:53 2018: Epoch: 0 Step: 11070 Avg Loss: 4.9732747077941895
+INFO:tensorflow:Wed Oct 17 07:03:58 2018: Epoch: 0 Step: 11080 Avg Loss: 5.321232318878174
+INFO:tensorflow:Wed Oct 17 07:04:04 2018: Epoch: 0 Step: 11090 Avg Loss: 4.743799209594727
+INFO:tensorflow:Wed Oct 17 07:04:10 2018: Epoch: 0 Step: 11100 Avg Loss: 4.239655017852783
+INFO:tensorflow:Wed Oct 17 07:04:10 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 07:04:19 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 07:04:28 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 07:04:38 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 07:04:47 2018: Epoch: 0 Step: 11100 ppl worse: 1.0179065465927124 old: 1.011589765548706
+INFO:tensorflow:Wed Oct 17 07:04:52 2018: Epoch: 0 Step: 11110 Avg Loss: 4.237412452697754
+INFO:tensorflow:Wed Oct 17 07:04:57 2018: Epoch: 0 Step: 11120 Avg Loss: 4.603017330169678
+INFO:tensorflow:Wed Oct 17 07:05:03 2018: Epoch: 0 Step: 11130 Avg Loss: 4.587774276733398
+INFO:tensorflow:Wed Oct 17 07:05:07 2018: Epoch: 0 Step: 11140 Avg Loss: 4.284173965454102
+INFO:tensorflow:Wed Oct 17 07:05:12 2018: Epoch: 0 Step: 11150 Avg Loss: 4.819088459014893
+INFO:tensorflow:Wed Oct 17 07:05:17 2018: Epoch: 0 Step: 11160 Avg Loss: 4.461002826690674
+INFO:tensorflow:Wed Oct 17 07:05:22 2018: Epoch: 0 Step: 11170 Avg Loss: 4.902536392211914
+INFO:tensorflow:Wed Oct 17 07:05:28 2018: Epoch: 0 Step: 11180 Avg Loss: 4.688493251800537
+INFO:tensorflow:Wed Oct 17 07:05:33 2018: Epoch: 0 Step: 11190 Avg Loss: 4.542244911193848
+INFO:tensorflow:Wed Oct 17 07:05:39 2018: Epoch: 0 Step: 11200 Avg Loss: 4.575746059417725
+INFO:tensorflow:Wed Oct 17 07:05:39 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 07:05:48 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 07:05:57 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 07:06:07 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 07:06:16 2018: Epoch: 0 Step: 11200 ppl worse: 1.0220088958740234 old: 1.011589765548706
+INFO:tensorflow:Wed Oct 17 07:06:21 2018: Epoch: 0 Step: 11210 Avg Loss: 4.547811985015869
+INFO:tensorflow:Wed Oct 17 07:06:26 2018: Epoch: 0 Step: 11220 Avg Loss: 4.649723052978516
+INFO:tensorflow:Wed Oct 17 07:06:31 2018: Epoch: 0 Step: 11230 Avg Loss: 4.9798383712768555
+INFO:tensorflow:Wed Oct 17 07:06:36 2018: Epoch: 0 Step: 11240 Avg Loss: 4.7668633460998535
+INFO:tensorflow:Wed Oct 17 07:06:41 2018: Epoch: 0 Step: 11250 Avg Loss: 5.0337443351745605
+INFO:tensorflow:Wed Oct 17 07:06:47 2018: Epoch: 0 Step: 11260 Avg Loss: 4.847950458526611
+INFO:tensorflow:Wed Oct 17 07:06:53 2018: Epoch: 0 Step: 11270 Avg Loss: 5.005350112915039
+INFO:tensorflow:Wed Oct 17 07:06:58 2018: Epoch: 0 Step: 11280 Avg Loss: 4.8562846183776855
+INFO:tensorflow:Wed Oct 17 07:07:04 2018: Epoch: 0 Step: 11290 Avg Loss: 3.8184702396392822
+INFO:tensorflow:Wed Oct 17 07:07:10 2018: Epoch: 0 Step: 11300 Avg Loss: 4.222977161407471
+INFO:tensorflow:Wed Oct 17 07:07:10 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 07:07:19 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 07:07:29 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 07:07:38 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 07:07:47 2018: Epoch: 0 Step: 11300 ppl worse: 1.031326413154602 old: 1.011589765548706
+INFO:tensorflow:Wed Oct 17 07:07:52 2018: Epoch: 0 Step: 11310 Avg Loss: 4.381836891174316
+INFO:tensorflow:Wed Oct 17 07:07:57 2018: Epoch: 0 Step: 11320 Avg Loss: 4.441821575164795
+INFO:tensorflow:Wed Oct 17 07:08:02 2018: Epoch: 0 Step: 11330 Avg Loss: 4.9799089431762695
+INFO:tensorflow:Wed Oct 17 07:08:07 2018: Epoch: 0 Step: 11340 Avg Loss: 4.34373140335083
+INFO:tensorflow:Wed Oct 17 07:08:12 2018: Epoch: 0 Step: 11350 Avg Loss: 4.784739971160889
+INFO:tensorflow:Wed Oct 17 07:08:17 2018: Epoch: 0 Step: 11360 Avg Loss: 4.720709800720215
+INFO:tensorflow:Wed Oct 17 07:08:22 2018: Epoch: 0 Step: 11370 Avg Loss: 4.6241374015808105
+INFO:tensorflow:Wed Oct 17 07:08:27 2018: Epoch: 0 Step: 11380 Avg Loss: 4.4403839111328125
+INFO:tensorflow:Wed Oct 17 07:08:33 2018: Epoch: 0 Step: 11390 Avg Loss: 4.602582931518555
+INFO:tensorflow:Wed Oct 17 07:08:38 2018: Epoch: 0 Step: 11400 Avg Loss: 4.96344518661499
+INFO:tensorflow:Wed Oct 17 07:08:39 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 07:08:48 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 07:08:57 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 07:09:06 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 07:09:16 2018: Epoch: 0 Step: 11400 ppl worse: 1.0275212526321411 old: 1.011589765548706
+INFO:tensorflow:Wed Oct 17 07:09:21 2018: Epoch: 0 Step: 11410 Avg Loss: 4.643427848815918
+INFO:tensorflow:Wed Oct 17 07:09:25 2018: Epoch: 0 Step: 11420 Avg Loss: 4.435476303100586
+INFO:tensorflow:Wed Oct 17 07:09:30 2018: Epoch: 0 Step: 11430 Avg Loss: 4.56777286529541
+INFO:tensorflow:Wed Oct 17 07:09:35 2018: Epoch: 0 Step: 11440 Avg Loss: 4.293670654296875
+INFO:tensorflow:Wed Oct 17 07:09:39 2018: Epoch: 0 Step: 11450 Avg Loss: 4.406631946563721
+INFO:tensorflow:Wed Oct 17 07:09:44 2018: Epoch: 0 Step: 11460 Avg Loss: 4.1758623123168945
+INFO:tensorflow:Wed Oct 17 07:09:49 2018: Epoch: 0 Step: 11470 Avg Loss: 4.1531291007995605
+INFO:tensorflow:Wed Oct 17 07:09:55 2018: Epoch: 0 Step: 11480 Avg Loss: 4.331174373626709
+INFO:tensorflow:Wed Oct 17 07:09:59 2018: Epoch: 0 Step: 11490 Avg Loss: 4.12106466293335
+INFO:tensorflow:Wed Oct 17 07:10:05 2018: Epoch: 0 Step: 11500 Avg Loss: 5.1280083656311035
+INFO:tensorflow:Wed Oct 17 07:10:05 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 07:10:14 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 07:10:23 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 07:10:33 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 07:10:42 2018: Epoch: 0 Step: 11500 ppl worse: 1.0367928743362427 old: 1.011589765548706
+INFO:tensorflow:Wed Oct 17 07:10:47 2018: Epoch: 0 Step: 11510 Avg Loss: 4.331234455108643
+INFO:tensorflow:Wed Oct 17 07:10:53 2018: Epoch: 0 Step: 11520 Avg Loss: 4.785271644592285
+INFO:tensorflow:Wed Oct 17 07:10:58 2018: Epoch: 0 Step: 11530 Avg Loss: 4.020642280578613
+INFO:tensorflow:Wed Oct 17 07:11:03 2018: Epoch: 0 Step: 11540 Avg Loss: 4.878088474273682
+INFO:tensorflow:Wed Oct 17 07:11:09 2018: Epoch: 0 Step: 11550 Avg Loss: 4.726685047149658
+INFO:tensorflow:Wed Oct 17 07:11:15 2018: Epoch: 0 Step: 11560 Avg Loss: 5.049513816833496
+INFO:tensorflow:Wed Oct 17 07:11:20 2018: Epoch: 0 Step: 11570 Avg Loss: 4.711268424987793
+INFO:tensorflow:Wed Oct 17 07:11:26 2018: Epoch: 0 Step: 11580 Avg Loss: 4.182421684265137
+INFO:tensorflow:Wed Oct 17 07:11:32 2018: Epoch: 0 Step: 11590 Avg Loss: 4.7232561111450195
+INFO:tensorflow:Wed Oct 17 07:11:37 2018: Epoch: 0 Step: 11600 Avg Loss: 4.244915008544922
+INFO:tensorflow:Wed Oct 17 07:11:37 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 07:11:47 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 07:11:56 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 07:12:05 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 07:12:14 2018: Epoch: 0 Step: 11600 ppl worse: 1.0260989665985107 old: 1.011589765548706
+INFO:tensorflow:Wed Oct 17 07:12:19 2018: Epoch: 0 Step: 11610 Avg Loss: 4.265692710876465
+INFO:tensorflow:Wed Oct 17 07:12:23 2018: Epoch: 0 Step: 11620 Avg Loss: 4.280141353607178
+INFO:tensorflow:Wed Oct 17 07:12:30 2018: Epoch: 0 Step: 11630 Avg Loss: 4.751492500305176
+INFO:tensorflow:Wed Oct 17 07:12:35 2018: Epoch: 0 Step: 11640 Avg Loss: 4.807622909545898
+INFO:tensorflow:Wed Oct 17 07:12:41 2018: Epoch: 0 Step: 11650 Avg Loss: 4.178982257843018
+INFO:tensorflow:Wed Oct 17 07:12:48 2018: Epoch: 0 Step: 11660 Avg Loss: 4.285785675048828
+INFO:tensorflow:Wed Oct 17 07:12:53 2018: Epoch: 0 Step: 11670 Avg Loss: 4.768214225769043
+INFO:tensorflow:Wed Oct 17 07:12:59 2018: Epoch: 0 Step: 11680 Avg Loss: 4.602787971496582
+INFO:tensorflow:Wed Oct 17 07:13:04 2018: Epoch: 0 Step: 11690 Avg Loss: 3.9618992805480957
+INFO:tensorflow:Wed Oct 17 07:13:10 2018: Epoch: 0 Step: 11700 Avg Loss: 4.391207218170166
+INFO:tensorflow:Wed Oct 17 07:13:10 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 07:13:20 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 07:13:29 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 07:13:38 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 07:13:47 2018: Epoch: 0 Step: 11700 ppl worse: 1.0216225385665894 old: 1.011589765548706
+INFO:tensorflow:Wed Oct 17 07:13:52 2018: Epoch: 0 Step: 11710 Avg Loss: 4.941648960113525
+INFO:tensorflow:Wed Oct 17 07:13:57 2018: Epoch: 0 Step: 11720 Avg Loss: 4.414553642272949
+INFO:tensorflow:Wed Oct 17 07:14:02 2018: Epoch: 0 Step: 11730 Avg Loss: 4.593409538269043
+INFO:tensorflow:Wed Oct 17 07:14:07 2018: Epoch: 0 Step: 11740 Avg Loss: 4.205409526824951
+INFO:tensorflow:Wed Oct 17 07:14:12 2018: Epoch: 0 Step: 11750 Avg Loss: 4.3910627365112305
+INFO:tensorflow:Wed Oct 17 07:14:17 2018: Epoch: 0 Step: 11760 Avg Loss: 4.6902971267700195
+INFO:tensorflow:Wed Oct 17 07:14:23 2018: Epoch: 0 Step: 11770 Avg Loss: 4.75668478012085
+INFO:tensorflow:Wed Oct 17 07:14:28 2018: Epoch: 0 Step: 11780 Avg Loss: 4.55490255355835
+INFO:tensorflow:Wed Oct 17 07:14:33 2018: Epoch: 0 Step: 11790 Avg Loss: 4.315897464752197
+INFO:tensorflow:Wed Oct 17 07:14:39 2018: Epoch: 0 Step: 11800 Avg Loss: 4.546755790710449
+INFO:tensorflow:Wed Oct 17 07:14:39 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 07:14:48 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 07:14:57 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 07:15:07 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 07:15:16 2018: Epoch: 0 Step: 11800 ppl worse: 1.01749587059021 old: 1.011589765548706
+INFO:tensorflow:Wed Oct 17 07:15:21 2018: Epoch: 0 Step: 11810 Avg Loss: 4.511236190795898
+INFO:tensorflow:Wed Oct 17 07:15:26 2018: Epoch: 0 Step: 11820 Avg Loss: 4.465882301330566
+INFO:tensorflow:Wed Oct 17 07:15:31 2018: Epoch: 0 Step: 11830 Avg Loss: 4.936477184295654
+INFO:tensorflow:Wed Oct 17 07:15:36 2018: Epoch: 0 Step: 11840 Avg Loss: 4.442387104034424
+INFO:tensorflow:Wed Oct 17 07:15:41 2018: Epoch: 0 Step: 11850 Avg Loss: 4.624805450439453
+INFO:tensorflow:Wed Oct 17 07:15:47 2018: Epoch: 0 Step: 11860 Avg Loss: 4.733548164367676
+INFO:tensorflow:Wed Oct 17 07:15:52 2018: Epoch: 0 Step: 11870 Avg Loss: 4.008115768432617
+INFO:tensorflow:Wed Oct 17 07:15:57 2018: Epoch: 0 Step: 11880 Avg Loss: 3.8087081909179688
+INFO:tensorflow:Wed Oct 17 07:16:02 2018: Epoch: 0 Step: 11890 Avg Loss: 4.814623832702637
+INFO:tensorflow:Wed Oct 17 07:16:08 2018: Epoch: 0 Step: 11900 Avg Loss: 4.698160171508789
+INFO:tensorflow:Wed Oct 17 07:16:08 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 07:16:17 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 07:16:27 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 07:16:36 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 07:16:45 2018: Epoch: 0 Step: 11900 ppl worse: 1.029292106628418 old: 1.011589765548706
+INFO:tensorflow:Wed Oct 17 07:16:50 2018: Epoch: 0 Step: 11910 Avg Loss: 4.885651588439941
+INFO:tensorflow:Wed Oct 17 07:16:56 2018: Epoch: 0 Step: 11920 Avg Loss: 4.448829174041748
+INFO:tensorflow:Wed Oct 17 07:17:01 2018: Epoch: 0 Step: 11930 Avg Loss: 4.988590717315674
+INFO:tensorflow:Wed Oct 17 07:17:06 2018: Epoch: 0 Step: 11940 Avg Loss: 3.8303749561309814
+INFO:tensorflow:Wed Oct 17 07:17:10 2018: Epoch: 0 Step: 11950 Avg Loss: 5.279951095581055
+INFO:tensorflow:Wed Oct 17 07:17:16 2018: Epoch: 0 Step: 11960 Avg Loss: 4.630647659301758
+INFO:tensorflow:Wed Oct 17 07:17:21 2018: Epoch: 0 Step: 11970 Avg Loss: 4.9698286056518555
+INFO:tensorflow:Wed Oct 17 07:17:26 2018: Epoch: 0 Step: 11980 Avg Loss: 4.067889213562012
+INFO:tensorflow:Wed Oct 17 07:17:32 2018: Epoch: 0 Step: 11990 Avg Loss: 4.2844953536987305
+INFO:tensorflow:Wed Oct 17 07:17:37 2018: Epoch: 0 Step: 12000 Avg Loss: 4.272895812988281
+INFO:tensorflow:Wed Oct 17 07:17:38 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 07:17:48 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 07:17:57 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 07:18:06 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 07:18:15 2018: Epoch: 0 Step: 12000 ppl worse: 1.015799880027771 old: 1.011589765548706
+INFO:tensorflow:Wed Oct 17 07:18:20 2018: Epoch: 0 Step: 12010 Avg Loss: 4.711766719818115
+INFO:tensorflow:Wed Oct 17 07:18:25 2018: Epoch: 0 Step: 12020 Avg Loss: 4.594146251678467
+INFO:tensorflow:Wed Oct 17 07:18:30 2018: Epoch: 0 Step: 12030 Avg Loss: 4.788946628570557
+INFO:tensorflow:Wed Oct 17 07:18:36 2018: Epoch: 0 Step: 12040 Avg Loss: 4.956938743591309
+INFO:tensorflow:Wed Oct 17 07:18:40 2018: Epoch: 0 Step: 12050 Avg Loss: 5.17045259475708
+INFO:tensorflow:Wed Oct 17 07:18:46 2018: Epoch: 0 Step: 12060 Avg Loss: 4.567170143127441
+INFO:tensorflow:Wed Oct 17 07:18:52 2018: Epoch: 0 Step: 12070 Avg Loss: 3.692357301712036
+INFO:tensorflow:Wed Oct 17 07:18:57 2018: Epoch: 0 Step: 12080 Avg Loss: 4.686516761779785
+INFO:tensorflow:Wed Oct 17 07:19:02 2018: Epoch: 0 Step: 12090 Avg Loss: 4.522181510925293
+INFO:tensorflow:Wed Oct 17 07:19:08 2018: Epoch: 0 Step: 12100 Avg Loss: 4.463482856750488
+INFO:tensorflow:Wed Oct 17 07:19:08 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 07:19:18 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 07:19:27 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 07:19:37 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 07:19:45 2018: Epoch: 0 Step: 12100 ppl worse: 1.0255521535873413 old: 1.011589765548706
+INFO:tensorflow:Wed Oct 17 07:19:51 2018: Epoch: 0 Step: 12110 Avg Loss: 4.274219036102295
+INFO:tensorflow:Wed Oct 17 07:19:57 2018: Epoch: 0 Step: 12120 Avg Loss: 4.265208721160889
+INFO:tensorflow:Wed Oct 17 07:20:01 2018: Epoch: 0 Step: 12130 Avg Loss: 4.887457847595215
+INFO:tensorflow:Wed Oct 17 07:20:06 2018: Epoch: 0 Step: 12140 Avg Loss: 5.168428897857666
+INFO:tensorflow:Wed Oct 17 07:20:12 2018: Epoch: 0 Step: 12150 Avg Loss: 4.790572166442871
+INFO:tensorflow:Wed Oct 17 07:20:16 2018: Epoch: 0 Step: 12160 Avg Loss: 4.456275463104248
+INFO:tensorflow:Wed Oct 17 07:20:22 2018: Epoch: 0 Step: 12170 Avg Loss: 5.0214409828186035
+INFO:tensorflow:Wed Oct 17 07:20:27 2018: Epoch: 0 Step: 12180 Avg Loss: 4.691799163818359
+INFO:tensorflow:Wed Oct 17 07:20:32 2018: Epoch: 0 Step: 12190 Avg Loss: 4.9733734130859375
+INFO:tensorflow:Wed Oct 17 07:20:38 2018: Epoch: 0 Step: 12200 Avg Loss: 4.780386447906494
+INFO:tensorflow:Wed Oct 17 07:20:39 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 07:20:48 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 07:20:57 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 07:21:06 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 07:21:16 2018: Epoch: 0 Step: 12200 ppl worse: 1.0223948955535889 old: 1.011589765548706
+INFO:tensorflow:Wed Oct 17 07:21:21 2018: Epoch: 0 Step: 12210 Avg Loss: 4.904717922210693
+INFO:tensorflow:Wed Oct 17 07:21:26 2018: Epoch: 0 Step: 12220 Avg Loss: 4.330317974090576
+INFO:tensorflow:Wed Oct 17 07:21:31 2018: Epoch: 0 Step: 12230 Avg Loss: 4.931277751922607
+INFO:tensorflow:Wed Oct 17 07:21:36 2018: Epoch: 0 Step: 12240 Avg Loss: 4.254674911499023
+INFO:tensorflow:Wed Oct 17 07:21:40 2018: Epoch: 0 Step: 12250 Avg Loss: 4.251790523529053
+INFO:tensorflow:Wed Oct 17 07:21:46 2018: Epoch: 0 Step: 12260 Avg Loss: 5.134174823760986
+INFO:tensorflow:Wed Oct 17 07:21:52 2018: Epoch: 0 Step: 12270 Avg Loss: 4.420775890350342
+INFO:tensorflow:Wed Oct 17 07:21:57 2018: Epoch: 0 Step: 12280 Avg Loss: 4.4588093757629395
+INFO:tensorflow:Wed Oct 17 07:22:02 2018: Epoch: 0 Step: 12290 Avg Loss: 3.930940628051758
+INFO:tensorflow:Wed Oct 17 07:22:08 2018: Epoch: 0 Step: 12300 Avg Loss: 4.414531707763672
+INFO:tensorflow:Wed Oct 17 07:22:08 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 07:22:18 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 07:22:26 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 07:22:36 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 07:22:45 2018: Epoch: 0 Step: 12300 ppl worse: 1.021567940711975 old: 1.011589765548706
+INFO:tensorflow:Wed Oct 17 07:22:50 2018: Epoch: 0 Step: 12310 Avg Loss: 4.776574611663818
+INFO:tensorflow:Wed Oct 17 07:22:55 2018: Epoch: 0 Step: 12320 Avg Loss: 4.64463996887207
+INFO:tensorflow:Wed Oct 17 07:23:00 2018: Epoch: 0 Step: 12330 Avg Loss: 4.7900614738464355
+INFO:tensorflow:Wed Oct 17 07:23:05 2018: Epoch: 0 Step: 12340 Avg Loss: 4.6505303382873535
+INFO:tensorflow:Wed Oct 17 07:23:10 2018: Epoch: 0 Step: 12350 Avg Loss: 4.948071479797363
+INFO:tensorflow:Wed Oct 17 07:23:15 2018: Epoch: 0 Step: 12360 Avg Loss: 4.7050275802612305
+INFO:tensorflow:Wed Oct 17 07:23:21 2018: Epoch: 0 Step: 12370 Avg Loss: 3.849224328994751
+INFO:tensorflow:Wed Oct 17 07:23:26 2018: Epoch: 0 Step: 12380 Avg Loss: 4.403246879577637
+INFO:tensorflow:Wed Oct 17 07:23:31 2018: Epoch: 0 Step: 12390 Avg Loss: 3.7416114807128906
+INFO:tensorflow:Wed Oct 17 07:23:36 2018: Epoch: 0 Step: 12400 Avg Loss: 4.830577850341797
+INFO:tensorflow:Wed Oct 17 07:23:37 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 07:23:46 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 07:23:56 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 07:24:04 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 07:24:14 2018: Epoch: 0 Step: 12400 ppl worse: 1.0255217552185059 old: 1.011589765548706
+INFO:tensorflow:Wed Oct 17 07:24:19 2018: Epoch: 0 Step: 12410 Avg Loss: 4.020761013031006
+INFO:tensorflow:Wed Oct 17 07:24:26 2018: Epoch: 0 Step: 12420 Avg Loss: 4.693685531616211
+INFO:tensorflow:Wed Oct 17 07:24:31 2018: Epoch: 0 Step: 12430 Avg Loss: 4.427238464355469
+INFO:tensorflow:Wed Oct 17 07:24:36 2018: Epoch: 0 Step: 12440 Avg Loss: 4.506228923797607
+INFO:tensorflow:Wed Oct 17 07:24:41 2018: Epoch: 0 Step: 12450 Avg Loss: 4.61638069152832
+INFO:tensorflow:Wed Oct 17 07:24:47 2018: Epoch: 0 Step: 12460 Avg Loss: 4.841174125671387
+INFO:tensorflow:Wed Oct 17 07:24:52 2018: Epoch: 0 Step: 12470 Avg Loss: 4.903461456298828
+INFO:tensorflow:Wed Oct 17 07:24:58 2018: Epoch: 0 Step: 12480 Avg Loss: 3.713186740875244
+INFO:tensorflow:Wed Oct 17 07:25:03 2018: Epoch: 0 Step: 12490 Avg Loss: 4.404101848602295
+INFO:tensorflow:Wed Oct 17 07:25:08 2018: Epoch: 0 Step: 12500 Avg Loss: 4.174633502960205
+INFO:tensorflow:Wed Oct 17 07:25:09 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 07:25:18 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 07:25:27 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 07:25:36 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 07:25:46 2018: Epoch: 0 Step: 12500 ppl worse: 1.0222117900848389 old: 1.011589765548706
+INFO:tensorflow:Wed Oct 17 07:25:50 2018: Epoch: 0 Step: 12510 Avg Loss: 4.8502044677734375
+INFO:tensorflow:Wed Oct 17 07:25:55 2018: Epoch: 0 Step: 12520 Avg Loss: 4.384441375732422
+INFO:tensorflow:Wed Oct 17 07:26:02 2018: Epoch: 0 Step: 12530 Avg Loss: 4.55580997467041
+INFO:tensorflow:Wed Oct 17 07:26:07 2018: Epoch: 0 Step: 12540 Avg Loss: 4.498849391937256
+INFO:tensorflow:Wed Oct 17 07:26:13 2018: Epoch: 0 Step: 12550 Avg Loss: 4.902292728424072
+INFO:tensorflow:Wed Oct 17 07:26:18 2018: Epoch: 0 Step: 12560 Avg Loss: 3.6562488079071045
+INFO:tensorflow:Wed Oct 17 07:26:23 2018: Epoch: 0 Step: 12570 Avg Loss: 4.333341121673584
+INFO:tensorflow:Wed Oct 17 07:26:28 2018: Epoch: 0 Step: 12580 Avg Loss: 4.621938705444336
+INFO:tensorflow:Wed Oct 17 07:26:33 2018: Epoch: 0 Step: 12590 Avg Loss: 4.771888256072998
+INFO:tensorflow:Wed Oct 17 07:26:38 2018: Epoch: 0 Step: 12600 Avg Loss: 4.774943828582764
+INFO:tensorflow:Wed Oct 17 07:26:38 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 07:26:48 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 07:26:57 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 07:27:06 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 07:27:15 2018: Epoch: 0 Step: 12600 ppl worse: 1.0256390571594238 old: 1.011589765548706
+INFO:tensorflow:Wed Oct 17 07:27:21 2018: Epoch: 0 Step: 12610 Avg Loss: 4.678961753845215
+INFO:tensorflow:Wed Oct 17 07:27:26 2018: Epoch: 0 Step: 12620 Avg Loss: 4.72515869140625
+INFO:tensorflow:Wed Oct 17 07:27:31 2018: Epoch: 0 Step: 12630 Avg Loss: 4.252431869506836
+INFO:tensorflow:Wed Oct 17 07:27:37 2018: Epoch: 0 Step: 12640 Avg Loss: 4.516481876373291
+INFO:tensorflow:Wed Oct 17 07:27:42 2018: Epoch: 0 Step: 12650 Avg Loss: 4.192864894866943
+INFO:tensorflow:Wed Oct 17 07:27:46 2018: Epoch: 0 Step: 12660 Avg Loss: 3.7387919425964355
+INFO:tensorflow:Wed Oct 17 07:27:52 2018: Epoch: 0 Step: 12670 Avg Loss: 5.17057466506958
+INFO:tensorflow:Wed Oct 17 07:27:57 2018: Epoch: 0 Step: 12680 Avg Loss: 4.871986389160156
+INFO:tensorflow:Wed Oct 17 07:28:02 2018: Epoch: 0 Step: 12690 Avg Loss: 4.882059097290039
+INFO:tensorflow:Wed Oct 17 07:28:07 2018: Epoch: 0 Step: 12700 Avg Loss: 3.9120235443115234
+INFO:tensorflow:Wed Oct 17 07:28:08 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 07:28:17 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 07:28:27 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 07:28:36 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 07:28:45 2018: Epoch: 0 Step: 12700 ppl worse: 1.0245622396469116 old: 1.011589765548706
+INFO:tensorflow:Wed Oct 17 07:28:51 2018: Epoch: 0 Step: 12710 Avg Loss: 4.094872951507568
+INFO:tensorflow:Wed Oct 17 07:28:56 2018: Epoch: 0 Step: 12720 Avg Loss: 3.9221861362457275
+INFO:tensorflow:Wed Oct 17 07:29:01 2018: Epoch: 0 Step: 12730 Avg Loss: 4.380574703216553
+INFO:tensorflow:Wed Oct 17 07:29:07 2018: Epoch: 0 Step: 12740 Avg Loss: 5.059375286102295
+INFO:tensorflow:Wed Oct 17 07:29:12 2018: Epoch: 0 Step: 12750 Avg Loss: 4.135702610015869
+INFO:tensorflow:Wed Oct 17 07:29:18 2018: Epoch: 0 Step: 12760 Avg Loss: 3.959571361541748
+INFO:tensorflow:Wed Oct 17 07:29:24 2018: Epoch: 0 Step: 12770 Avg Loss: 4.681081771850586
+INFO:tensorflow:Wed Oct 17 07:29:29 2018: Epoch: 0 Step: 12780 Avg Loss: 4.786859035491943
+INFO:tensorflow:Wed Oct 17 07:29:35 2018: Epoch: 0 Step: 12790 Avg Loss: 4.810556411743164
+INFO:tensorflow:Wed Oct 17 07:29:40 2018: Epoch: 0 Step: 12800 Avg Loss: 4.378015995025635
+INFO:tensorflow:Wed Oct 17 07:29:40 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 07:29:49 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 07:29:58 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 07:30:08 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 07:30:17 2018: Epoch: 0 Step: 12800 ppl worse: 1.0285204648971558 old: 1.011589765548706
+INFO:tensorflow:Wed Oct 17 07:30:23 2018: Epoch: 0 Step: 12810 Avg Loss: 4.272624492645264
+INFO:tensorflow:Wed Oct 17 07:30:28 2018: Epoch: 0 Step: 12820 Avg Loss: 4.414540767669678
+INFO:tensorflow:Wed Oct 17 07:30:33 2018: Epoch: 0 Step: 12830 Avg Loss: 4.8471150398254395
+INFO:tensorflow:Wed Oct 17 07:30:38 2018: Epoch: 0 Step: 12840 Avg Loss: 5.320694923400879
+INFO:tensorflow:Wed Oct 17 07:30:43 2018: Epoch: 0 Step: 12850 Avg Loss: 3.9259963035583496
+INFO:tensorflow:Wed Oct 17 07:30:48 2018: Epoch: 0 Step: 12860 Avg Loss: 4.4337615966796875
+INFO:tensorflow:Wed Oct 17 07:30:53 2018: Epoch: 0 Step: 12870 Avg Loss: 4.621189594268799
+INFO:tensorflow:Wed Oct 17 07:30:58 2018: Epoch: 0 Step: 12880 Avg Loss: 4.635525226593018
+INFO:tensorflow:Wed Oct 17 07:31:03 2018: Epoch: 0 Step: 12890 Avg Loss: 4.381400108337402
+INFO:tensorflow:Wed Oct 17 07:31:08 2018: Epoch: 0 Step: 12900 Avg Loss: 3.837956666946411
+INFO:tensorflow:Wed Oct 17 07:31:09 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 07:31:19 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 07:31:28 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 07:31:37 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 07:31:46 2018: Epoch: 0 Step: 12900 ppl worse: 1.0220361948013306 old: 1.011589765548706
+INFO:tensorflow:Wed Oct 17 07:31:52 2018: Epoch: 0 Step: 12910 Avg Loss: 5.290827751159668
+INFO:tensorflow:Wed Oct 17 07:31:57 2018: Epoch: 0 Step: 12920 Avg Loss: 5.236934185028076
+INFO:tensorflow:Wed Oct 17 07:32:01 2018: Epoch: 0 Step: 12930 Avg Loss: 4.665764331817627
+INFO:tensorflow:Wed Oct 17 07:32:06 2018: Epoch: 0 Step: 12940 Avg Loss: 4.233181953430176
+INFO:tensorflow:Wed Oct 17 07:32:11 2018: Epoch: 0 Step: 12950 Avg Loss: 4.9051690101623535
+INFO:tensorflow:Wed Oct 17 07:32:17 2018: Epoch: 0 Step: 12960 Avg Loss: 4.5611066818237305
+INFO:tensorflow:Wed Oct 17 07:32:23 2018: Epoch: 0 Step: 12970 Avg Loss: 4.523371696472168
+INFO:tensorflow:Wed Oct 17 07:32:28 2018: Epoch: 0 Step: 12980 Avg Loss: 4.807467937469482
+INFO:tensorflow:Wed Oct 17 07:32:34 2018: Epoch: 0 Step: 12990 Avg Loss: 4.3032684326171875
+INFO:tensorflow:Wed Oct 17 07:32:40 2018: Epoch: 0 Step: 13000 Avg Loss: 4.960410118103027
+INFO:tensorflow:Wed Oct 17 07:32:40 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 07:32:49 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 07:32:59 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 07:33:08 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 07:33:17 2018: Epoch: 0 Step: 13000 ppl worse: 1.0337255001068115 old: 1.011589765548706
+INFO:tensorflow:Wed Oct 17 07:33:22 2018: Epoch: 0 Step: 13010 Avg Loss: 4.979069232940674
+INFO:tensorflow:Wed Oct 17 07:33:26 2018: Epoch: 0 Step: 13020 Avg Loss: 4.434502601623535
+INFO:tensorflow:Wed Oct 17 07:33:31 2018: Epoch: 0 Step: 13030 Avg Loss: 5.213882923126221
+INFO:tensorflow:Wed Oct 17 07:33:36 2018: Epoch: 0 Step: 13040 Avg Loss: 4.81967830657959
+INFO:tensorflow:Wed Oct 17 07:33:41 2018: Epoch: 0 Step: 13050 Avg Loss: 4.590845584869385
+INFO:tensorflow:Wed Oct 17 07:33:47 2018: Epoch: 0 Step: 13060 Avg Loss: 4.453159809112549
+INFO:tensorflow:Wed Oct 17 07:33:51 2018: Epoch: 0 Step: 13070 Avg Loss: 4.4282331466674805
+INFO:tensorflow:Wed Oct 17 07:33:57 2018: Epoch: 0 Step: 13080 Avg Loss: 3.929513692855835
+INFO:tensorflow:Wed Oct 17 07:34:03 2018: Epoch: 0 Step: 13090 Avg Loss: 4.623410701751709
+INFO:tensorflow:Wed Oct 17 07:34:08 2018: Epoch: 0 Step: 13100 Avg Loss: 4.600730895996094
+INFO:tensorflow:Wed Oct 17 07:34:09 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 07:34:18 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 07:34:27 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 07:34:37 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 07:34:46 2018: Epoch: 0 Step: 13100 ppl worse: 1.0198323726654053 old: 1.011589765548706
+INFO:tensorflow:Wed Oct 17 07:34:51 2018: Epoch: 0 Step: 13110 Avg Loss: 4.411246299743652
+INFO:tensorflow:Wed Oct 17 07:34:57 2018: Epoch: 0 Step: 13120 Avg Loss: 4.862679958343506
+INFO:tensorflow:Wed Oct 17 07:35:02 2018: Epoch: 0 Step: 13130 Avg Loss: 4.357704162597656
+INFO:tensorflow:Wed Oct 17 07:35:07 2018: Epoch: 0 Step: 13140 Avg Loss: 4.120334625244141
+INFO:tensorflow:Wed Oct 17 07:35:12 2018: Epoch: 0 Step: 13150 Avg Loss: 4.340780258178711
+INFO:tensorflow:Wed Oct 17 07:35:17 2018: Epoch: 0 Step: 13160 Avg Loss: 4.910060882568359
+INFO:tensorflow:Wed Oct 17 07:35:23 2018: Epoch: 0 Step: 13170 Avg Loss: 4.580649375915527
+INFO:tensorflow:Wed Oct 17 07:35:28 2018: Epoch: 0 Step: 13180 Avg Loss: 4.92160177230835
+INFO:tensorflow:Wed Oct 17 07:35:34 2018: Epoch: 0 Step: 13190 Avg Loss: 4.346843719482422
+INFO:tensorflow:Wed Oct 17 07:35:38 2018: Epoch: 0 Step: 13200 Avg Loss: 4.474867820739746
+INFO:tensorflow:Wed Oct 17 07:35:39 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 07:35:48 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 07:35:57 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 07:36:06 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 07:36:16 2018: Epoch: 0 Step: 13200 ppl worse: 1.019461989402771 old: 1.011589765548706
+INFO:tensorflow:Wed Oct 17 07:36:21 2018: Epoch: 0 Step: 13210 Avg Loss: 4.643320083618164
+INFO:tensorflow:Wed Oct 17 07:36:27 2018: Epoch: 0 Step: 13220 Avg Loss: 4.507914066314697
+INFO:tensorflow:Wed Oct 17 07:36:33 2018: Epoch: 0 Step: 13230 Avg Loss: 3.758767604827881
+INFO:tensorflow:Wed Oct 17 07:36:38 2018: Epoch: 0 Step: 13240 Avg Loss: 4.233384132385254
+INFO:tensorflow:Wed Oct 17 07:36:43 2018: Epoch: 0 Step: 13250 Avg Loss: 3.769603967666626
+INFO:tensorflow:Wed Oct 17 07:36:49 2018: Epoch: 0 Step: 13260 Avg Loss: 4.676955223083496
+INFO:tensorflow:Wed Oct 17 07:36:54 2018: Epoch: 0 Step: 13270 Avg Loss: 5.3315606117248535
+INFO:tensorflow:Wed Oct 17 07:36:59 2018: Epoch: 0 Step: 13280 Avg Loss: 4.021081924438477
+INFO:tensorflow:Wed Oct 17 07:37:04 2018: Epoch: 0 Step: 13290 Avg Loss: 3.838916301727295
+INFO:tensorflow:Wed Oct 17 07:37:11 2018: Epoch: 0 Step: 13300 Avg Loss: 4.30855131149292
+INFO:tensorflow:Wed Oct 17 07:37:11 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 07:37:20 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 07:37:30 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 07:37:39 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 07:37:48 2018: Epoch: 0 Step: 13300 ppl worse: 1.020570993423462 old: 1.011589765548706
+INFO:tensorflow:Wed Oct 17 07:37:53 2018: Epoch: 0 Step: 13310 Avg Loss: 4.43899393081665
+INFO:tensorflow:Wed Oct 17 07:37:58 2018: Epoch: 0 Step: 13320 Avg Loss: 4.60511589050293
+INFO:tensorflow:Wed Oct 17 07:38:03 2018: Epoch: 0 Step: 13330 Avg Loss: 3.7467498779296875
+INFO:tensorflow:Wed Oct 17 07:38:08 2018: Epoch: 0 Step: 13340 Avg Loss: 4.585326194763184
+INFO:tensorflow:Wed Oct 17 07:38:13 2018: Epoch: 0 Step: 13350 Avg Loss: 3.8436973094940186
+INFO:tensorflow:Wed Oct 17 07:38:18 2018: Epoch: 0 Step: 13360 Avg Loss: 4.564595699310303
+INFO:tensorflow:Wed Oct 17 07:38:24 2018: Epoch: 0 Step: 13370 Avg Loss: 4.716468811035156
+INFO:tensorflow:Wed Oct 17 07:38:30 2018: Epoch: 0 Step: 13380 Avg Loss: 4.09459114074707
+INFO:tensorflow:Wed Oct 17 07:38:35 2018: Epoch: 0 Step: 13390 Avg Loss: 4.176694869995117
+INFO:tensorflow:Wed Oct 17 07:38:42 2018: Epoch: 0 Step: 13400 Avg Loss: 5.419853687286377
+INFO:tensorflow:Wed Oct 17 07:38:43 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 07:38:52 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 07:39:01 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 07:39:11 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 07:39:20 2018: Epoch: 0 Step: 13400 ppl worse: 1.0322952270507812 old: 1.011589765548706
+INFO:tensorflow:Wed Oct 17 07:39:25 2018: Epoch: 0 Step: 13410 Avg Loss: 4.4149932861328125
+INFO:tensorflow:Wed Oct 17 07:39:31 2018: Epoch: 0 Step: 13420 Avg Loss: 4.277799129486084
+INFO:tensorflow:Wed Oct 17 07:39:36 2018: Epoch: 0 Step: 13430 Avg Loss: 4.790028095245361
+INFO:tensorflow:Wed Oct 17 07:39:41 2018: Epoch: 0 Step: 13440 Avg Loss: 4.4581403732299805
+INFO:tensorflow:Wed Oct 17 07:39:46 2018: Epoch: 0 Step: 13450 Avg Loss: 4.438182353973389
+INFO:tensorflow:Wed Oct 17 07:39:53 2018: Epoch: 0 Step: 13460 Avg Loss: 4.360232353210449
+INFO:tensorflow:Wed Oct 17 07:39:58 2018: Epoch: 0 Step: 13470 Avg Loss: 4.928593158721924
+INFO:tensorflow:Wed Oct 17 07:40:03 2018: Epoch: 0 Step: 13480 Avg Loss: 3.6553409099578857
+INFO:tensorflow:Wed Oct 17 07:40:09 2018: Epoch: 0 Step: 13490 Avg Loss: 4.558290958404541
+INFO:tensorflow:Wed Oct 17 07:40:15 2018: Epoch: 0 Step: 13500 Avg Loss: 4.208474636077881
+INFO:tensorflow:Wed Oct 17 07:40:15 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 07:40:25 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 07:40:34 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 07:40:43 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 07:40:52 2018: Epoch: 0 Step: 13500 ppl worse: 1.0217565298080444 old: 1.011589765548706
+INFO:tensorflow:Wed Oct 17 07:40:57 2018: Epoch: 0 Step: 13510 Avg Loss: 4.4454827308654785
+INFO:tensorflow:Wed Oct 17 07:41:02 2018: Epoch: 0 Step: 13520 Avg Loss: 4.2900590896606445
+INFO:tensorflow:Wed Oct 17 07:41:07 2018: Epoch: 0 Step: 13530 Avg Loss: 4.703948020935059
+INFO:tensorflow:Wed Oct 17 07:41:12 2018: Epoch: 0 Step: 13540 Avg Loss: 4.582536697387695
+INFO:tensorflow:Wed Oct 17 07:41:18 2018: Epoch: 0 Step: 13550 Avg Loss: 4.351668834686279
+INFO:tensorflow:Wed Oct 17 07:41:23 2018: Epoch: 0 Step: 13560 Avg Loss: 4.579800128936768
+INFO:tensorflow:Wed Oct 17 07:41:28 2018: Epoch: 0 Step: 13570 Avg Loss: 3.688953161239624
+INFO:tensorflow:Wed Oct 17 07:41:33 2018: Epoch: 0 Step: 13580 Avg Loss: 4.998598575592041
+INFO:tensorflow:Wed Oct 17 07:41:39 2018: Epoch: 0 Step: 13590 Avg Loss: 4.353127956390381
+INFO:tensorflow:Wed Oct 17 07:41:44 2018: Epoch: 0 Step: 13600 Avg Loss: 5.002151966094971
+INFO:tensorflow:Wed Oct 17 07:41:45 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 07:41:53 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 07:42:04 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 07:42:12 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 07:42:22 2018: Epoch: 0 Step: 13600 ppl worse: 1.025673508644104 old: 1.011589765548706
+INFO:tensorflow:Wed Oct 17 07:42:27 2018: Epoch: 0 Step: 13610 Avg Loss: 4.648880958557129
+INFO:tensorflow:Wed Oct 17 07:42:32 2018: Epoch: 0 Step: 13620 Avg Loss: 4.554821491241455
+INFO:tensorflow:Wed Oct 17 07:42:37 2018: Epoch: 0 Step: 13630 Avg Loss: 4.389702320098877
+INFO:tensorflow:Wed Oct 17 07:42:42 2018: Epoch: 0 Step: 13640 Avg Loss: 4.178791046142578
+INFO:tensorflow:Wed Oct 17 07:42:47 2018: Epoch: 0 Step: 13650 Avg Loss: 4.498394012451172
+INFO:tensorflow:Wed Oct 17 07:42:52 2018: Epoch: 0 Step: 13660 Avg Loss: 4.381874084472656
+INFO:tensorflow:Wed Oct 17 07:42:57 2018: Epoch: 0 Step: 13670 Avg Loss: 4.957230091094971
+INFO:tensorflow:Wed Oct 17 07:43:02 2018: Epoch: 0 Step: 13680 Avg Loss: 4.792179107666016
+INFO:tensorflow:Wed Oct 17 07:43:06 2018: Epoch: 0 Step: 13690 Avg Loss: 4.181865692138672
+INFO:tensorflow:Wed Oct 17 07:43:12 2018: Epoch: 0 Step: 13700 Avg Loss: 4.468791961669922
+INFO:tensorflow:Wed Oct 17 07:43:12 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 07:43:21 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 07:43:31 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 07:43:41 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 07:43:49 2018: Epoch: 0 Step: 13700 ppl worse: 1.0224425792694092 old: 1.011589765548706
+INFO:tensorflow:Wed Oct 17 07:43:55 2018: Epoch: 0 Step: 13710 Avg Loss: 4.606273174285889
+INFO:tensorflow:Wed Oct 17 07:43:59 2018: Epoch: 0 Step: 13720 Avg Loss: 4.6787638664245605
+INFO:tensorflow:Wed Oct 17 07:44:04 2018: Epoch: 0 Step: 13730 Avg Loss: 4.077019691467285
+INFO:tensorflow:Wed Oct 17 07:44:09 2018: Epoch: 0 Step: 13740 Avg Loss: 4.0815749168396
+INFO:tensorflow:Wed Oct 17 07:44:15 2018: Epoch: 0 Step: 13750 Avg Loss: 5.037586212158203
+INFO:tensorflow:Wed Oct 17 07:44:20 2018: Epoch: 0 Step: 13760 Avg Loss: 5.176528453826904
+INFO:tensorflow:Wed Oct 17 07:44:25 2018: Epoch: 0 Step: 13770 Avg Loss: 3.913060426712036
+INFO:tensorflow:Wed Oct 17 07:44:30 2018: Epoch: 0 Step: 13780 Avg Loss: 4.8811516761779785
+INFO:tensorflow:Wed Oct 17 07:44:35 2018: Epoch: 0 Step: 13790 Avg Loss: 4.604165077209473
+INFO:tensorflow:Wed Oct 17 07:44:41 2018: Epoch: 0 Step: 13800 Avg Loss: 4.564785957336426
+INFO:tensorflow:Wed Oct 17 07:44:42 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 07:44:51 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 07:45:01 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 07:45:10 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 07:45:19 2018: Epoch: 0 Step: 13800 ppl worse: 1.0149482488632202 old: 1.011589765548706
+INFO:tensorflow:Wed Oct 17 07:45:23 2018: Epoch: 0 Step: 13810 Avg Loss: 3.9878461360931396
+INFO:tensorflow:Wed Oct 17 07:45:28 2018: Epoch: 0 Step: 13820 Avg Loss: 4.536527633666992
+INFO:tensorflow:Wed Oct 17 07:45:33 2018: Epoch: 0 Step: 13830 Avg Loss: 4.972215175628662
+INFO:tensorflow:Wed Oct 17 07:45:38 2018: Epoch: 0 Step: 13840 Avg Loss: 4.535171985626221
+INFO:tensorflow:Wed Oct 17 07:45:43 2018: Epoch: 0 Step: 13850 Avg Loss: 4.749673366546631
+INFO:tensorflow:Wed Oct 17 07:45:49 2018: Epoch: 0 Step: 13860 Avg Loss: 4.427703380584717
+INFO:tensorflow:Wed Oct 17 07:45:54 2018: Epoch: 0 Step: 13870 Avg Loss: 4.703131198883057
+INFO:tensorflow:Wed Oct 17 07:45:59 2018: Epoch: 0 Step: 13880 Avg Loss: 4.3578782081604
+INFO:tensorflow:Wed Oct 17 07:46:05 2018: Epoch: 0 Step: 13890 Avg Loss: 4.091567039489746
+INFO:tensorflow:Wed Oct 17 07:46:09 2018: Epoch: 0 Step: 13900 Avg Loss: 4.3238749504089355
+INFO:tensorflow:Wed Oct 17 07:46:10 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 07:46:19 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 07:46:28 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 07:46:38 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 07:46:47 2018: Epoch: 0 Step: 13900 ppl worse: 1.0278913974761963 old: 1.011589765548706
+INFO:tensorflow:Wed Oct 17 07:46:52 2018: Epoch: 0 Step: 13910 Avg Loss: 4.4764909744262695
+INFO:tensorflow:Wed Oct 17 07:46:59 2018: Epoch: 0 Step: 13920 Avg Loss: 4.433394908905029
+INFO:tensorflow:Wed Oct 17 07:47:03 2018: Epoch: 0 Step: 13930 Avg Loss: 4.603971004486084
+INFO:tensorflow:Wed Oct 17 07:47:09 2018: Epoch: 0 Step: 13940 Avg Loss: 4.290171146392822
+INFO:tensorflow:Wed Oct 17 07:47:15 2018: Epoch: 0 Step: 13950 Avg Loss: 5.116972923278809
+INFO:tensorflow:Wed Oct 17 07:47:20 2018: Epoch: 0 Step: 13960 Avg Loss: 4.422217845916748
+INFO:tensorflow:Wed Oct 17 07:47:26 2018: Epoch: 0 Step: 13970 Avg Loss: 4.466187477111816
+INFO:tensorflow:Wed Oct 17 07:47:33 2018: Epoch: 0 Step: 13980 Avg Loss: 4.930228233337402
+INFO:tensorflow:Wed Oct 17 07:47:38 2018: Epoch: 0 Step: 13990 Avg Loss: 4.528113842010498
+INFO:tensorflow:Wed Oct 17 07:47:43 2018: Epoch: 0 Step: 14000 Avg Loss: 4.281726360321045
+INFO:tensorflow:Wed Oct 17 07:47:43 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 07:47:52 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 07:48:02 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 07:48:11 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 07:48:20 2018: Epoch: 0 Step: 14000 ppl worse: 1.0190281867980957 old: 1.011589765548706
+INFO:tensorflow:Wed Oct 17 07:48:25 2018: Epoch: 0 Step: 14010 Avg Loss: 4.85495662689209
+INFO:tensorflow:Wed Oct 17 07:48:31 2018: Epoch: 0 Step: 14020 Avg Loss: 4.511945724487305
+INFO:tensorflow:Wed Oct 17 07:48:35 2018: Epoch: 0 Step: 14030 Avg Loss: 3.6302542686462402
+INFO:tensorflow:Wed Oct 17 07:48:41 2018: Epoch: 0 Step: 14040 Avg Loss: 4.610995769500732
+INFO:tensorflow:Wed Oct 17 07:48:45 2018: Epoch: 0 Step: 14050 Avg Loss: 4.132217884063721
+INFO:tensorflow:Wed Oct 17 07:48:50 2018: Epoch: 0 Step: 14060 Avg Loss: 4.569580078125
+INFO:tensorflow:Wed Oct 17 07:48:55 2018: Epoch: 0 Step: 14070 Avg Loss: 4.472194194793701
+INFO:tensorflow:Wed Oct 17 07:49:01 2018: Epoch: 0 Step: 14080 Avg Loss: 4.1035637855529785
+INFO:tensorflow:Wed Oct 17 07:49:07 2018: Epoch: 0 Step: 14090 Avg Loss: 4.150038242340088
+INFO:tensorflow:Wed Oct 17 07:49:12 2018: Epoch: 0 Step: 14100 Avg Loss: 4.844213485717773
+INFO:tensorflow:Wed Oct 17 07:49:13 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 07:49:22 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 07:49:31 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 07:49:41 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 07:49:50 2018: Epoch: 0 Step: 14100 ppl worse: 1.0193793773651123 old: 1.011589765548706
+INFO:tensorflow:Wed Oct 17 07:49:55 2018: Epoch: 0 Step: 14110 Avg Loss: 4.681107044219971
+INFO:tensorflow:Wed Oct 17 07:50:01 2018: Epoch: 0 Step: 14120 Avg Loss: 4.924073219299316
+INFO:tensorflow:Wed Oct 17 07:50:05 2018: Epoch: 0 Step: 14130 Avg Loss: 4.509886741638184
+INFO:tensorflow:Wed Oct 17 07:50:10 2018: Epoch: 0 Step: 14140 Avg Loss: 4.6502790451049805
+INFO:tensorflow:Wed Oct 17 07:50:16 2018: Epoch: 0 Step: 14150 Avg Loss: 4.149500846862793
+INFO:tensorflow:Wed Oct 17 07:50:21 2018: Epoch: 0 Step: 14160 Avg Loss: 4.6639628410339355
+INFO:tensorflow:Wed Oct 17 07:50:27 2018: Epoch: 0 Step: 14170 Avg Loss: 4.649541854858398
+INFO:tensorflow:Wed Oct 17 07:50:31 2018: Epoch: 0 Step: 14180 Avg Loss: 5.157078266143799
+INFO:tensorflow:Wed Oct 17 07:50:36 2018: Epoch: 0 Step: 14190 Avg Loss: 4.075218200683594
+INFO:tensorflow:Wed Oct 17 07:50:42 2018: Epoch: 0 Step: 14200 Avg Loss: 4.200909614562988
+INFO:tensorflow:Wed Oct 17 07:50:42 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 07:50:52 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 07:51:01 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 07:51:09 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 07:51:19 2018: Epoch: 0 Step: 14200 ppl worse: 1.0256787538528442 old: 1.011589765548706
+INFO:tensorflow:Wed Oct 17 07:51:24 2018: Epoch: 0 Step: 14210 Avg Loss: 4.735310077667236
+INFO:tensorflow:Wed Oct 17 07:51:30 2018: Epoch: 0 Step: 14220 Avg Loss: 4.325177192687988
+INFO:tensorflow:Wed Oct 17 07:51:35 2018: Epoch: 0 Step: 14230 Avg Loss: 4.4655303955078125
+INFO:tensorflow:Wed Oct 17 07:51:40 2018: Epoch: 0 Step: 14240 Avg Loss: 4.256633281707764
+INFO:tensorflow:Wed Oct 17 07:51:46 2018: Epoch: 0 Step: 14250 Avg Loss: 4.388487815856934
+INFO:tensorflow:Wed Oct 17 07:51:51 2018: Epoch: 0 Step: 14260 Avg Loss: 5.464158535003662
+INFO:tensorflow:Wed Oct 17 07:51:57 2018: Epoch: 0 Step: 14270 Avg Loss: 4.674983978271484
+INFO:tensorflow:Wed Oct 17 07:52:02 2018: Epoch: 0 Step: 14280 Avg Loss: 4.410938262939453
+INFO:tensorflow:Wed Oct 17 07:52:08 2018: Epoch: 0 Step: 14290 Avg Loss: 4.349844455718994
+INFO:tensorflow:Wed Oct 17 07:52:13 2018: Epoch: 0 Step: 14300 Avg Loss: 4.600839138031006
+INFO:tensorflow:Wed Oct 17 07:52:14 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 07:52:23 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 07:52:33 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 07:52:42 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 07:52:51 2018: Epoch: 0 Step: 14300 ppl worse: 1.0189059972763062 old: 1.011589765548706
+INFO:tensorflow:Wed Oct 17 07:52:55 2018: Epoch: 0 Step: 14310 Avg Loss: 4.781701564788818
+INFO:tensorflow:Wed Oct 17 07:53:00 2018: Epoch: 0 Step: 14320 Avg Loss: 4.736912250518799
+INFO:tensorflow:Wed Oct 17 07:53:06 2018: Epoch: 0 Step: 14330 Avg Loss: 4.5339436531066895
+INFO:tensorflow:Wed Oct 17 07:53:11 2018: Epoch: 0 Step: 14340 Avg Loss: 4.784371376037598
+INFO:tensorflow:Wed Oct 17 07:53:16 2018: Epoch: 0 Step: 14350 Avg Loss: 4.035897731781006
+INFO:tensorflow:Wed Oct 17 07:53:21 2018: Epoch: 0 Step: 14360 Avg Loss: 3.9052679538726807
+INFO:tensorflow:Wed Oct 17 07:53:26 2018: Epoch: 0 Step: 14370 Avg Loss: 4.8201189041137695
+INFO:tensorflow:Wed Oct 17 07:53:31 2018: Epoch: 0 Step: 14380 Avg Loss: 4.452539920806885
+INFO:tensorflow:Wed Oct 17 07:53:36 2018: Epoch: 0 Step: 14390 Avg Loss: 3.7402732372283936
+INFO:tensorflow:Wed Oct 17 07:53:42 2018: Epoch: 0 Step: 14400 Avg Loss: 4.560610771179199
+INFO:tensorflow:Wed Oct 17 07:53:43 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 07:53:52 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 07:54:01 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 07:54:10 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 07:54:20 2018: Epoch: 0 Step: 14400 ppl worse: 1.0330389738082886 old: 1.011589765548706
+INFO:tensorflow:Wed Oct 17 07:54:26 2018: Epoch: 0 Step: 14410 Avg Loss: 4.766578674316406
+INFO:tensorflow:Wed Oct 17 07:54:31 2018: Epoch: 0 Step: 14420 Avg Loss: 4.851727485656738
+INFO:tensorflow:Wed Oct 17 07:54:36 2018: Epoch: 0 Step: 14430 Avg Loss: 4.377608299255371
+INFO:tensorflow:Wed Oct 17 07:54:41 2018: Epoch: 0 Step: 14440 Avg Loss: 4.445546627044678
+INFO:tensorflow:Wed Oct 17 07:54:46 2018: Epoch: 0 Step: 14450 Avg Loss: 3.9028313159942627
+INFO:tensorflow:Wed Oct 17 07:54:51 2018: Epoch: 0 Step: 14460 Avg Loss: 3.4819087982177734
+INFO:tensorflow:Wed Oct 17 07:54:56 2018: Epoch: 0 Step: 14470 Avg Loss: 4.349571704864502
+INFO:tensorflow:Wed Oct 17 07:55:01 2018: Epoch: 0 Step: 14480 Avg Loss: 4.647638320922852
+INFO:tensorflow:Wed Oct 17 07:55:07 2018: Epoch: 0 Step: 14490 Avg Loss: 4.638803482055664
+INFO:tensorflow:Wed Oct 17 07:55:12 2018: Epoch: 0 Step: 14500 Avg Loss: 4.33455228805542
+INFO:tensorflow:Wed Oct 17 07:55:12 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 07:55:21 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 07:55:31 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 07:55:40 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 07:55:49 2018: Epoch: 0 Step: 14500 ppl worse: 1.0325647592544556 old: 1.011589765548706
+INFO:tensorflow:Wed Oct 17 07:55:54 2018: Epoch: 0 Step: 14510 Avg Loss: 4.116577625274658
+INFO:tensorflow:Wed Oct 17 07:56:00 2018: Epoch: 0 Step: 14520 Avg Loss: 5.431105613708496
+INFO:tensorflow:Wed Oct 17 07:56:04 2018: Epoch: 0 Step: 14530 Avg Loss: 4.30121374130249
+INFO:tensorflow:Wed Oct 17 07:56:10 2018: Epoch: 0 Step: 14540 Avg Loss: 4.282730579376221
+INFO:tensorflow:Wed Oct 17 07:56:16 2018: Epoch: 0 Step: 14550 Avg Loss: 4.676309585571289
+INFO:tensorflow:Wed Oct 17 07:56:21 2018: Epoch: 0 Step: 14560 Avg Loss: 4.185081958770752
+INFO:tensorflow:Wed Oct 17 07:56:27 2018: Epoch: 0 Step: 14570 Avg Loss: 4.337062835693359
+INFO:tensorflow:Wed Oct 17 07:56:32 2018: Epoch: 0 Step: 14580 Avg Loss: 4.542552471160889
+INFO:tensorflow:Wed Oct 17 07:56:37 2018: Epoch: 0 Step: 14590 Avg Loss: 4.298159122467041
+INFO:tensorflow:Wed Oct 17 07:56:42 2018: Epoch: 0 Step: 14600 Avg Loss: 4.2124176025390625
+INFO:tensorflow:Wed Oct 17 07:56:43 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 07:56:52 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 07:57:01 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 07:57:11 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 07:57:20 2018: Epoch: 0 Step: 14600 ppl worse: 1.016696572303772 old: 1.011589765548706
+INFO:tensorflow:Wed Oct 17 07:57:26 2018: Epoch: 0 Step: 14610 Avg Loss: 4.726330280303955
+INFO:tensorflow:Wed Oct 17 07:57:31 2018: Epoch: 0 Step: 14620 Avg Loss: 4.233402729034424
+INFO:tensorflow:Wed Oct 17 07:57:36 2018: Epoch: 0 Step: 14630 Avg Loss: 4.88445520401001
+INFO:tensorflow:Wed Oct 17 07:57:40 2018: Epoch: 0 Step: 14640 Avg Loss: 3.887194871902466
+INFO:tensorflow:Wed Oct 17 07:57:45 2018: Epoch: 0 Step: 14650 Avg Loss: 4.8682637214660645
+INFO:tensorflow:Wed Oct 17 07:57:51 2018: Epoch: 0 Step: 14660 Avg Loss: 4.70835542678833
+INFO:tensorflow:Wed Oct 17 07:57:57 2018: Epoch: 0 Step: 14670 Avg Loss: 4.392879009246826
+INFO:tensorflow:Wed Oct 17 07:58:01 2018: Epoch: 0 Step: 14680 Avg Loss: 4.157629489898682
+INFO:tensorflow:Wed Oct 17 07:58:07 2018: Epoch: 0 Step: 14690 Avg Loss: 4.770426273345947
+INFO:tensorflow:Wed Oct 17 07:58:11 2018: Epoch: 0 Step: 14700 Avg Loss: 4.35274076461792
+INFO:tensorflow:Wed Oct 17 07:58:12 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 07:58:21 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 07:58:31 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 07:58:39 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 07:58:49 2018: Epoch: 0 Step: 14700 ppl worse: 1.0248852968215942 old: 1.011589765548706
+INFO:tensorflow:Wed Oct 17 07:58:54 2018: Epoch: 0 Step: 14710 Avg Loss: 4.028371334075928
+INFO:tensorflow:Wed Oct 17 07:58:59 2018: Epoch: 0 Step: 14720 Avg Loss: 4.616373062133789
+INFO:tensorflow:Wed Oct 17 07:59:04 2018: Epoch: 0 Step: 14730 Avg Loss: 4.651357650756836
+INFO:tensorflow:Wed Oct 17 07:59:09 2018: Epoch: 0 Step: 14740 Avg Loss: 4.684032440185547
+INFO:tensorflow:Wed Oct 17 07:59:14 2018: Epoch: 0 Step: 14750 Avg Loss: 4.9723992347717285
+INFO:tensorflow:Wed Oct 17 07:59:19 2018: Epoch: 0 Step: 14760 Avg Loss: 4.438107013702393
+INFO:tensorflow:Wed Oct 17 07:59:25 2018: Epoch: 0 Step: 14770 Avg Loss: 4.668234825134277
+INFO:tensorflow:Wed Oct 17 07:59:30 2018: Epoch: 0 Step: 14780 Avg Loss: 4.104463577270508
+INFO:tensorflow:Wed Oct 17 07:59:35 2018: Epoch: 0 Step: 14790 Avg Loss: 4.84244441986084
+INFO:tensorflow:Wed Oct 17 07:59:40 2018: Epoch: 0 Step: 14800 Avg Loss: 4.159989356994629
+INFO:tensorflow:Wed Oct 17 07:59:40 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 07:59:50 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 07:59:59 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 08:00:09 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 08:00:17 2018: Epoch: 0 Step: 14800 ppl worse: 1.0226060152053833 old: 1.011589765548706
+INFO:tensorflow:Wed Oct 17 08:00:22 2018: Epoch: 0 Step: 14810 Avg Loss: 4.588146209716797
+INFO:tensorflow:Wed Oct 17 08:00:28 2018: Epoch: 0 Step: 14820 Avg Loss: 4.694887638092041
+INFO:tensorflow:Wed Oct 17 08:00:33 2018: Epoch: 0 Step: 14830 Avg Loss: 4.6616363525390625
+INFO:tensorflow:Wed Oct 17 08:00:38 2018: Epoch: 0 Step: 14840 Avg Loss: 4.379278659820557
+INFO:tensorflow:Wed Oct 17 08:00:43 2018: Epoch: 0 Step: 14850 Avg Loss: 4.325630187988281
+INFO:tensorflow:Wed Oct 17 08:00:49 2018: Epoch: 0 Step: 14860 Avg Loss: 4.647375583648682
+INFO:tensorflow:Wed Oct 17 08:00:54 2018: Epoch: 0 Step: 14870 Avg Loss: 4.7791972160339355
+INFO:tensorflow:Wed Oct 17 08:00:59 2018: Epoch: 0 Step: 14880 Avg Loss: 4.644714832305908
+INFO:tensorflow:Wed Oct 17 08:01:05 2018: Epoch: 0 Step: 14890 Avg Loss: 4.928083419799805
+INFO:tensorflow:Wed Oct 17 08:01:09 2018: Epoch: 0 Step: 14900 Avg Loss: 4.175006866455078
+INFO:tensorflow:Wed Oct 17 08:01:10 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 08:01:19 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 08:01:28 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 08:01:38 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 08:01:47 2018: Epoch: 0 Step: 14900 ppl worse: 1.0175647735595703 old: 1.011589765548706
+INFO:tensorflow:Wed Oct 17 08:01:52 2018: Epoch: 0 Step: 14910 Avg Loss: 4.597000598907471
+INFO:tensorflow:Wed Oct 17 08:01:57 2018: Epoch: 0 Step: 14920 Avg Loss: 4.342922210693359
+INFO:tensorflow:Wed Oct 17 08:02:02 2018: Epoch: 0 Step: 14930 Avg Loss: 4.693912029266357
+INFO:tensorflow:Wed Oct 17 08:02:08 2018: Epoch: 0 Step: 14940 Avg Loss: 4.486429691314697
+INFO:tensorflow:Wed Oct 17 08:02:13 2018: Epoch: 0 Step: 14950 Avg Loss: 4.439508438110352
+INFO:tensorflow:Wed Oct 17 08:02:18 2018: Epoch: 0 Step: 14960 Avg Loss: 4.508428573608398
+INFO:tensorflow:Wed Oct 17 08:02:23 2018: Epoch: 0 Step: 14970 Avg Loss: 4.543877601623535
+INFO:tensorflow:Wed Oct 17 08:02:28 2018: Epoch: 0 Step: 14980 Avg Loss: 4.776113033294678
+INFO:tensorflow:Wed Oct 17 08:02:33 2018: Epoch: 0 Step: 14990 Avg Loss: 4.676446437835693
+INFO:tensorflow:Wed Oct 17 08:02:38 2018: Epoch: 0 Step: 15000 Avg Loss: 4.826449394226074
+INFO:tensorflow:Wed Oct 17 08:02:39 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 08:02:48 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 08:02:58 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 08:03:07 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 08:03:16 2018: Epoch: 0 Step: 15000 ppl worse: 1.0192897319793701 old: 1.011589765548706
+INFO:tensorflow:Wed Oct 17 08:03:21 2018: Epoch: 0 Step: 15010 Avg Loss: 4.540041446685791
+INFO:tensorflow:Wed Oct 17 08:03:27 2018: Epoch: 0 Step: 15020 Avg Loss: 5.153173923492432
+INFO:tensorflow:Wed Oct 17 08:03:32 2018: Epoch: 0 Step: 15030 Avg Loss: 4.067147254943848
+INFO:tensorflow:Wed Oct 17 08:03:37 2018: Epoch: 0 Step: 15040 Avg Loss: 4.330645561218262
+INFO:tensorflow:Wed Oct 17 08:03:42 2018: Epoch: 0 Step: 15050 Avg Loss: 4.168684005737305
+INFO:tensorflow:Wed Oct 17 08:03:47 2018: Epoch: 0 Step: 15060 Avg Loss: 4.967635631561279
+INFO:tensorflow:Wed Oct 17 08:03:53 2018: Epoch: 0 Step: 15070 Avg Loss: 4.674985408782959
+INFO:tensorflow:Wed Oct 17 08:04:00 2018: Epoch: 0 Step: 15080 Avg Loss: 4.596339702606201
+INFO:tensorflow:Wed Oct 17 08:04:05 2018: Epoch: 0 Step: 15090 Avg Loss: 4.325776100158691
+INFO:tensorflow:Wed Oct 17 08:04:10 2018: Epoch: 0 Step: 15100 Avg Loss: 4.558100700378418
+INFO:tensorflow:Wed Oct 17 08:04:10 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 08:04:20 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 08:04:29 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 08:04:38 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 08:04:47 2018: Epoch: 0 Step: 15100 ppl worse: 1.0208293199539185 old: 1.011589765548706
+INFO:tensorflow:Wed Oct 17 08:04:53 2018: Epoch: 0 Step: 15110 Avg Loss: 4.9983439445495605
+INFO:tensorflow:Wed Oct 17 08:04:58 2018: Epoch: 0 Step: 15120 Avg Loss: 4.430171012878418
+INFO:tensorflow:Wed Oct 17 08:05:04 2018: Epoch: 0 Step: 15130 Avg Loss: 4.244447231292725
+INFO:tensorflow:Wed Oct 17 08:05:09 2018: Epoch: 0 Step: 15140 Avg Loss: 4.028350830078125
+INFO:tensorflow:Wed Oct 17 08:05:15 2018: Epoch: 0 Step: 15150 Avg Loss: 4.183788776397705
+INFO:tensorflow:Wed Oct 17 08:05:21 2018: Epoch: 0 Step: 15160 Avg Loss: 5.0538740158081055
+INFO:tensorflow:Wed Oct 17 08:05:27 2018: Epoch: 0 Step: 15170 Avg Loss: 4.470829010009766
+INFO:tensorflow:Wed Oct 17 08:05:32 2018: Epoch: 0 Step: 15180 Avg Loss: 4.55424690246582
+INFO:tensorflow:Wed Oct 17 08:05:37 2018: Epoch: 0 Step: 15190 Avg Loss: 4.167599678039551
+INFO:tensorflow:Wed Oct 17 08:05:42 2018: Epoch: 0 Step: 15200 Avg Loss: 4.155108451843262
+INFO:tensorflow:Wed Oct 17 08:05:42 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 08:05:52 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 08:06:01 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 08:06:11 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 08:06:19 2018: Epoch: 0 Step: 15200 ppl worse: 1.0223777294158936 old: 1.011589765548706
+INFO:tensorflow:Wed Oct 17 08:06:25 2018: Epoch: 0 Step: 15210 Avg Loss: 4.234414577484131
+INFO:tensorflow:Wed Oct 17 08:06:30 2018: Epoch: 0 Step: 15220 Avg Loss: 4.147680282592773
+INFO:tensorflow:Wed Oct 17 08:06:35 2018: Epoch: 0 Step: 15230 Avg Loss: 4.785201549530029
+INFO:tensorflow:Wed Oct 17 08:06:41 2018: Epoch: 0 Step: 15240 Avg Loss: 4.282090187072754
+INFO:tensorflow:Wed Oct 17 08:06:46 2018: Epoch: 0 Step: 15250 Avg Loss: 3.710237503051758
+INFO:tensorflow:Wed Oct 17 08:06:51 2018: Epoch: 0 Step: 15260 Avg Loss: 3.827662706375122
+INFO:tensorflow:Wed Oct 17 08:06:56 2018: Epoch: 0 Step: 15270 Avg Loss: 4.480658054351807
+INFO:tensorflow:Wed Oct 17 08:07:02 2018: Epoch: 0 Step: 15280 Avg Loss: 4.4245219230651855
+INFO:tensorflow:Wed Oct 17 08:07:08 2018: Epoch: 0 Step: 15290 Avg Loss: 4.812282562255859
+INFO:tensorflow:Wed Oct 17 08:07:13 2018: Epoch: 0 Step: 15300 Avg Loss: 5.172618865966797
+INFO:tensorflow:Wed Oct 17 08:07:14 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 08:07:23 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 08:07:32 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 08:07:41 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 08:07:51 2018: Epoch: 0 Step: 15300 ppl worse: 1.0247507095336914 old: 1.011589765548706
+INFO:tensorflow:Wed Oct 17 08:07:56 2018: Epoch: 0 Step: 15310 Avg Loss: 4.57251501083374
+INFO:tensorflow:Wed Oct 17 08:08:02 2018: Epoch: 0 Step: 15320 Avg Loss: 4.74993896484375
+INFO:tensorflow:Wed Oct 17 08:08:07 2018: Epoch: 0 Step: 15330 Avg Loss: 4.777553081512451
+INFO:tensorflow:Wed Oct 17 08:08:12 2018: Epoch: 0 Step: 15340 Avg Loss: 4.891165733337402
+INFO:tensorflow:Wed Oct 17 08:08:19 2018: Epoch: 0 Step: 15350 Avg Loss: 5.0931925773620605
+INFO:tensorflow:Wed Oct 17 08:08:24 2018: Epoch: 0 Step: 15360 Avg Loss: 4.447024345397949
+INFO:tensorflow:Wed Oct 17 08:08:29 2018: Epoch: 0 Step: 15370 Avg Loss: 4.2271904945373535
+INFO:tensorflow:Wed Oct 17 08:08:35 2018: Epoch: 0 Step: 15380 Avg Loss: 4.76997184753418
+INFO:tensorflow:Wed Oct 17 08:08:40 2018: Epoch: 0 Step: 15390 Avg Loss: 4.209062099456787
+INFO:tensorflow:Wed Oct 17 08:08:46 2018: Epoch: 0 Step: 15400 Avg Loss: 4.142509937286377
+INFO:tensorflow:Wed Oct 17 08:08:47 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 08:08:57 2018: ppl Done batch: 50
+INFO:tensorflow:Wed Oct 17 08:09:06 2018: ppl Done batch: 100
+INFO:tensorflow:Wed Oct 17 08:09:15 2018: ppl Done batch: 150
+INFO:tensorflow:Wed Oct 17 08:09:24 2018: Epoch: 0 Step: 15400 ppl worse: 1.0267934799194336 old: 1.011589765548706
+INFO:tensorflow:Wed Oct 17 08:09:29 2018: Epoch: 0 Step: 15410 Avg Loss: 4.257752418518066
+INFO:tensorflow:Wed Oct 17 08:09:33 2018: Epoch: 0 Step: 15420 Avg Loss: 4.297468662261963
+INFO:tensorflow:Wed Oct 17 08:09:39 2018: Epoch: 0 Step: 15430 Avg Loss: 4.3876566886901855
+INFO:tensorflow:Wed Oct 17 08:09:44 2018: Epoch: 0 Step: 15440 Avg Loss: 4.529608249664307
+INFO:tensorflow:Wed Oct 17 08:09:50 2018: Epoch: 0 Step: 15450 Avg Loss: 4.115269184112549
+INFO:tensorflow:Wed Oct 17 08:09:55 2018: Epoch: 0 Step: 15460 Avg Loss: 3.869427442550659
+INFO:tensorflow:Wed Oct 17 08:10:00 2018: Epoch: 0 Step: 15470 Avg Loss: 4.558364391326904
+INFO:tensorflow:Wed Oct 17 08:10:05 2018: Epoch: 0 Step: 15480 Avg Loss: 4.990126609802246
+INFO:tensorflow:Wed Oct 17 08:10:11 2018: Epoch: 0 Step: 15490 Avg Loss: 4.163038730621338
+INFO:tensorflow:Wed Oct 17 08:10:16 2018: Epoch: 0 Step: 15500 Avg Loss: 4.650357246398926
+INFO:tensorflow:Wed Oct 17 08:10:16 2018: ppl Done batch: 0
+INFO:tensorflow:Wed Oct 17 08:10:26 2018: ppl Done batch: 50
